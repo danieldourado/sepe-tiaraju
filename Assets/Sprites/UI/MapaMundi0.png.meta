@@ -1,0 +1,392 @@
+fileFormatVersion: 2
+guid: 5963b74cf26340e4394c8c3896ad4de5
+timeCreated: 1461692717
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CAMINHO_01
+    21300002: CAMINHO_02
+    21300004: CAMINHO_03
+    21300006: CAMINHO_04
+    21300008: CAMINHO_05
+    21300010: CAMINHO_06
+    21300012: CAMINHO_07
+    21300014: CAMINHO_08
+    21300016: CAMINHO_09
+    21300018: CAMINHO_10
+    21300020: CAMINHO_11
+    21300022: CAMINHO_12
+    21300024: CAMINHO_13
+    21300026: CAMINHO_14
+    21300028: TELA_03_CONQUISTAS
+    21300030: TELA_03_ENCICLOPEDIA
+    21300032: TELA_03_ESTRELAS_TOTAL
+    21300034: TELA_03_ESTRELA_PEQUENA
+    21300036: TELA_03_EVOLUCAO
+    21300038: TELA_03_HEROI
+    21300040: TELA_03_MAPAMUNDI_MOCKUP
+    21300042: TELA_03_MAPA_MUNDI
+    21300044: "TELA_03_MARCA\uFFFD\uFFFDO_MAPA"
+    21300046: TELA_03_MUSICAS
+    21300048: TELA_03_SLOT_ESTRELA-1
+    21300050: TELA_03_SLOT_ESTRELA-2
+    21300052: TELA_03_SLOT_ESTRELA
+    21300054: TELA_03_SOM
+    21300056: TELA_03_VOLTAR
+    21300058: TELA_03_X_MUSICAS
+    21300060: TELA_03_X_SOM
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: CAMINHO_01
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 10
+        width: 194
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAMINHO_02
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 46
+        width: 50
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAMINHO_03
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 42
+        width: 135
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAMINHO_04
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 101
+        width: 157
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAMINHO_05
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 8
+        width: 149
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAMINHO_06
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 44
+        width: 132
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAMINHO_07
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 60
+        width: 25
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAMINHO_08
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 105
+        width: 99
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAMINHO_09
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 28
+        width: 118
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAMINHO_10
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 64
+        width: 51
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAMINHO_11
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 11
+        width: 126
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAMINHO_12
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 17
+        width: 115
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAMINHO_13
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 104
+        width: 75
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAMINHO_14
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 24
+        width: 148
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TELA_03_CONQUISTAS
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 647
+        width: 219
+        height: 185
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TELA_03_ENCICLOPEDIA
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 823
+        width: 219
+        height: 199
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TELA_03_ESTRELAS_TOTAL
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 82
+        width: 207
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TELA_03_ESTRELA_PEQUENA
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 4
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TELA_03_EVOLUCAO
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 636
+        width: 219
+        height: 185
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TELA_03_HEROI
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 834
+        width: 219
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TELA_03_MAPA_MUNDI
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 158
+        width: 1536
+        height: 864
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "TELA_03_MARCA\uFFFD\uFFFDO_MAPA"
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 21
+        width: 96
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TELA_03_MUSICAS
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 81
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TELA_03_SLOT_ESTRELA-1
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 53
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TELA_03_SLOT_ESTRELA-2
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 16
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TELA_03_SLOT_ESTRELA
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 16
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TELA_03_SOM
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 19
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TELA_03_VOLTAR
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 41
+        width: 258
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TELA_03_X_MUSICAS
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 52
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TELA_03_X_SOM
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 52
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1259 @@
+fileFormatVersion: 2
+guid: bc750c24af38ca1429b9f0127325821e
+timeCreated: 1461181737
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BOX_BASE_01
+    21300002: BOX_BASE_02
+    21300004: BOX_BASE_03
+    21300006: BOX_BASE_LARGE_TORRES
+    21300008: BOX_ICONE_INIMIGOS_BASE
+    21300010: BOX_ICONE_TORRES
+    21300012: BOX_LARGE_INIMIGOS
+    21300014: BOX_LARGE_TORRES
+    21300016: CADEADO_ICON copy
+    21300018: CADEADO_ICON
+    21300020: CADEADO_ICONE_TORRES
+    21300022: CADEADO_LARGE
+    21300024: CADEADO_LARGE_TORRES
+    21300026: ENCICLOPEDIA_BOTAO_DICAS
+    21300028: ENCICLOPEDIA_BOTAO_INIMIGOS
+    21300030: ENCICLOPEDIA_BOTAO_TORRES
+    21300032: ENCICLOPEDIA_BOTAO_X
+    21300034: ENCICLOPEDIA_TEXTO_DICAS
+    21300036: ENCICLOPEDIA_TEXTO_INIMIGOS
+    21300038: ENCICLOPEDIA_TEXTO_TORRES
+    21300040: ENCICLOPEDIA_TITULO_ENC
+    21300042: INIMIGOS_ICON_01
+    21300044: INIMIGOS_ICON_02
+    21300046: INIMIGOS_ICON_03
+    21300048: INIMIGOS_ICON_04
+    21300050: INIMIGOS_ICON_05
+    21300052: INIMIGOS_ICON_06
+    21300054: INIMIGOS_ICON_07
+    21300056: INIMIGOS_ICON_08
+    21300058: INIMIGOS_ICON_09
+    21300060: INIMIGOS_ICON_10
+    21300062: INIMIGOS_ICON_11
+    21300064: INIMIGOS_ICON_12
+    21300066: INIMIGOS_ICON_13
+    21300068: INIMIGOS_ICON_14
+    21300070: INIMIGOS_ICON_15
+    21300072: INIMIGOS_ICON_16
+    21300074: INIMIGOS_ICON_17
+    21300076: INIMIGOS_ICON_18
+    21300078: INIMIGOS_ICON_19
+    21300080: INIMIGOS_ICON_20
+    21300082: INIMIGOS_ICON_21
+    21300084: INIMIGOS_ICON_22
+    21300086: INIMIGOS_ICON_23
+    21300088: INIMIGOS_ICON_24
+    21300090: INIMIGOS_ICON_25
+    21300092: INIMIGOS_ICON_26
+    21300094: INIMIGOS_ICON_27
+    21300096: INIMIGOS_ICON_28
+    21300098: INIMIGOS_ICON_29
+    21300100: INIMIGOS_ICON_30
+    21300102: INIMIGOS_LARGE_01
+    21300104: INIMIGOS_LARGE_02
+    21300106: INIMIGOS_LARGE_03
+    21300108: INIMIGOS_LARGE_04
+    21300110: INIMIGOS_LARGE_05
+    21300112: INIMIGOS_LARGE_06
+    21300114: INIMIGOS_LARGE_07
+    21300116: INIMIGOS_LARGE_08
+    21300118: INIMIGOS_LARGE_09
+    21300120: INIMIGOS_LARGE_10
+    21300122: INIMIGOS_LARGE_11
+    21300124: INIMIGOS_LARGE_12
+    21300126: INIMIGOS_LARGE_13
+    21300128: INIMIGOS_LARGE_14
+    21300130: INIMIGOS_LARGE_15
+    21300132: INIMIGOS_LARGE_16
+    21300134: INIMIGOS_LARGE_17
+    21300136: INIMIGOS_LARGE_18
+    21300138: INIMIGOS_LARGE_19
+    21300140: INIMIGOS_LARGE_20
+    21300142: INIMIGOS_LARGE_21
+    21300144: INIMIGOS_LARGE_22
+    21300146: INIMIGOS_LARGE_23
+    21300148: INIMIGOS_LARGE_24
+    21300150: INIMIGOS_LARGE_25
+    21300152: INIMIGOS_LARGE_26
+    21300154: INIMIGOS_LARGE_27
+    21300156: INIMIGOS_LARGE_28
+    21300158: INIMIGOS_LARGE_29
+    21300160: INIMIGOS_LARGE_30
+    21300162: INIMIGOS_NOME
+    21300164: TORRES
+    21300166: TORRE_ARQUEIROS_ICONE_01
+    21300168: TORRE_ARQUEIROS_ICONE_02
+    21300170: TORRE_ARQUEIROS_ICONE_03
+    21300172: TORRE_ARQUEIROS_ICONE_04
+    21300174: TORRE_ARQUEIROS_LARGE_01
+    21300176: TORRE_ARQUEIROS_LARGE_02
+    21300178: TORRE_ARQUEIROS_LARGE_03
+    21300180: TORRE_ARQUEIROS_LARGE_04
+    21300182: TORRE_CAVALARIA_ICONES_01
+    21300184: TORRE_CAVALARIA_ICONE_02
+    21300186: TORRE_CAVALARIA_ICONE_03
+    21300188: TORRE_CAVALARIA_ICONE_04
+    21300190: TORRE_CAVALARIA_LARGE_01
+    21300192: TORRE_CAVALARIA_LARGE_02
+    21300194: TORRE_CAVALARIA_LARGE_03
+    21300196: TORRE_CAVALARIA_LARGE_04
+    21300198: TORRE_GUERREIROS_ICONES_01
+    21300200: TORRE_GUERREIROS_ICONES_02
+    21300202: TORRE_GUERREIROS_ICONES_03
+    21300204: TORRE_GUERREIROS_ICONES_04
+    21300206: TORRE_GUERREIRO_LARGE_01
+    21300208: TORRE_GUERREIRO_LARGE_02
+    21300210: TORRE_GUERREIRO_LARGE_03
+    21300212: TORRE_GUERREIRO_LARGE_04
+    21300214: TORRE_JESUITA_ICONES_01
+    21300216: TORRE_JESUITA_ICONES_02
+    21300218: TORRE_JESUITA_ICONES_03
+    21300220: TORRE_JESUITA_ICONES_04
+    21300222: TORRE_JESUITA_LARGE_01
+    21300224: TORRE_JESUITA_LARGE_02
+    21300226: TORRE_JESUITA_LARGE_03
+    21300228: TORRE_JESUITA_LARGE_04
+    21300230: TORRE_XAMA_ICONE_01
+    21300232: TORRE_XAMA_ICONE_02
+    21300234: TORRE_XAMA_ICONE_03
+    21300236: TORRE_XAMA_ICONE_04
+    21300238: TORRE_XAMA_LARGE_01
+    21300240: TORRE_XAMA_LARGE_02
+    21300242: TORRE_XAMA_LARGE_03
+    21300244: TORRE_XAMA_LARGE_04
+    21300246: TORRE_CAVALARIA_ICONE_01
+    21300248: TORRE_XAMA_ICONES_01
+    21300250: TORRE_XAMA_ICONES_02
+    21300252: TORRE_XAMA_ICONES_03
+    21300254: TORRE_XAMA_ICONES_04
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: CADEADO_ICONE_TORRES
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1080
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CADEADO_LARGE_TORRES
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 19
+        width: 336
+        height: 336
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_ICON_01
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1098
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_ICON_02
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1098
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_ICON_03
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 231
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_ICON_04
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 231
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_ICON_05
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 105
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_ICON_06
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1098
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_ICON_07
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 972
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_ICON_08
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 231
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_ICON_09
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 846
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_ICON_10
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 720
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_ICON_11
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 720
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_ICON_12
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 720
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_ICON_13
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 720
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_ICON_14
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 105
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_ICON_15
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 231
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_ICON_16
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 105
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_ICON_17
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 231
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_ICON_18
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 594
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_ICON_19
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 105
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_ICON_20
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 468
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_ICON_21
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 342
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_ICON_22
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 468
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_ICON_23
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 216
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_ICON_24
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 342
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_ICON_25
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 90
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_ICON_26
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 590
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_ICON_27
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 590
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_ICON_28
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 464
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_ICON_29
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 464
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_ICON_30
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 338
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_LARGE_01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3737
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_LARGE_02
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 3737
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_LARGE_03
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3737
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_LARGE_04
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 3737
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_LARGE_05
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 3737
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_LARGE_06
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3378
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_LARGE_07
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 3378
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_LARGE_08
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3378
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_LARGE_09
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 3378
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_LARGE_10
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 3378
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_LARGE_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3019
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_LARGE_12
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 3019
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_LARGE_13
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3019
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_LARGE_14
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 3019
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_LARGE_15
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 3019
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_LARGE_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2660
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_LARGE_17
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 2660
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_LARGE_18
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2660
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_LARGE_19
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 2660
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_LARGE_20
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 2660
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_LARGE_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2301
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_LARGE_22
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 2301
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_LARGE_23
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2301
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_LARGE_24
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 2301
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_LARGE_25
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 2301
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_LARGE_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1942
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_LARGE_27
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1942
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_LARGE_28
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1942
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_LARGE_29
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1942
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_LARGE_30
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1942
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_ARQUEIROS_ICONE_01
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 3937
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_ARQUEIROS_ICONE_02
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 3778
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_ARQUEIROS_ICONE_03
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 3619
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_ARQUEIROS_ICONE_04
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 3460
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_ARQUEIROS_LARGE_01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1583
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_ARQUEIROS_LARGE_02
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1583
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_ARQUEIROS_LARGE_03
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1583
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_ARQUEIROS_LARGE_04
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1583
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_CAVALARIA_ICONES_01
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1080
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_CAVALARIA_ICONE_01
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 3301
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_CAVALARIA_ICONE_02
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 3142
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_CAVALARIA_ICONE_03
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 2983
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_CAVALARIA_ICONE_04
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 2824
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_CAVALARIA_LARGE_01
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1583
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_CAVALARIA_LARGE_02
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1193
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_CAVALARIA_LARGE_03
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 834
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_CAVALARIA_LARGE_04
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 475
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_GUERREIROS_ICONES_01
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 2665
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_GUERREIROS_ICONES_02
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 2506
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_GUERREIROS_ICONES_03
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 2347
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_GUERREIROS_ICONES_04
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 2188
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_GUERREIRO_LARGE_01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 116
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_GUERREIRO_LARGE_02
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1224
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_GUERREIRO_LARGE_03
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1224
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_GUERREIRO_LARGE_04
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1224
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_JESUITA_ICONES_01
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1080
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_JESUITA_ICONES_02
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 54
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_JESUITA_ICONES_03
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 54
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_JESUITA_ICONES_04
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1080
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_JESUITA_LARGE_01
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1224
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_JESUITA_LARGE_02
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 716
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_JESUITA_LARGE_03
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 357
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_JESUITA_LARGE_04
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 716
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_XAMA_ICONES_01
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 2029
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_XAMA_ICONES_02
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 1870
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_XAMA_ICONES_03
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 1711
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_XAMA_ICONES_04
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 1552
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_XAMA_ICONE_01
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 1393
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_XAMA_ICONE_02
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 1234
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_XAMA_ICONE_03
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 1075
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_XAMA_ICONE_04
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 198
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_XAMA_LARGE_01
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 357
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_XAMA_LARGE_02
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 865
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_XAMA_LARGE_03
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 716
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_XAMA_LARGE_04
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 357
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,306 @@
+fileFormatVersion: 2
+guid: 3c2c4189e2433fd418cc61e3550c72e6
+timeCreated: 1462078492
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DICAS
+    21300002: DICA_01
+    21300004: DICA_02
+    21300006: DICA_03
+    21300008: DICA_04
+    21300010: DICA_05
+    21300012: DICA_06
+    21300014: DICA_07
+    21300016: DICA_08
+    21300018: ENCICLOPEDIA_BOTAO_DICAS
+    21300020: ENCICLOPEDIA_BOTAO_INIMIGOS
+    21300022: ENCICLOPEDIA_BOTAO_TORRES
+    21300024: ENCICLOPEDIA_BOTAO_X
+    21300026: ENCICLOPEDIA_TEXTO_DICAS
+    21300028: ENCICLOPEDIA_TEXTO_INIMIGOS
+    21300030: ENCICLOPEDIA_TEXTO_TORRES
+    21300032: ENCICLOPEDIA_TITULO_ENC
+    21300034: Layer 532 copy
+    21300036: Layer 532
+    21300038: CONSTRUA
+    21300040: Construa sua torre
+    21300042: Evolua suas torres
+    21300044: Venda suas torres copy
+    21300046: INIMIGOS_NOME
+    21300048: TORRES
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: CONSTRUA
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 2862
+        width: 333
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Construa sua torre
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3573
+        width: 1235
+        height: 521
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DICAS
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 3403
+        width: 614
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DICA_01
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1926
+        width: 947
+        height: 611
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DICA_02
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1313
+        width: 947
+        height: 611
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DICA_03
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1310
+        width: 947
+        height: 611
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DICA_04
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 700
+        width: 947
+        height: 611
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DICA_05
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 700
+        width: 947
+        height: 611
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DICA_06
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 697
+        width: 947
+        height: 611
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DICA_07
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1923
+        width: 947
+        height: 614
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DICA_08
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 84
+        width: 947
+        height: 611
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENCICLOPEDIA_BOTAO_DICAS
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 3015
+        width: 396
+        height: 386
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENCICLOPEDIA_BOTAO_INIMIGOS
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 3032
+        width: 369
+        height: 369
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENCICLOPEDIA_BOTAO_TORRES
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 2661
+        width: 369
+        height: 369
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENCICLOPEDIA_TEXTO_DICAS
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 3515
+        width: 186
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENCICLOPEDIA_TEXTO_INIMIGOS
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 2806
+        width: 291
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENCICLOPEDIA_TEXTO_TORRES
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 2750
+        width: 249
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENCICLOPEDIA_TITULO_ENC
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 3921
+        width: 641
+        height: 173
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Evolua suas torres
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3053
+        width: 1217
+        height: 518
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INIMIGOS_NOME
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 3746
+        width: 641
+        height: 173
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRES
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 3571
+        width: 641
+        height: 173
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Venda suas torres copy
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2539
+        width: 1216
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

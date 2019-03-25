@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: d57daf56b76f39d4987faab91326f1ea
+timeCreated: 1460147109
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: INIMIGO_INFANTARIA_00001
+    21300002: INIMIGO_INFANTARIA_00002
+    21300004: INIMIGO_INFANTARIA_00003
+    21300006: INIMIGO_INFANTARIA_00004
+    21300008: INIMIGO_INFANTARIA_00005
+    21300010: INIMIGO_INFANTARIA_00006
+    21300012: INIMIGO_INFANTARIA_00007
+    21300014: INIMIGO_INFANTARIA_00008
+    21300016: INIMIGO_INFANTARIA_00009
+    21300018: INIMIGO_INFANTARIA_00010
+    21300020: INIMIGO_INFANTARIA_00011
+    21300022: INIMIGO_INFANTARIA_00012
+    21300024: INIMIGO_INFANTARIA_00013
+    21300026: INIMIGO_INFANTARIA_00014
+    21300028: INIMIGO_INFANTARIA_00015
+    21300030: INIMIGO_INFANTARIA_00016
+    21300032: INIMIGO_INFANTARIA_00017
+    21300034: INIMIGO_INFANTARIA_00018
+    21300036: INIMIGO_INFANTARIA_00019
+    21300038: INIMIGO_INFANTARIA_00020
+    21300040: INIMIGO_INFANTARIA_00021
+    21300042: INIMIGO_INFANTARIA_00022
+    21300044: INIMIGO_INFANTARIA_00023
+    21300046: INIMIGO_INFANTARIA_00024
+    21300048: INIMIGO_INFANTARIA_00025
+    21300050: INIMIGO_INFANTARIA_00026
+    21300052: INIMIGO_INFANTARIA_00027
+    21300054: INIMIGO_INFANTARIA_00028
+    21300056: INIMIGO_INFANTARIA_00029
+    21300058: INIMIGO_INFANTARIA_00030
+    21300060: INIMIGO_INFANTARIA_00031
+    21300062: INIMIGO_INFANTARIA_00032
+    21300064: INIMIGO_INFANTARIA_00033
+    21300066: INIMIGO_INFANTARIA_00034
+    21300068: INIMIGO_INFANTARIA_00035
+    21300070: INIMIGO_INFANTARIA_00036
+    21300072: INIMIGO_INFANTARIA_00037
+    21300074: INIMIGO_INFANTARIA_00038
+    21300076: INIMIGO_INFANTARIA_00039
+    21300078: INIMIGO_INFANTARIA_00040
+    21300080: INIMIGO_INFANTARIA_00041
+    21300082: INIMIGO_INFANTARIA_00042
+    21300084: INIMIGO_INFANTARIA_00043
+    21300086: INIMIGO_INFANTARIA_00044
+    21300088: INIMIGO_INFANTARIA_00045
+    21300090: INIMIGO_INFANTARIA_00046
+    21300092: INIMIGO_INFANTARIA_00047
+    21300094: INIMIGO_INFANTARIA_00048
+    21300096: INIMIGO_INFANTARIA_00049
+    21300098: INIMIGO_INFANTARIA_00050
+    21300100: INIMIGO_INFANTARIA_00051
+    21300102: INIMIGO_INFANTARIA_00052
+    21300104: INIMIGO_INFANTARIA_00053
+    21300106: INIMIGO_INFANTARIA_00054
+    21300108: INIMIGO_INFANTARIA_00055
+    21300110: INIMIGO_INFANTARIA_00056
+    21300112: INIMIGO_INFANTARIA_00057
+    21300114: INIMIGO_INFANTARIA_00058
+    21300116: INIMIGO_INFANTARIA_00059
+    21300118: INIMIGO_INFANTARIA_00060
+    21300120: INIMIGO_INFANTARIA_00061
+    21300122: INIMIGO_INFANTARIA_00062
+    21300124: INIMIGO_INFANTARIA_00063
+    21300126: INIMIGO_INFANTARIA_00064
+    21300128: INIMIGO_INFANTARIA_00065
+    21300130: INIMIGO_INFANTARIA_00066
+    21300132: INIMIGO_INFANTARIA_00067
+    21300134: INIMIGO_INFANTARIA_00068
+    21300136: INIMIGO_INFANTARIA_00069
+    21300138: INIMIGO_INFANTARIA_00070
+    21300140: INIMIGO_INFANTARIA_00071
+    21300142: INIMIGO_INFANTARIA_00072
+    21300144: INIMIGO_INFANTARIA_00073
+    21300146: INIMIGO_INFANTARIA_00074
+    21300148: INIMIGO_INFANTARIA_00075
+    21300150: INIMIGO_INFANTARIA_00076
+    21300152: INIMIGO_INFANTARIA_00077
+    21300154: INIMIGO_INFANTARIA_00078
+    21300156: INIMIGO_INFANTARIA_00079
+    21300158: INIMIGO_INFANTARIA_00080
+    21300160: INIMIGO_INFANTARIA_00081
+    21300162: INIMIGO_INFANTARIA_00082
+    21300164: INIMIGO_INFANTARIA_00083
+    21300166: INIMIGO_INFANTARIA_00084
+    21300168: INIMIGO_INFANTARIA_00085
+    21300170: INIMIGO_INFANTARIA_00086
+    21300172: INIMIGO_INFANTARIA_00087
+    21300174: INIMIGO_INFANTARIA_00088
+    21300176: INIMIGO_INFANTARIA_00089
+    21300178: INIMIGO_INFANTARIA_00090
+    21300180: INIMIGO_INFANTARIA_00091
+    21300182: INIMIGO_INFANTARIA_00092
+    21300184: INIMIGO_INFANTARIA_00093
+    21300186: INIMIGO_INFANTARIA_00094
+    21300188: INIMIGO_INFANTARIA_00095
+    21300190: INIMIGO_INFANTARIA_00096
+    21300192: INIMIGO_INFANTARIA_00097
+    21300194: INIMIGO_INFANTARIA_00098
+    21300196: INIMIGO_INFANTARIA_00099
+    21300198: INIMIGO_INFANTARIA_00100
+    21300200: INIMIGO_INFANTARIA_00101
+    21300202: INIMIGO_INFANTARIA_00102
+    21300204: INIMIGO_INFANTARIA_00103
+    21300206: INIMIGO_INFANTARIA_00104
+    21300208: INIMIGO_INFANTARIA_00105
+    21300210: INIMIGO_INFANTARIA_00106
+    21300212: INIMIGO_INFANTARIA_00107
+    21300214: INIMIGO_INFANTARIA_00108
+    21300216: INIMIGO_INFANTARIA_00109
+    21300218: INIMIGO_INFANTARIA_00110
+    21300220: INIMIGO_INFANTARIA_00111
+    21300222: INIMIGO_INFANTARIA_00112
+    21300224: INIMIGO_INFANTARIA_00113
+    21300226: INIMIGO_INFANTARIA_00114
+    21300228: INIMIGO_INFANTARIA_00115
+    21300230: INIMIGO_INFANTARIA_00116
+    21300232: INIMIGO_INFANTARIA_00117
+    21300234: INIMIGO_INFANTARIA_00118
+    21300236: INIMIGO_INFANTARIA_00119
+    21300238: INIMIGO_INFANTARIA_00120
+    21300240: INIMIGO_INFANTARIA_00121
+    21300242: INIMIGO_INFANTARIA_00122
+    21300244: COSTAS_INFANTE1_00001
+    21300246: COSTAS_INFANTE1_00002
+    21300248: COSTAS_INFANTE1_00003
+    21300250: COSTAS_INFANTE1_00004
+    21300252: COSTAS_INFANTE1_00005
+    21300254: COSTAS_INFANTE1_00006
+    21300256: COSTAS_INFANTE1_00007
+    21300258: COSTAS_INFANTE1_00008
+    21300260: COSTAS_INFANTE1_00009
+    21300262: COSTAS_INFANTE1_00010
+    21300264: FRENTE_INFANTE1_00001
+    21300266: FRENTE_INFANTE1_00002
+    21300268: FRENTE_INFANTE1_00003
+    21300270: FRENTE_INFANTE1_00004
+    21300272: FRENTE_INFANTE1_00005
+    21300274: FRENTE_INFANTE1_00006
+    21300276: FRENTE_INFANTE1_00007
+    21300278: FRENTE_INFANTE1_00008
+    21300280: FRENTE_INFANTE1_00009
+    21300282: FRENTE_INFANTE1_00010
+    21300284: LADO_INFANTE1_00001
+    21300286: LADO_INFANTE1_00002
+    21300288: LADO_INFANTE1_00003
+    21300290: LADO_INFANTE1_00004
+    21300292: LADO_INFANTE1_00005
+    21300294: LADO_INFANTE1_00006
+    21300296: LADO_INFANTE1_00007
+    21300298: LADO_INFANTE1_00008
+    21300300: LADO_INFANTE1_00009
+    21300302: LADO_INFANTE1_00010
+    21300304: M_STILL_INFANTE1
+    21300306: N_ATTACK_INFANTE1_00001
+    21300308: N_ATTACK_INFANTE1_00002
+    21300310: N_ATTACK_INFANTE1_00003
+    21300312: N_ATTACK_INFANTE1_00004
+    21300314: N_ATTACK_INFANTE1_00005
+    21300316: N_ATTACK_INFANTE1_00006
+    21300318: N_ATTACK_INFANTE1_00007
+    21300320: N_ATTACK_INFANTE1_00008
+    21300322: N_ATTACK_INFANTE1_00009
+    21300324: N_ATTACK_INFANTE1_00010
+    21300326: N_ATTACK_INFANTE1_00011
+    21300328: O_DIE_INFANTE1_00001
+    21300330: O_DIE_INFANTE1_00002
+    21300332: O_DIE_INFANTE1_00003
+    21300334: O_DIE_INFANTE1_00004
+    21300336: O_DIE_INFANTE1_00005
+    21300338: O_DIE_INFANTE1_00006
+    21300340: O_DIE_INFANTE1_00007
+    21300342: O_DIE_INFANTE1_00008
+    21300344: O_DIE_INFANTE1_00009
+    21300346: O_DIE_INFANTE1_00010
+    21300348: O_DIE_INFANTE1_00011
+    21300350: O_DIE_INFANTE1_00012
+    21300352: O_DIE_INFANTE1_00013
+    21300354: O_DIE_INFANTE1_00014
+    21300356: O_DIE_INFANTE1_00015
+    21300358: INF1_ATACK_00001
+    21300360: INF1_ATACK_00002
+    21300362: INF1_ATACK_00003
+    21300364: INF1_ATACK_00004
+    21300366: INF1_ATACK_00005
+    21300368: INF1_ATACK_00006
+    21300370: INF1_ATACK_00007
+    21300372: INF1_ATACK_00008
+    21300374: INF1_ATACK_00009
+    21300376: INF1_ATACK_00010
+    21300378: INF1_COSTAS_00001
+    21300380: INF1_COSTAS_00002
+    21300382: INF1_COSTAS_00003
+    21300384: INF1_COSTAS_00004
+    21300386: INF1_COSTAS_00005
+    21300388: INF1_COSTAS_00006
+    21300390: INF1_COSTAS_00007
+    21300392: INF1_COSTAS_00008
+    21300394: INF1_COSTAS_00009
+    21300396: INF1_COSTAS_00010
+    21300398: INF1_DIE_00001
+    21300400: INF1_DIE_00002
+    21300402: INF1_DIE_00003
+    21300404: INF1_DIE_00004
+    21300406: INF1_DIE_00005
+    21300408: INF1_DIE_00006
+    21300410: INF1_DIE_00007
+    21300412: INF1_DIE_00008
+    21300414: INF1_DIE_00009
+    21300416: INF1_DIE_00010
+    21300418: INF1_DIE_00011
+    21300420: INF1_DIE_00012
+    21300422: INF1_DIE_00013
+    21300424: INF1_FRENTE_00001
+    21300426: INF1_FRENTE_00002
+    21300428: INF1_FRENTE_00003
+    21300430: INF1_FRENTE_00004
+    21300432: INF1_FRENTE_00005
+    21300434: INF1_FRENTE_00006
+    21300436: INF1_FRENTE_00007
+    21300438: INF1_FRENTE_00008
+    21300440: INF1_FRENTE_00009
+    21300442: INF1_FRENTE_00010
+    21300444: INF1_LADO_00001
+    21300446: INF1_LADO_00002
+    21300448: INF1_LADO_00003
+    21300450: INF1_LADO_00004
+    21300452: INF1_LADO_00005
+    21300454: INF1_LADO_00006
+    21300456: INF1_LADO_00007
+    21300458: INF1_LADO_00008
+    21300460: INF1_LADO_00009
+    21300462: INF1_LADO_00010
+    21300464: INF1_STILL1
+    21300466: INF1_STILL2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: INF1_ATACK_00001
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 926
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_ATACK_00002
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 926
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_ATACK_00003
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 926
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_ATACK_00004
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 926
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_ATACK_00005
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 926
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_ATACK_00006
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 926
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_ATACK_00007
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 926
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_ATACK_00008
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 926
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_ATACK_00009
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 926
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_ATACK_00010
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 828
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_COSTAS_00001
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 730
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_COSTAS_00002
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 632
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_COSTAS_00003
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 534
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_COSTAS_00004
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 436
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_COSTAS_00005
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 338
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_COSTAS_00006
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 240
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_COSTAS_00007
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 142
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_COSTAS_00008
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 44
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_COSTAS_00009
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 828
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_COSTAS_00010
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 828
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_DIE_00001
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 828
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_DIE_00002
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 828
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_DIE_00003
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 828
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_DIE_00004
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 828
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_DIE_00005
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 828
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_DIE_00006
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 828
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_DIE_00007
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 730
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_DIE_00008
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 632
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_DIE_00009
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 534
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_DIE_00010
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 436
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_DIE_00011
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 338
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_DIE_00012
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 240
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_DIE_00013
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 142
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_FRENTE_00001
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 44
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_FRENTE_00002
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 730
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_FRENTE_00003
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 730
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_FRENTE_00004
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 730
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_FRENTE_00005
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 730
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_FRENTE_00006
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 730
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_FRENTE_00007
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 730
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_FRENTE_00008
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 730
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_FRENTE_00009
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 632
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_FRENTE_00010
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 534
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_LADO_00001
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 436
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_LADO_00002
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 338
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_LADO_00003
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 240
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_LADO_00004
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 142
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_LADO_00005
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 44
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_LADO_00006
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 632
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_LADO_00007
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 632
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_LADO_00008
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 632
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_LADO_00009
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 632
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_LADO_00010
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 632
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_STILL1
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 632
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INF1_STILL2
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 632
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

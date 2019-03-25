@@ -1,0 +1,518 @@
+fileFormatVersion: 2
+guid: c026da85cd5635245bc2f7e1ee2ffb29
+timeCreated: 1462076882
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Explosao_meteoro_01
+    21300002: Explosao_meteoro_02
+    21300004: Explosao_meteoro_03
+    21300006: Explosao_meteoro_04
+    21300008: Explosao_meteoro_05
+    21300010: Explosao_meteoro_06
+    21300012: Explosao_meteoro_07
+    21300014: Explosao_meteoro_08
+    21300016: Explosao_meteoro_09
+    21300018: Explosao_meteoro_10
+    21300020: Explosao_meteoro_11
+    21300022: Meteoro_01
+    21300024: Meteoro_02
+    21300026: Meteoro_03
+    21300028: Meteoro_04
+    21300030: Meteoro_05
+    21300032: Meteoro_06
+    21300034: Meteoro_Chao_01
+    21300036: Meteoro_Chao_02
+    21300038: Meteoro_Chao_03
+    21300040: Meteoro_Chao_04
+    21300042: Meteoro_Chao_05
+    21300044: Meteoro_Chao_06
+    21300046: Meteoro_Chao_07
+    21300048: Meteoro_Chao_08
+    21300050: Meteoro_Chao_09
+    21300052: Meteoro_Chao_10
+    21300054: Meteoro_Chao_11
+    21300056: Meteoro_Chao_12
+    21300058: Meteoro_Chao_13
+    21300060: Meteoro_Chao_14
+    21300062: Meteoro_Chao_15
+    21300064: "Meteoro_Fuma\uFFFDa_01"
+    21300066: "Meteoro_Fuma\uFFFDa_02"
+    21300068: "Meteoro_Fuma\uFFFDa_03"
+    21300070: "Meteoro_Fuma\uFFFDa_04"
+    21300072: "Meteoro_Fuma\uFFFDa_05"
+    21300074: "Meteoro_Fuma\uFFFDa_06"
+    21300076: "Meteoro_Fuma\uFFFDa_07"
+    21300078: "Meteoro_Fuma\uFFFDa_08"
+    21300080: "Meteoro_Fuma\uFFFDa_09"
+    21300082: Meteoros_Marcacao
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Explosao_meteoro_01
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 422
+        width: 27
+        height: 19
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosao_meteoro_02
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 5
+        width: 63
+        height: 46
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosao_meteoro_03
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 115
+        width: 88
+        height: 65
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosao_meteoro_04
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 185
+        width: 95
+        height: 65
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosao_meteoro_05
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 218
+        width: 95
+        height: 72
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosao_meteoro_06
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 252
+        width: 100
+        height: 76
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosao_meteoro_07
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 330
+        width: 103
+        height: 75
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosao_meteoro_08
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 256
+        width: 106
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosao_meteoro_09
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 182
+        width: 96
+        height: 72
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosao_meteoro_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 149
+        width: 88
+        height: 68
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosao_meteoro_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 48
+        width: 75
+        height: 65
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Meteoro_01
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 407
+        width: 164
+        height: 34
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Meteoro_02
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 407
+        width: 171
+        height: 34
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Meteoro_03
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 443
+        width: 174
+        height: 32
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Meteoro_04
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 478
+        width: 180
+        height: 32
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Meteoro_05
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 443
+        width: 179
+        height: 33
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Meteoro_06
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 477
+        width: 184
+        height: 33
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Meteoro_Chao_01
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 440
+        width: 131
+        height: 70
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Meteoro_Chao_02
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 368
+        width: 131
+        height: 70
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Meteoro_Chao_03
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 335
+        width: 131
+        height: 70
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Meteoro_Chao_04
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 368
+        width: 131
+        height: 70
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Meteoro_Chao_05
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 440
+        width: 131
+        height: 70
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Meteoro_Chao_06
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 368
+        width: 131
+        height: 70
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Meteoro_Chao_07
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 335
+        width: 131
+        height: 70
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Meteoro_Chao_08
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 368
+        width: 131
+        height: 70
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Meteoro_Chao_09
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 440
+        width: 131
+        height: 70
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Meteoro_Chao_10
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 368
+        width: 131
+        height: 70
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Meteoro_Chao_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 335
+        width: 131
+        height: 70
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Meteoro_Chao_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 337
+        width: 127
+        height: 68
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Meteoro_Chao_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 273
+        width: 116
+        height: 62
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Meteoro_Chao_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 219
+        width: 98
+        height: 52
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Meteoro_Chao_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 80
+        height: 43
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Meteoro_Fuma\uFFFDa_01"
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 203
+        width: 54
+        height: 35
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Meteoro_Fuma\uFFFDa_02"
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 176
+        width: 63
+        height: 40
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Meteoro_Fuma\uFFFDa_03"
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 173
+        width: 66
+        height: 43
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Meteoro_Fuma\uFFFDa_04"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 6
+        width: 70
+        height: 45
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Meteoro_Fuma\uFFFDa_05"
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 88
+        width: 74
+        height: 59
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Meteoro_Fuma\uFFFDa_06"
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 125
+        width: 75
+        height: 58
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Meteoro_Fuma\uFFFDa_07"
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 28
+        width: 78
+        height: 58
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Meteoro_Fuma\uFFFDa_08"
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 53
+        width: 81
+        height: 60
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Meteoro_Fuma\uFFFDa_09"
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 240
+        width: 55
+        height: 50
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Meteoros_Marcacao
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 292
+        width: 105
+        height: 74
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: c7c678c320b04b14faeee0918c8ce0d9
+timeCreated: 1462132214
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Layer 521
+    21300002: MAPA_01
+    21300004: MAPA_02
+    21300006: MAPA_03
+    21300008: MAPA_04
+    21300010: MAPA_05
+    21300012: MAPA_06
+    21300014: MAPA_07
+    21300016: MAPA_08
+    21300018: MAPA_09
+    21300020: MAPA_10
+    21300022: MAPA_11
+    21300024: MAPA_12
+    21300026: MAPA_13
+    21300028: MAPA_14
+    21300030: MAPA_15
+    21300032: MAPA copy
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: MAPA copy
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 53
+        width: 583
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MAPA_01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1681
+        width: 1150
+        height: 365
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MAPA_02
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1314
+        width: 1150
+        height: 365
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MAPA_03
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 947
+        width: 1150
+        height: 365
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MAPA_04
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 580
+        width: 1150
+        height: 365
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MAPA_05
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 213
+        width: 1150
+        height: 365
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MAPA_06
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1681
+        width: 1150
+        height: 365
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MAPA_07
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 1681
+        width: 1150
+        height: 365
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MAPA_08
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1314
+        width: 1150
+        height: 365
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MAPA_09
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 1314
+        width: 1150
+        height: 365
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MAPA_10
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 947
+        width: 1150
+        height: 365
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MAPA_11
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 580
+        width: 1150
+        height: 365
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MAPA_12
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 213
+        width: 1150
+        height: 365
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MAPA_13
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 947
+        width: 1150
+        height: 365
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MAPA_14
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 580
+        width: 1150
+        height: 365
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MAPA_15
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 213
+        width: 1150
+        height: 365
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,815 @@
+fileFormatVersion: 2
+guid: 959c477d67468b1428d46ae199ab103c
+timeCreated: 1460141080
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AREA CONSTRUCAO_01
+    21300002: AREA CONSTRUCAO_02
+    21300004: ARO_CONSTRUCAO
+    21300006: BOX_VALOR
+    21300008: ICONE_AREA CONSTRUCAO_MOCKUP
+    21300010: ICONE_SELECT
+    21300012: ICONE_TORRE_ARQUEIROS
+    21300014: ICONE_TORRE_BASE
+    21300016: ICONE_TORRE_CAVALARIA
+    21300018: ICONE_TORRE_GUERREIROS
+    21300020: ICONE_TORRE_JESUITA
+    21300022: ICONE_TORRE_XAMA
+    21300024: TORRES_AREA_ALCANCE
+    21300026: ICONE_WAVES
+    21300028: Icone_Cadeado
+    21300030: Icone_Fundo
+    21300032: Icone_Select
+    21300034: Icone_Upgrade
+    21300036: Icone_Valor
+    21300038: MOCKUP_UPGRADE
+    21300040: PAUSE
+    21300042: POWER_BACKWARD
+    21300044: POWER_FRONT
+    21300046: SETA_WAVES
+    21300048: WAVE_MONEY
+    21300050: PAUSE-title
+    21300052: RESETAR
+    21300054: SAIR
+    21300056: BATALHA
+    21300058: CONTINUAR
+    21300060: "CR\uFFFDDITOS"
+    21300062: DERROTA
+    21300064: DICAS
+    21300066: ENCICLOPEDIA_BOTAO_X
+    21300068: ENCICLOPEDIA_TITULO_ENC
+    21300070: INIMIGOS_NOME
+    21300072: JOGAR
+    21300074: Layer 532 copy
+    21300076: Layer 532
+    21300078: MAPA copy
+    21300080: OBJETIVO
+    21300082: TORRES
+    21300084: "PR\uFFFDXIMO"
+    21300086: PULAR
+    21300088: LOGO_VITORIA
+    21300090: STAR_CENTRO
+    21300092: STAR_CENTRO_SLOT
+    21300094: STAR_DIR
+    21300096: STAR_DIR_SLOT
+    21300098: STAR_ESQ
+    21300100: STAR_ESQ_SLOT
+    21300102: VITORIA_NOME
+    21300104: PAUSE_BOX_02
+    21300106: VOLTAR
+    21300108: Botao_Flechas
+    21300110: Botao_Meteoros
+    21300112: "Botao_Refor\uFFFDo"
+    21300114: ICONE HORDA
+    21300116: "Marca\uFFFD\uFFFDo Flechas"
+    21300118: "Marca\uFFFD\uFFFDo Meteoros"
+    21300120: "Marca\uFFFD\uFFFDo Refor\uFFFDo"
+    21300122: BANDEIRA_HEROI_ICON
+    21300124: BANDEIRA_HEROI_POSITION
+    21300126: BOTAO_HEROI_01
+    21300128: BOTAO_HEROI_02
+    21300130: BOTAO_HEROI_03
+    21300132: BOTAO_HEROI_04
+    21300134: BOTAO_HEROI_05
+    21300136: BOXFUNDO
+    21300138: CIRCULO_HEROI
+    21300140: "COME\uFFFDE AQUI"
+    21300142: ICONE_FIM DO MAPA
+    21300144: Layer 440
+    21300146: REROI_UI_MOCKUP
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: AREA CONSTRUCAO_01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 318
+        width: 342
+        height: 343
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AREA CONSTRUCAO_02
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 663
+        width: 342
+        height: 343
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ARO_CONSTRUCAO
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 318
+        width: 342
+        height: 343
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BANDEIRA_HEROI_ICON
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 1341
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BANDEIRA_HEROI_POSITION
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 716
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BOTAO_HEROI_01
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1761
+        width: 150
+        height: 154
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BOTAO_HEROI_02
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1605
+        width: 150
+        height: 154
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BOTAO_HEROI_03
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1449
+        width: 150
+        height: 154
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BOTAO_HEROI_04
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1293
+        width: 150
+        height: 154
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BOTAO_HEROI_05
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 194
+        width: 150
+        height: 154
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BOXFUNDO
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 790
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BOX_VALOR
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 742
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Botao_Flechas
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 472
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Botao_Meteoros
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 517
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Botao_Refor\uFFFDo"
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 517
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CIRCULO_HEROI
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1132
+        width: 159
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "COME\uFFFDE AQUI"
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 350
+        width: 322
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CONTINUAR
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1008
+        width: 472
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "CR\uFFFDDITOS"
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2
+        width: 320
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DERROTA
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1833
+        width: 788
+        height: 213
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENCICLOPEDIA_BOTAO_X
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 50
+        width: 147
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICONE HORDA
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1917
+        width: 152
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICONE_AREA CONSTRUCAO_MOCKUP
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 663
+        width: 342
+        height: 343
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICONE_FIM DO MAPA
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 460
+        width: 146
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICONE_SELECT
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1021
+        width: 100
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICONE_TORRE_ARQUEIROS
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 923
+        width: 100
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICONE_TORRE_BASE
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 825
+        width: 100
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICONE_TORRE_CAVALARIA
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 727
+        width: 100
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICONE_TORRE_GUERREIROS
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 629
+        width: 100
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICONE_TORRE_JESUITA
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 618
+        width: 100
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICONE_TORRE_XAMA
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 531
+        width: 100
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICONE_WAVES
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 459
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Icone_Cadeado
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 831
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Icone_Fundo
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 441
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Icone_Select
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 769
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Icone_Upgrade
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 891
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Icone_Valor
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 1240
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JOGAR
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 686
+        width: 376
+        height: 173
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LOGO_VITORIA
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1357
+        width: 1099
+        height: 689
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer 440
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 953
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer 532 copy
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 34
+        width: 185
+        height: 282
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer 532
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 34
+        width: 181
+        height: 282
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MOCKUP_UPGRADE
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 604
+        width: 252
+        height: 324
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Marca\uFFFD\uFFFDo Flechas"
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 487
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Marca\uFFFD\uFFFDo Meteoros"
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 416
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Marca\uFFFD\uFFFDo Refor\uFFFDo"
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 487
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OBJETIVO
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1618
+        width: 788
+        height: 213
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PAUSE-title
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1403
+        width: 788
+        height: 213
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PAUSE
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 451
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PAUSE_BOX_02
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1048
+        width: 971
+        height: 307
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: POWER_BACKWARD
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1238
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: POWER_FRONT
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1119
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "PR\uFFFDXIMO"
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 2
+        width: 320
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PULAR
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 930
+        width: 280
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: REROI_UI_MOCKUP
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 120
+        width: 349
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RESETAR
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 861
+        width: 428
+        height: 145
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SAIR
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 269
+        width: 285
+        height: 145
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SETA_WAVES
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 1297
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: STAR_CENTRO
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 200
+        width: 154
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: STAR_CENTRO_SLOT
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 157
+        width: 168
+        height: 162
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: STAR_DIR
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 7
+        width: 155
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: STAR_DIR_SLOT
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 154
+        width: 170
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: STAR_ESQ
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 44
+        width: 155
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: STAR_ESQ_SLOT
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 439
+        width: 171
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRES_AREA_ALCANCE
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 663
+        width: 467
+        height: 467
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VITORIA_NOME
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1154
+        width: 732
+        height: 247
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: VOLTAR
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 321
+        width: 320
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WAVE_MONEY
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 558
+        width: 350
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

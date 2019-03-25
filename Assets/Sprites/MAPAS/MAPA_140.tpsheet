@@ -1,0 +1,12 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: MAPA_140.png (2048 x 4096)
+# $TexturePacker:SmartUpdate:d1c4938d954b87cae1353d2ee6db2978:f30d5212e1678772fd3c0ebf6cabf593:e954ffcb95f781cd292cf089ba6832ba$
+#
+
+MAPA_14_BASE;2;2824;1920;1270;0.5;0.5
+MAPA_14_FRONT;2;1552;1920;1270;0.5;0.5

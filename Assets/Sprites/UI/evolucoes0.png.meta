@@ -1,0 +1,1262 @@
+fileFormatVersion: 2
+guid: 941e61b5a1ccbfa4f8d62760d2715eca
+timeCreated: 1461692720
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: A1 copy
+    21300002: A1
+    21300004: A2 copy
+    21300006: A2
+    21300008: A3 copy
+    21300010: A3
+    21300012: A4 copy
+    21300014: A4
+    21300016: A5 copy
+    21300018: A5
+    21300020: B1 copy
+    21300022: B1
+    21300024: B2 copy
+    21300026: B2
+    21300028: B3 copy
+    21300030: B3
+    21300032: B4 copy
+    21300034: B4
+    21300036: B5 copy
+    21300038: B5
+    21300040: BARRA_ICONES
+    21300042: BOTAO_EVOLUIR
+    21300044: BOX_MENSAGEM
+    21300046: BOX_TEXTO
+    21300048: C1 copy
+    21300050: C1
+    21300052: C2 copy
+    21300054: C2
+    21300056: C3 copy
+    21300058: C3
+    21300060: C4 copy
+    21300062: C4
+    21300064: C5 copy
+    21300066: C5
+    21300068: CHECK
+    21300070: D1 copy
+    21300072: D1
+    21300074: D2 copy
+    21300076: D2
+    21300078: D3 copy
+    21300080: D3
+    21300082: D4 copy
+    21300084: D4
+    21300086: D5 copy
+    21300088: D5
+    21300090: E1 copy
+    21300092: E1
+    21300094: E2 copy
+    21300096: E2
+    21300098: E3 copy
+    21300100: E3
+    21300102: E4 copy
+    21300104: E4
+    21300106: E5 copy
+    21300108: E5
+    21300110: ESPECIAIS_BUTTON
+    21300112: ESPECIAIS_BUTTON_SELECT
+    21300114: ESTRELAS
+    21300116: EVOLUCAO_ESPECIAIS_MOCHUP
+    21300118: EVOLUCAO_PRECO
+    21300120: EVOLUCAO_TORRES_MOCKUP
+    21300122: "EVOLU\uFFFD\uFFFDES"
+    21300124: F1 copy
+    21300126: F1
+    21300128: F2 copy
+    21300130: F2
+    21300132: F3 copy
+    21300134: F3
+    21300136: F4 copy
+    21300138: F4
+    21300140: F5 copy
+    21300142: F5
+    21300144: G1 copy
+    21300146: G1
+    21300148: G2 copy
+    21300150: G2
+    21300152: G3 copy
+    21300154: G3
+    21300156: G4 copy
+    21300158: G4
+    21300160: G5 copy
+    21300162: G5
+    21300164: H1 copy
+    21300166: H1
+    21300168: H2 copy
+    21300170: H2
+    21300172: H3 copy
+    21300174: H3
+    21300176: H4 copy
+    21300178: H4
+    21300180: H5 copy
+    21300182: H5
+    21300184: ICONE_BOX_TEXTO_MOCKUP
+    21300186: ICON_CADEADO-1
+    21300188: ICON_CADEADO
+    21300190: ICON_FLECHAS
+    21300192: ICON_METEORO
+    21300194: ICON_REFORCO
+    21300196: ICON_SELECT
+    21300198: RODAPE_EVOLUCOES
+    21300200: STAR
+    21300202: TORRES_BUTTON
+    21300204: TORRES_BUTTON_SELECT
+    21300206: TORRE_ARQUEIROS
+    21300208: TORRE_CAVALARIA
+    21300210: TORRE_GUERREIROS
+    21300212: TORRE_JESUITA
+    21300214: TORRE_XAMA
+    21300216: ESPECIAIS_BUTTON_mockup
+    21300218: TORRES_BUTTON_mockup
+    21300220: RESETAR
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: A1 copy
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 1209
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: A1
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 1209
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: A2 copy
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1185
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: A2
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1185
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: A3 copy
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 1132
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: A3
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1120
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: A4 copy
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1243
+        width: 104
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: A4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1075
+        width: 104
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: A5 copy
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1120
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: A5
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1105
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: B1 copy
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1132
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: B1
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1132
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: B2 copy
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 1110
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: B2
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 1110
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: B3 copy
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1086
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: B3
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1086
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: B4 copy
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1075
+        width: 104
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: B4
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1020
+        width: 104
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: B5 copy
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 1033
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: B5
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1033
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BARRA_ICONES
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1284
+        width: 204
+        height: 762
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BOTAO_EVOLUIR
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1331
+        width: 242
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BOX_MENSAGEM
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1524
+        width: 296
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BOX_TEXTO
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1419
+        width: 431
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C1 copy
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1033
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C1
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 1011
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C2 copy
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 624
+        width: 104
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 685
+        width: 104
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C3 copy
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 1011
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C3
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 987
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C4 copy
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 975
+        width: 104
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 975
+        width: 104
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C5 copy
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 987
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C5
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1021
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CHECK
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1290
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: D1 copy
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1006
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: D1
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 991
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: D2 copy
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 579
+        width: 103
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: D2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 579
+        width: 103
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: D3 copy
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1021
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: D3
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 908
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: D4 copy
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 920
+        width: 104
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: D4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 875
+        width: 104
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: D5 copy
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 882
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: D5
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 821
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: E1 copy
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 882
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: E1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 776
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: E2 copy
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 776
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: E2
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 934
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: E3 copy
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 888
+        width: 102
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: E3
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 813
+        width: 102
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: E4 copy
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 875
+        width: 104
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: E4
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1319
+        width: 104
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: E5 copy
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 922
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: E5
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 922
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ESPECIAIS_BUTTON
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1175
+        width: 170
+        height: 175
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ESPECIAIS_BUTTON_SELECT
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1308
+        width: 177
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ESPECIAIS_BUTTON_mockup
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1175
+        width: 170
+        height: 175
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ESTRELAS
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1429
+        width: 259
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EVOLUCAO_PRECO
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1251
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "EVOLU\uFFFD\uFFFDES"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1450
+        width: 885
+        height: 239
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F1 copy
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 907
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F1
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 892
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F2 copy
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 809
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 783
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F3 copy
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 722
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 783
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F4 copy
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1319
+        width: 104
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F4
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 1231
+        width: 104
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F5 copy
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 677
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F5
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 677
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: G1 copy
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 882
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: G1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 776
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: G2 copy
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 624
+        width: 104
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: G2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 685
+        width: 104
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: G3 copy
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 934
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: G3
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 934
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: G4 copy
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1219
+        width: 104
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: G4
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1219
+        width: 104
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: G5 copy
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 912
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: G5
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 912
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: H1 copy
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 835
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: H1
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 835
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: H2 copy
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 835
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: H2
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 823
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: H3 copy
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 823
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: H3
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 808
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: H4 copy
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1231
+        width: 104
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: H4
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1231
+        width: 104
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: H5 copy
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 793
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: H5
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 710
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICONE_BOX_TEXTO_MOCKUP
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 1011
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICON_CADEADO-1
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1127
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICON_CADEADO
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 684
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICON_FLECHAS
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1007
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICON_METEORO
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1120
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICON_REFORCO
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 981
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICON_SELECT
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1343
+        width: 112
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RESETAR
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1352
+        width: 242
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RODAPE_EVOLUCOES
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1691
+        width: 1819
+        height: 355
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: STAR
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 1443
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRES_BUTTON
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1273
+        width: 170
+        height: 175
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRES_BUTTON_SELECT
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1266
+        width: 177
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRES_BUTTON_mockup
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1273
+        width: 170
+        height: 175
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_ARQUEIROS
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1299
+        width: 168
+        height: 149
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_CAVALARIA
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1492
+        width: 177
+        height: 197
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_GUERREIROS
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1204
+        width: 166
+        height: 213
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_JESUITA
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1090
+        width: 131
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TORRE_XAMA
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1153
+        width: 147
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

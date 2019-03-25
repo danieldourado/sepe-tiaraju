@@ -1,0 +1,331 @@
+fileFormatVersion: 2
+guid: e2502ec5d2806064192096f33b8ab2a9
+timeCreated: 1461692728
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cruz_Dying_Heroi
+    21300002: Fumaca2_Dying_Heroi_01
+    21300004: Fumaca2_Dying_Heroi_02
+    21300006: Fumaca2_Dying_Heroi_03
+    21300008: Fumaca2_Dying_Heroi_04
+    21300010: Fumaca2_Dying_Heroi_05
+    21300012: Fumaca2_Dying_Heroi_06
+    21300014: Fumaca2_Dying_Heroi_07
+    21300016: Fumaca2_Dying_Heroi_08
+    21300018: Fumaca_Dying_Heroi_01
+    21300020: Fumaca_Dying_Heroi_02
+    21300022: Fumaca_Dying_Heroi_03
+    21300024: Fumaca_Dying_Heroi_04
+    21300026: Fumaca_Dying_Heroi_05
+    21300028: Fumaca_Dying_Heroi_06
+    21300030: Fumaca_Dying_Heroi_07
+    21300032: smoke0001
+    21300034: smoke0002
+    21300036: smoke0003
+    21300038: smoke0004
+    21300040: smoke0005
+    21300042: smoke0006
+    21300044: smoke0007
+    21300046: smoke0008
+    21300048: smoke0009
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Cruz_Dying_Heroi
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 56
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fumaca2_Dying_Heroi_01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 420
+        width: 95
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fumaca2_Dying_Heroi_02
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 420
+        width: 95
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fumaca2_Dying_Heroi_03
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 420
+        width: 95
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fumaca2_Dying_Heroi_04
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 420
+        width: 95
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fumaca2_Dying_Heroi_05
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 420
+        width: 95
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fumaca2_Dying_Heroi_06
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 328
+        width: 95
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fumaca2_Dying_Heroi_07
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 236
+        width: 95
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fumaca2_Dying_Heroi_08
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 144
+        width: 95
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fumaca_Dying_Heroi_01
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 56
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fumaca_Dying_Heroi_02
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 332
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fumaca_Dying_Heroi_03
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 244
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fumaca_Dying_Heroi_04
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 156
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fumaca_Dying_Heroi_05
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 68
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fumaca_Dying_Heroi_06
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 332
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fumaca_Dying_Heroi_07
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 244
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smoke0001
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 176
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smoke0002
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 108
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smoke0003
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 40
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smoke0004
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 352
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smoke0005
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 352
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smoke0006
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 284
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smoke0007
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 216
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smoke0008
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 284
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smoke0009
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 216
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

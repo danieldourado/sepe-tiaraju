@@ -1,0 +1,3413 @@
+fileFormatVersion: 2
+guid: aa6dc41b48e4b644b9a2ef45f109a4b8
+timeCreated: 1475499960
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: COSTAS_CAVALEIRO3_00006
+    21300002: COSTAS_CAVALEIRO3_00007
+    21300004: COSTAS_CAVALEIRO3_00008
+    21300006: COSTAS_CAVALEIRO3_00009
+    21300008: COSTAS_CAVALEIRO3_00010
+    21300010: COSTAS_CAVALEIRO3_00011
+    21300012: COSTAS_CAVALEIRO3_00012
+    21300014: COSTAS_CAVALEIRO3_00013
+    21300016: COSTAS_CAVALEIRO3_00014
+    21300018: COSTAS_CAVALEIRO4_00001
+    21300020: COSTAS_CAVALEIRO4_00002
+    21300022: COSTAS_CAVALEIRO4_00003
+    21300024: COSTAS_CAVALEIRO4_00004
+    21300026: COSTAS_CAVALEIRO4_00005
+    21300028: COSTAS_CAVALEIRO4_00006
+    21300030: COSTAS_CAVALEIRO4_00007
+    21300032: COSTAS_CAVALEIRO4_00008
+    21300034: COSTAS_CAVALEIRO4_00009
+    21300036: COSTAS_CAVALEIRO4_00010
+    21300038: COSTAS_CAVALEIRO4_00011
+    21300040: COSTAS_CAVALEIRO4_00012
+    21300042: COSTAS_CAVALEIRO4_00013
+    21300044: COSTAS_CAVALEIRO4_00014
+    21300046: FRENTE_CAVALEIRO1_00001
+    21300048: FRENTE_CAVALEIRO1_00002
+    21300050: FRENTE_CAVALEIRO1_00003
+    21300052: FRENTE_CAVALEIRO1_00004
+    21300054: FRENTE_CAVALEIRO1_00005
+    21300056: FRENTE_CAVALEIRO1_00006
+    21300058: FRENTE_CAVALEIRO1_00007
+    21300060: FRENTE_CAVALEIRO1_00008
+    21300062: FRENTE_CAVALEIRO1_00009
+    21300064: FRENTE_CAVALEIRO1_00010
+    21300066: FRENTE_CAVALEIRO1_00011
+    21300068: FRENTE_CAVALEIRO1_00012
+    21300070: FRENTE_CAVALEIRO1_00013
+    21300072: FRENTE_CAVALEIRO1_00014
+    21300074: FRENTE_CAVALEIRO2_00001
+    21300076: FRENTE_CAVALEIRO2_00002
+    21300078: FRENTE_CAVALEIRO2_00003
+    21300080: FRENTE_CAVALEIRO2_00004
+    21300082: FRENTE_CAVALEIRO2_00005
+    21300084: FRENTE_CAVALEIRO2_00006
+    21300086: FRENTE_CAVALEIRO2_00007
+    21300088: FRENTE_CAVALEIRO2_00008
+    21300090: FRENTE_CAVALEIRO2_00009
+    21300092: FRENTE_CAVALEIRO2_00010
+    21300094: FRENTE_CAVALEIRO2_00011
+    21300096: FRENTE_CAVALEIRO2_00012
+    21300098: FRENTE_CAVALEIRO2_00013
+    21300100: FRENTE_CAVALEIRO2_00014
+    21300102: FRENTE_CAVALEIRO3_00001
+    21300104: FRENTE_CAVALEIRO3_00002
+    21300106: FRENTE_CAVALEIRO3_00003
+    21300108: FRENTE_CAVALEIRO3_00004
+    21300110: FRENTE_CAVALEIRO3_00005
+    21300112: FRENTE_CAVALEIRO3_00006
+    21300114: FRENTE_CAVALEIRO3_00007
+    21300116: FRENTE_CAVALEIRO3_00008
+    21300118: FRENTE_CAVALEIRO3_00009
+    21300120: FRENTE_CAVALEIRO3_00010
+    21300122: FRENTE_CAVALEIRO3_00011
+    21300124: FRENTE_CAVALEIRO3_00012
+    21300126: FRENTE_CAVALEIRO3_00013
+    21300128: FRENTE_CAVALEIRO3_00014
+    21300130: FRENTE_CAVALEIRO4_00001
+    21300132: FRENTE_CAVALEIRO4_00002
+    21300134: FRENTE_CAVALEIRO4_00003
+    21300136: FRENTE_CAVALEIRO4_00004
+    21300138: FRENTE_CAVALEIRO4_00005
+    21300140: FRENTE_CAVALEIRO4_00006
+    21300142: FRENTE_CAVALEIRO4_00007
+    21300144: FRENTE_CAVALEIRO4_00008
+    21300146: FRENTE_CAVALEIRO4_00009
+    21300148: FRENTE_CAVALEIRO4_00010
+    21300150: FRENTE_CAVALEIRO4_00011
+    21300152: FRENTE_CAVALEIRO4_00012
+    21300154: FRENTE_CAVALEIRO4_00013
+    21300156: FRENTE_CAVALEIRO4_00014
+    21300158: LADO_CAVALEIRO1_00001
+    21300160: LADO_CAVALEIRO1_00002
+    21300162: LADO_CAVALEIRO1_00003
+    21300164: LADO_CAVALEIRO1_00004
+    21300166: LADO_CAVALEIRO1_00005
+    21300168: LADO_CAVALEIRO1_00006
+    21300170: LADO_CAVALEIRO1_00007
+    21300172: LADO_CAVALEIRO1_00008
+    21300174: LADO_CAVALEIRO1_00009
+    21300176: LADO_CAVALEIRO1_00010
+    21300178: LADO_CAVALEIRO1_00011
+    21300180: LADO_CAVALEIRO1_00012
+    21300182: LADO_CAVALEIRO1_00013
+    21300184: LADO_CAVALEIRO1_00014
+    21300186: LADO_CAVALEIRO1_00015
+    21300188: LADO_CAVALEIRO2_00001
+    21300190: LADO_CAVALEIRO2_00002
+    21300192: LADO_CAVALEIRO2_00003
+    21300194: LADO_CAVALEIRO2_00004
+    21300196: LADO_CAVALEIRO2_00005
+    21300198: LADO_CAVALEIRO2_00006
+    21300200: LADO_CAVALEIRO2_00007
+    21300202: LADO_CAVALEIRO2_00008
+    21300204: LADO_CAVALEIRO2_00009
+    21300206: LADO_CAVALEIRO2_00010
+    21300208: LADO_CAVALEIRO2_00011
+    21300210: LADO_CAVALEIRO2_00012
+    21300212: LADO_CAVALEIRO2_00013
+    21300214: LADO_CAVALEIRO2_00014
+    21300216: LADO_CAVALEIRO3_00001
+    21300218: LADO_CAVALEIRO3_00002
+    21300220: LADO_CAVALEIRO3_00003
+    21300222: LADO_CAVALEIRO3_00004
+    21300224: LADO_CAVALEIRO3_00005
+    21300226: LADO_CAVALEIRO3_00006
+    21300228: LADO_CAVALEIRO3_00007
+    21300230: LADO_CAVALEIRO3_00008
+    21300232: LADO_CAVALEIRO3_00009
+    21300234: LADO_CAVALEIRO3_00010
+    21300236: LADO_CAVALEIRO3_00011
+    21300238: LADO_CAVALEIRO3_00012
+    21300240: LADO_CAVALEIRO3_00013
+    21300242: LADO_CAVALEIRO3_00014
+    21300244: LADO_CAVALEIRO4_00001
+    21300246: LADO_CAVALEIRO4_00002
+    21300248: LADO_CAVALEIRO4_00003
+    21300250: LADO_CAVALEIRO4_00004
+    21300252: LADO_CAVALEIRO4_00005
+    21300254: LADO_CAVALEIRO4_00006
+    21300256: LADO_CAVALEIRO4_00007
+    21300258: LADO_CAVALEIRO4_00008
+    21300260: LADO_CAVALEIRO4_00009
+    21300262: LADO_CAVALEIRO4_00010
+    21300264: LADO_CAVALEIRO4_00011
+    21300266: LADO_CAVALEIRO4_00012
+    21300268: LADO_CAVALEIRO4_00013
+    21300270: LADO_CAVALEIRO4_00014
+    21300272: M_STILL_CAVALEIRO1_
+    21300274: M_STILL_CAVALEIRO2_
+    21300276: M_STILL_CAVALEIRO3_
+    21300278: M_STILL_CAVALEIRO4_
+    21300280: N_ATTACK_CAVALEIRO1_00001
+    21300282: N_ATTACK_CAVALEIRO1_00002
+    21300284: N_ATTACK_CAVALEIRO1_00003
+    21300286: N_ATTACK_CAVALEIRO1_00004
+    21300288: N_ATTACK_CAVALEIRO1_00005
+    21300290: N_ATTACK_CAVALEIRO1_00006
+    21300292: N_ATTACK_CAVALEIRO1_00007
+    21300294: N_ATTACK_CAVALEIRO1_00008
+    21300296: N_ATTACK_CAVALEIRO1_00009
+    21300298: N_ATTACK_CAVALEIRO1_00010
+    21300300: N_ATTACK_CAVALEIRO1_00011
+    21300302: N_ATTACK_CAVALEIRO1_00012
+    21300304: N_ATTACK_CAVALEIRO2_00001
+    21300306: N_ATTACK_CAVALEIRO2_00002
+    21300308: N_ATTACK_CAVALEIRO2_00003
+    21300310: N_ATTACK_CAVALEIRO2_00004
+    21300312: N_ATTACK_CAVALEIRO2_00005
+    21300314: N_ATTACK_CAVALEIRO2_00006
+    21300316: N_ATTACK_CAVALEIRO2_00007
+    21300318: N_ATTACK_CAVALEIRO2_00008
+    21300320: N_ATTACK_CAVALEIRO2_00009
+    21300322: N_ATTACK_CAVALEIRO2_00010
+    21300324: N_ATTACK_CAVALEIRO2_00011
+    21300326: N_ATTACK_CAVALEIRO2_00012
+    21300328: N_ATTACK_CAVALEIRO2_00013
+    21300330: N_ATTACK_CAVALEIRO3_00001
+    21300332: N_ATTACK_CAVALEIRO3_00002
+    21300334: N_ATTACK_CAVALEIRO3_00003
+    21300336: N_ATTACK_CAVALEIRO3_00004
+    21300338: N_ATTACK_CAVALEIRO3_00005
+    21300340: N_ATTACK_CAVALEIRO3_00006
+    21300342: N_ATTACK_CAVALEIRO3_00007
+    21300344: N_ATTACK_CAVALEIRO3_00008
+    21300346: N_ATTACK_CAVALEIRO3_00009
+    21300348: N_ATTACK_CAVALEIRO3_00010
+    21300350: N_ATTACK_CAVALEIRO3_00011
+    21300352: N_ATTACK_CAVALEIRO3_00012
+    21300354: N_ATTACK_CAVALEIRO3_00013
+    21300356: N_ATTACK_CAVALEIRO4_00001
+    21300358: N_ATTACK_CAVALEIRO4_00002
+    21300360: N_ATTACK_CAVALEIRO4_00003
+    21300362: N_ATTACK_CAVALEIRO4_00004
+    21300364: N_ATTACK_CAVALEIRO4_00005
+    21300366: N_ATTACK_CAVALEIRO4_00006
+    21300368: N_ATTACK_CAVALEIRO4_00007
+    21300370: N_ATTACK_CAVALEIRO4_00008
+    21300372: N_ATTACK_CAVALEIRO4_00009
+    21300374: N_ATTACK_CAVALEIRO4_00010
+    21300376: N_ATTACK_CAVALEIRO4_00011
+    21300378: N_ATTACK_CAVALEIRO4_00012
+    21300380: N_ATTACK_CAVALEIRO4_00013
+    21300382: O_DIE_CAVALEIRO1_00001
+    21300384: O_DIE_CAVALEIRO1_00002
+    21300386: O_DIE_CAVALEIRO1_00003
+    21300388: O_DIE_CAVALEIRO1_00004
+    21300390: O_DIE_CAVALEIRO1_00005
+    21300392: O_DIE_CAVALEIRO1_00006
+    21300394: O_DIE_CAVALEIRO1_00007
+    21300396: O_DIE_CAVALEIRO1_00008
+    21300398: O_DIE_CAVALEIRO1_00009
+    21300400: O_DIE_CAVALEIRO1_00010
+    21300402: O_DIE_CAVALEIRO1_00011
+    21300404: O_DIE_CAVALEIRO1_00012
+    21300406: O_DIE_CAVALEIRO1_00013
+    21300408: O_DIE_CAVALEIRO1_00014
+    21300410: O_DIE_CAVALEIRO1_00015
+    21300412: O_DIE_CAVALEIRO1_00016
+    21300414: O_DIE_CAVALEIRO2_00001
+    21300416: O_DIE_CAVALEIRO2_00002
+    21300418: O_DIE_CAVALEIRO2_00003
+    21300420: O_DIE_CAVALEIRO2_00004
+    21300422: O_DIE_CAVALEIRO2_00005
+    21300424: O_DIE_CAVALEIRO2_00006
+    21300426: O_DIE_CAVALEIRO2_00007
+    21300428: O_DIE_CAVALEIRO2_00008
+    21300430: O_DIE_CAVALEIRO2_00009
+    21300432: O_DIE_CAVALEIRO2_00010
+    21300434: O_DIE_CAVALEIRO2_00011
+    21300436: O_DIE_CAVALEIRO2_00012
+    21300438: O_DIE_CAVALEIRO2_00013
+    21300440: O_DIE_CAVALEIRO2_00014
+    21300442: O_DIE_CAVALEIRO2_00015
+    21300444: O_DIE_CAVALEIRO2_00016
+    21300446: O_DIE_CAVALEIRO3_00001
+    21300448: O_DIE_CAVALEIRO3_00002
+    21300450: O_DIE_CAVALEIRO3_00003
+    21300452: O_DIE_CAVALEIRO3_00004
+    21300454: O_DIE_CAVALEIRO3_00005
+    21300456: O_DIE_CAVALEIRO3_00006
+    21300458: O_DIE_CAVALEIRO3_00007
+    21300460: O_DIE_CAVALEIRO3_00008
+    21300462: O_DIE_CAVALEIRO3_00009
+    21300464: O_DIE_CAVALEIRO3_00010
+    21300466: O_DIE_CAVALEIRO3_00011
+    21300468: O_DIE_CAVALEIRO3_00012
+    21300470: O_DIE_CAVALEIRO3_00013
+    21300472: O_DIE_CAVALEIRO3_00014
+    21300474: O_DIE_CAVALEIRO3_00015
+    21300476: O_DIE_CAVALEIRO3_00016
+    21300478: O_DIE_CAVALEIRO4_00001
+    21300480: O_DIE_CAVALEIRO4_00002
+    21300482: O_DIE_CAVALEIRO4_00003
+    21300484: O_DIE_CAVALEIRO4_00004
+    21300486: O_DIE_CAVALEIRO4_00005
+    21300488: O_DIE_CAVALEIRO4_00006
+    21300490: O_DIE_CAVALEIRO4_00007
+    21300492: O_DIE_CAVALEIRO4_00008
+    21300494: O_DIE_CAVALEIRO4_00009
+    21300496: O_DIE_CAVALEIRO4_00010
+    21300498: O_DIE_CAVALEIRO4_00011
+    21300500: O_DIE_CAVALEIRO4_00012
+    21300502: O_DIE_CAVALEIRO4_00013
+    21300504: O_DIE_CAVALEIRO4_00014
+    21300506: O_DIE_CAVALEIRO4_00015
+    21300508: O_DIE_CAVALEIRO4_00016
+    21300510: CAVALEIRO1_ATACK_00001
+    21300512: CAVALEIRO1_ATACK_00002
+    21300514: CAVALEIRO1_ATACK_00003
+    21300516: CAVALEIRO1_ATACK_00004
+    21300518: CAVALEIRO1_ATACK_00005
+    21300520: CAVALEIRO1_ATACK_00006
+    21300522: CAVALEIRO1_ATACK_00007
+    21300524: CAVALEIRO1_ATACK_00008
+    21300526: CAVALEIRO1_ATACK_00009
+    21300528: CAVALEIRO1_ATACK_00010
+    21300530: CAVALEIRO1_ATACK_00011
+    21300532: CAVALEIRO1_COSTAS_00001
+    21300534: CAVALEIRO1_COSTAS_00002
+    21300536: CAVALEIRO1_COSTAS_00003
+    21300538: CAVALEIRO1_COSTAS_00004
+    21300540: CAVALEIRO1_COSTAS_00005
+    21300542: CAVALEIRO1_COSTAS_00006
+    21300544: CAVALEIRO1_COSTAS_00007
+    21300546: CAVALEIRO1_COSTAS_00008
+    21300548: CAVALEIRO1_COSTAS_00009
+    21300550: CAVALEIRO1_COSTAS_00010
+    21300552: CAVALEIRO1_COSTAS_00011
+    21300554: CAVALEIRO1_COSTAS_00012
+    21300556: CAVALEIRO1_COSTAS_00013
+    21300558: CAVALEIRO1_COSTAS_00014
+    21300560: CAVALEIRO1_DIE_00001
+    21300562: CAVALEIRO1_DIE_00002
+    21300564: CAVALEIRO1_DIE_00003
+    21300566: CAVALEIRO1_DIE_00004
+    21300568: CAVALEIRO1_DIE_00005
+    21300570: CAVALEIRO1_DIE_00006
+    21300572: CAVALEIRO1_DIE_00007
+    21300574: CAVALEIRO1_DIE_00008
+    21300576: CAVALEIRO1_DIE_00009
+    21300578: CAVALEIRO1_DIE_00010
+    21300580: CAVALEIRO1_DIE_00011
+    21300582: CAVALEIRO1_DIE_00012
+    21300584: CAVALEIRO1_DIE_00013
+    21300586: CAVALEIRO1_DIE_00014
+    21300588: CAVALEIRO1_DIE_00015
+    21300590: CAVALEIRO1_FRENTE_00001
+    21300592: CAVALEIRO1_FRENTE_00002
+    21300594: CAVALEIRO1_FRENTE_00003
+    21300596: CAVALEIRO1_FRENTE_00004
+    21300598: CAVALEIRO1_FRENTE_00005
+    21300600: CAVALEIRO1_FRENTE_00006
+    21300602: CAVALEIRO1_FRENTE_00007
+    21300604: CAVALEIRO1_FRENTE_00008
+    21300606: CAVALEIRO1_FRENTE_00009
+    21300608: CAVALEIRO1_FRENTE_00010
+    21300610: CAVALEIRO1_FRENTE_00011
+    21300612: CAVALEIRO1_FRENTE_00012
+    21300614: CAVALEIRO1_FRENTE_00013
+    21300616: CAVALEIRO1_FRENTE_00014
+    21300618: CAVALEIRO1_LADO_00001
+    21300620: CAVALEIRO1_LADO_00002
+    21300622: CAVALEIRO1_LADO_00003
+    21300624: CAVALEIRO1_LADO_00004
+    21300626: CAVALEIRO1_LADO_00005
+    21300628: CAVALEIRO1_LADO_00006
+    21300630: CAVALEIRO1_LADO_00007
+    21300632: CAVALEIRO1_LADO_00008
+    21300634: CAVALEIRO1_LADO_00009
+    21300636: CAVALEIRO1_LADO_00010
+    21300638: CAVALEIRO1_LADO_00011
+    21300640: CAVALEIRO1_LADO_00012
+    21300642: CAVALEIRO1_LADO_00013
+    21300644: CAVALEIRO1_LADO_00014
+    21300646: CAVALEIRO1_STILL1
+    21300648: CAVALEIRO1_STILL2
+    21300650: CAVALEIRO2_ATACK_00001
+    21300652: CAVALEIRO2_ATACK_00002
+    21300654: CAVALEIRO2_ATACK_00003
+    21300656: CAVALEIRO2_ATACK_00004
+    21300658: CAVALEIRO2_ATACK_00005
+    21300660: CAVALEIRO2_ATACK_00006
+    21300662: CAVALEIRO2_ATACK_00007
+    21300664: CAVALEIRO2_ATACK_00008
+    21300666: CAVALEIRO2_ATACK_00009
+    21300668: CAVALEIRO2_ATACK_00010
+    21300670: CAVALEIRO2_ATACK_00011
+    21300672: CAVALEIRO2_COSTAS_00001
+    21300674: CAVALEIRO2_COSTAS_00002
+    21300676: CAVALEIRO2_COSTAS_00003
+    21300678: CAVALEIRO2_COSTAS_00004
+    21300680: CAVALEIRO2_COSTAS_00005
+    21300682: CAVALEIRO2_COSTAS_00006
+    21300684: CAVALEIRO2_COSTAS_00007
+    21300686: CAVALEIRO2_COSTAS_00008
+    21300688: CAVALEIRO2_COSTAS_00009
+    21300690: CAVALEIRO2_COSTAS_00010
+    21300692: CAVALEIRO2_COSTAS_00011
+    21300694: CAVALEIRO2_COSTAS_00012
+    21300696: CAVALEIRO2_COSTAS_00013
+    21300698: CAVALEIRO2_COSTAS_00014
+    21300700: CAVALEIRO2_DIE_00001
+    21300702: CAVALEIRO2_DIE_00002
+    21300704: CAVALEIRO2_DIE_00003
+    21300706: CAVALEIRO2_DIE_00004
+    21300708: CAVALEIRO2_DIE_00005
+    21300710: CAVALEIRO2_DIE_00006
+    21300712: CAVALEIRO2_DIE_00007
+    21300714: CAVALEIRO2_DIE_00008
+    21300716: CAVALEIRO2_DIE_00009
+    21300718: CAVALEIRO2_DIE_00010
+    21300720: CAVALEIRO2_DIE_00011
+    21300722: CAVALEIRO2_DIE_00012
+    21300724: CAVALEIRO2_DIE_00013
+    21300726: CAVALEIRO2_DIE_00014
+    21300728: CAVALEIRO2_DIE_00015
+    21300730: CAVALEIRO2_FRENTE_00001
+    21300732: CAVALEIRO2_FRENTE_00002
+    21300734: CAVALEIRO2_FRENTE_00003
+    21300736: CAVALEIRO2_FRENTE_00004
+    21300738: CAVALEIRO2_FRENTE_00005
+    21300740: CAVALEIRO2_FRENTE_00006
+    21300742: CAVALEIRO2_FRENTE_00007
+    21300744: CAVALEIRO2_FRENTE_00008
+    21300746: CAVALEIRO2_FRENTE_00009
+    21300748: CAVALEIRO2_FRENTE_00010
+    21300750: CAVALEIRO2_FRENTE_00011
+    21300752: CAVALEIRO2_FRENTE_00012
+    21300754: CAVALEIRO2_FRENTE_00013
+    21300756: CAVALEIRO2_FRENTE_00014
+    21300758: CAVALEIRO2_LADO_00001
+    21300760: CAVALEIRO2_LADO_00002
+    21300762: CAVALEIRO2_LADO_00003
+    21300764: CAVALEIRO2_LADO_00004
+    21300766: CAVALEIRO2_LADO_00005
+    21300768: CAVALEIRO2_LADO_00006
+    21300770: CAVALEIRO2_LADO_00007
+    21300772: CAVALEIRO2_LADO_00008
+    21300774: CAVALEIRO2_LADO_00009
+    21300776: CAVALEIRO2_LADO_00010
+    21300778: CAVALEIRO2_LADO_00011
+    21300780: CAVALEIRO2_LADO_00012
+    21300782: CAVALEIRO2_LADO_00013
+    21300784: CAVALEIRO2_LADO_00014
+    21300786: CAVALEIRO2_STILL1
+    21300788: CAVALEIRO2_STILL2
+    21300790: CAVALEIRO3_ATACK_00001
+    21300792: CAVALEIRO3_ATACK_00002
+    21300794: CAVALEIRO3_ATACK_00003
+    21300796: CAVALEIRO3_ATACK_00004
+    21300798: CAVALEIRO3_ATACK_00005
+    21300800: CAVALEIRO3_ATACK_00006
+    21300802: CAVALEIRO3_ATACK_00007
+    21300804: CAVALEIRO3_ATACK_00008
+    21300806: CAVALEIRO3_ATACK_00009
+    21300808: CAVALEIRO3_ATACK_00010
+    21300810: CAVALEIRO3_ATACK_00011
+    21300812: CAVALEIRO3_COSTAS_00001
+    21300814: CAVALEIRO3_COSTAS_00002
+    21300816: CAVALEIRO3_COSTAS_00003
+    21300818: CAVALEIRO3_COSTAS_00004
+    21300820: CAVALEIRO3_COSTAS_00005
+    21300822: CAVALEIRO3_COSTAS_00006
+    21300824: CAVALEIRO3_COSTAS_00007
+    21300826: CAVALEIRO3_COSTAS_00008
+    21300828: CAVALEIRO3_COSTAS_00009
+    21300830: CAVALEIRO3_COSTAS_00010
+    21300832: CAVALEIRO3_COSTAS_00011
+    21300834: CAVALEIRO3_COSTAS_00012
+    21300836: CAVALEIRO3_COSTAS_00013
+    21300838: CAVALEIRO3_COSTAS_00014
+    21300840: CAVALEIRO3_DIE_00001
+    21300842: CAVALEIRO3_DIE_00002
+    21300844: CAVALEIRO3_DIE_00003
+    21300846: CAVALEIRO3_DIE_00004
+    21300848: CAVALEIRO3_DIE_00005
+    21300850: CAVALEIRO3_DIE_00006
+    21300852: CAVALEIRO3_DIE_00007
+    21300854: CAVALEIRO3_DIE_00008
+    21300856: CAVALEIRO3_DIE_00009
+    21300858: CAVALEIRO3_DIE_00010
+    21300860: CAVALEIRO3_DIE_00011
+    21300862: CAVALEIRO3_DIE_00012
+    21300864: CAVALEIRO3_DIE_00013
+    21300866: CAVALEIRO3_DIE_00014
+    21300868: CAVALEIRO3_DIE_00015
+    21300870: CAVALEIRO3_DIE_00016
+    21300872: CAVALEIRO3_FRENTE_00001
+    21300874: CAVALEIRO3_FRENTE_00002
+    21300876: CAVALEIRO3_FRENTE_00003
+    21300878: CAVALEIRO3_FRENTE_00004
+    21300880: CAVALEIRO3_FRENTE_00005
+    21300882: CAVALEIRO3_FRENTE_00006
+    21300884: CAVALEIRO3_FRENTE_00007
+    21300886: CAVALEIRO3_FRENTE_00008
+    21300888: CAVALEIRO3_FRENTE_00009
+    21300890: CAVALEIRO3_FRENTE_00010
+    21300892: CAVALEIRO3_FRENTE_00011
+    21300894: CAVALEIRO3_FRENTE_00012
+    21300896: CAVALEIRO3_FRENTE_00013
+    21300898: CAVALEIRO3_FRENTE_00014
+    21300900: CAVALEIRO3_LADO_00001
+    21300902: CAVALEIRO3_LADO_00002
+    21300904: CAVALEIRO3_LADO_00003
+    21300906: CAVALEIRO3_LADO_00004
+    21300908: CAVALEIRO3_LADO_00005
+    21300910: CAVALEIRO3_LADO_00006
+    21300912: CAVALEIRO3_LADO_00007
+    21300914: CAVALEIRO3_LADO_00008
+    21300916: CAVALEIRO3_LADO_00009
+    21300918: CAVALEIRO3_LADO_00010
+    21300920: CAVALEIRO3_LADO_00011
+    21300922: CAVALEIRO3_LADO_00012
+    21300924: CAVALEIRO3_LADO_00013
+    21300926: CAVALEIRO3_LADO_00014
+    21300928: CAVALEIRO3_STILL1
+    21300930: CAVALEIRO3_STILL2
+    21300932: CAVALEIRO4_ATACK_00001
+    21300934: CAVALEIRO4_ATACK_00002
+    21300936: CAVALEIRO4_ATACK_00003
+    21300938: CAVALEIRO4_ATACK_00004
+    21300940: CAVALEIRO4_ATACK_00005
+    21300942: CAVALEIRO4_ATACK_00006
+    21300944: CAVALEIRO4_ATACK_00007
+    21300946: CAVALEIRO4_ATACK_00008
+    21300948: CAVALEIRO4_ATACK_00009
+    21300950: CAVALEIRO4_ATACK_00010
+    21300952: CAVALEIRO4_ATACK_00011
+    21300954: CAVALEIRO4_COSTAS_00001
+    21300956: CAVALEIRO4_COSTAS_00002
+    21300958: CAVALEIRO4_COSTAS_00003
+    21300960: CAVALEIRO4_COSTAS_00004
+    21300962: CAVALEIRO4_COSTAS_00005
+    21300964: CAVALEIRO4_COSTAS_00006
+    21300966: CAVALEIRO4_COSTAS_00007
+    21300968: CAVALEIRO4_COSTAS_00008
+    21300970: CAVALEIRO4_COSTAS_00009
+    21300972: CAVALEIRO4_COSTAS_00010
+    21300974: CAVALEIRO4_COSTAS_00011
+    21300976: CAVALEIRO4_COSTAS_00012
+    21300978: CAVALEIRO4_COSTAS_00013
+    21300980: CAVALEIRO4_COSTAS_00014
+    21300982: CAVALEIRO4_DIE_00001
+    21300984: CAVALEIRO4_DIE_00002
+    21300986: CAVALEIRO4_DIE_00003
+    21300988: CAVALEIRO4_DIE_00004
+    21300990: CAVALEIRO4_DIE_00005
+    21300992: CAVALEIRO4_DIE_00006
+    21300994: CAVALEIRO4_DIE_00007
+    21300996: CAVALEIRO4_DIE_00008
+    21300998: CAVALEIRO4_DIE_00009
+    21301000: CAVALEIRO4_DIE_00010
+    21301002: CAVALEIRO4_DIE_00011
+    21301004: CAVALEIRO4_DIE_00012
+    21301006: CAVALEIRO4_DIE_00013
+    21301008: CAVALEIRO4_DIE_00014
+    21301010: CAVALEIRO4_DIE_00015
+    21301012: CAVALEIRO4_FRENTE_00001
+    21301014: CAVALEIRO4_FRENTE_00002
+    21301016: CAVALEIRO4_FRENTE_00003
+    21301018: CAVALEIRO4_FRENTE_00004
+    21301020: CAVALEIRO4_FRENTE_00005
+    21301022: CAVALEIRO4_FRENTE_00006
+    21301024: CAVALEIRO4_FRENTE_00007
+    21301026: CAVALEIRO4_FRENTE_00008
+    21301028: CAVALEIRO4_FRENTE_00009
+    21301030: CAVALEIRO4_FRENTE_00010
+    21301032: CAVALEIRO4_FRENTE_00011
+    21301034: CAVALEIRO4_FRENTE_00012
+    21301036: CAVALEIRO4_FRENTE_00013
+    21301038: CAVALEIRO4_FRENTE_00014
+    21301040: CAVALEIRO4_LADO_00001
+    21301042: CAVALEIRO4_LADO_00002
+    21301044: CAVALEIRO4_LADO_00003
+    21301046: CAVALEIRO4_LADO_00004
+    21301048: CAVALEIRO4_LADO_00005
+    21301050: CAVALEIRO4_LADO_00006
+    21301052: CAVALEIRO4_LADO_00007
+    21301054: CAVALEIRO4_LADO_00008
+    21301056: CAVALEIRO4_LADO_00009
+    21301058: CAVALEIRO4_LADO_00010
+    21301060: CAVALEIRO4_LADO_00011
+    21301062: CAVALEIRO4_LADO_00012
+    21301064: CAVALEIRO4_LADO_00013
+    21301066: CAVALEIRO4_LADO_00014
+    21301068: CAVALEIRO4_STILL1
+    21301070: CAVALEIRO4_STILL2
+    21301072: HEROI_CAVALEIRO_NVL3_00131
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CAVALEIRO1_ATACK_00001
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 234
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_ATACK_00002
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 122
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_ATACK_00003
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 10
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_ATACK_00004
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 912
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_ATACK_00005
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 800
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_ATACK_00006
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 688
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_ATACK_00007
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 576
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_ATACK_00008
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 464
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_ATACK_00009
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 352
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_ATACK_00010
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 240
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_ATACK_00011
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 128
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_COSTAS_00001
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 16
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_COSTAS_00002
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 912
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_COSTAS_00003
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 800
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_COSTAS_00004
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 688
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_COSTAS_00005
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 576
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_COSTAS_00006
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 464
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_COSTAS_00007
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 352
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_COSTAS_00008
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 240
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_COSTAS_00009
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 128
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_COSTAS_00010
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 16
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_COSTAS_00011
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 912
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_COSTAS_00012
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 800
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_COSTAS_00013
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 688
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_COSTAS_00014
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 576
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_DIE_00001
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 464
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_DIE_00002
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 352
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_DIE_00003
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 240
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_DIE_00004
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 128
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_DIE_00005
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 16
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_DIE_00006
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 912
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_DIE_00007
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 800
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_DIE_00008
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 688
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_DIE_00009
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 576
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_DIE_00010
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 464
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_DIE_00011
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 352
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_DIE_00012
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 240
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_DIE_00013
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 128
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_DIE_00014
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 16
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_DIE_00015
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 912
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_FRENTE_00001
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 800
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_FRENTE_00002
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 688
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_FRENTE_00003
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 576
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_FRENTE_00004
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 464
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_FRENTE_00005
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 352
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_FRENTE_00006
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 240
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_FRENTE_00007
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 128
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_FRENTE_00008
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 16
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_FRENTE_00009
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 912
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_FRENTE_00010
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 800
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_FRENTE_00011
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 688
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_FRENTE_00012
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 576
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_FRENTE_00013
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 464
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_FRENTE_00014
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 352
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_LADO_00001
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 240
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_LADO_00002
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 128
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_LADO_00003
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 16
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_LADO_00004
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 912
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_LADO_00005
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 800
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_LADO_00006
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 688
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_LADO_00007
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 576
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_LADO_00008
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 464
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_LADO_00009
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 352
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_LADO_00010
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 240
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_LADO_00011
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 128
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_LADO_00012
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 16
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_LADO_00013
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 912
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_LADO_00014
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 800
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_STILL1
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 688
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO1_STILL2
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 688
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_ATACK_00001
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 576
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_ATACK_00002
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 464
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_ATACK_00003
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 352
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_ATACK_00004
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 240
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_ATACK_00005
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 128
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_ATACK_00006
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 16
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_ATACK_00007
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 912
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_ATACK_00008
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 800
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_ATACK_00009
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 688
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_ATACK_00010
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 576
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_ATACK_00011
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 464
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_COSTAS_00001
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 352
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_COSTAS_00002
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 240
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_COSTAS_00003
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 128
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_COSTAS_00004
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 16
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_COSTAS_00005
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 912
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_COSTAS_00006
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 800
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_COSTAS_00007
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 688
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_COSTAS_00008
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 576
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_COSTAS_00009
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 464
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_COSTAS_00010
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 352
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_COSTAS_00011
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 240
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_COSTAS_00012
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 128
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_COSTAS_00013
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 16
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_COSTAS_00014
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 912
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_DIE_00001
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 800
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_DIE_00002
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 688
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_DIE_00003
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 576
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_DIE_00004
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 464
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_DIE_00005
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 352
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_DIE_00006
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 240
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_DIE_00007
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 128
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_DIE_00008
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 16
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_DIE_00009
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 912
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_DIE_00010
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 800
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_DIE_00011
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 688
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_DIE_00012
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 576
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_DIE_00013
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 464
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_DIE_00014
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 352
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_DIE_00015
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 240
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_FRENTE_00001
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 128
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_FRENTE_00002
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 16
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_FRENTE_00003
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 912
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_FRENTE_00004
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 800
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_FRENTE_00005
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 688
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_FRENTE_00006
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 576
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_FRENTE_00007
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 464
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_FRENTE_00008
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 352
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_FRENTE_00009
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 240
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_FRENTE_00010
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 128
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_FRENTE_00011
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 16
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_FRENTE_00012
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 912
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_FRENTE_00013
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 800
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_FRENTE_00014
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 688
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_LADO_00001
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 576
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_LADO_00002
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 464
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_LADO_00003
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 352
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_LADO_00004
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 240
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_LADO_00005
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 128
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_LADO_00006
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 16
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_LADO_00007
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 912
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_LADO_00008
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 800
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_LADO_00009
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 688
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_LADO_00010
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 576
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_LADO_00011
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 464
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_LADO_00012
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 352
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_LADO_00013
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 240
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_LADO_00014
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 128
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_STILL1
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 16
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO2_STILL2
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 16
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_ATACK_00001
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 912
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_ATACK_00002
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 800
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_ATACK_00003
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 688
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_ATACK_00004
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 576
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_ATACK_00005
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 464
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_ATACK_00006
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 352
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_ATACK_00007
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 240
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_ATACK_00008
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 128
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_ATACK_00009
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 16
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_ATACK_00010
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 912
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_ATACK_00011
+      rect:
+        serializedVersion: 2
+        x: 3277
+        y: 912
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_COSTAS_00001
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 912
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_COSTAS_00002
+      rect:
+        serializedVersion: 2
+        x: 3539
+        y: 912
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_COSTAS_00003
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 912
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_COSTAS_00004
+      rect:
+        serializedVersion: 2
+        x: 3801
+        y: 912
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_COSTAS_00005
+      rect:
+        serializedVersion: 2
+        x: 3932
+        y: 912
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_COSTAS_00006
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 800
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_COSTAS_00007
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 688
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_COSTAS_00008
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 576
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_COSTAS_00009
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 464
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_COSTAS_00010
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 352
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_COSTAS_00011
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 240
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_COSTAS_00012
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 128
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_COSTAS_00013
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 16
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_COSTAS_00014
+      rect:
+        serializedVersion: 2
+        x: 3277
+        y: 800
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_DIE_00001
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 800
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_DIE_00002
+      rect:
+        serializedVersion: 2
+        x: 3539
+        y: 800
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_DIE_00003
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 800
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_DIE_00004
+      rect:
+        serializedVersion: 2
+        x: 3801
+        y: 800
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_DIE_00005
+      rect:
+        serializedVersion: 2
+        x: 3932
+        y: 800
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_DIE_00006
+      rect:
+        serializedVersion: 2
+        x: 3277
+        y: 688
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_DIE_00007
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 688
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_DIE_00008
+      rect:
+        serializedVersion: 2
+        x: 3539
+        y: 688
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_DIE_00009
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 688
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_DIE_00010
+      rect:
+        serializedVersion: 2
+        x: 3801
+        y: 688
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_DIE_00011
+      rect:
+        serializedVersion: 2
+        x: 3932
+        y: 688
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_DIE_00012
+      rect:
+        serializedVersion: 2
+        x: 3277
+        y: 576
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_DIE_00013
+      rect:
+        serializedVersion: 2
+        x: 3277
+        y: 464
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_DIE_00014
+      rect:
+        serializedVersion: 2
+        x: 3277
+        y: 352
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_DIE_00015
+      rect:
+        serializedVersion: 2
+        x: 3277
+        y: 240
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_DIE_00016
+      rect:
+        serializedVersion: 2
+        x: 3277
+        y: 240
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_FRENTE_00001
+      rect:
+        serializedVersion: 2
+        x: 3277
+        y: 128
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_FRENTE_00002
+      rect:
+        serializedVersion: 2
+        x: 3277
+        y: 16
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_FRENTE_00003
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 576
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_FRENTE_00004
+      rect:
+        serializedVersion: 2
+        x: 3539
+        y: 576
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_FRENTE_00005
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 576
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_FRENTE_00006
+      rect:
+        serializedVersion: 2
+        x: 3801
+        y: 576
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_FRENTE_00007
+      rect:
+        serializedVersion: 2
+        x: 3932
+        y: 576
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_FRENTE_00008
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 464
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_FRENTE_00009
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 352
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_FRENTE_00010
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 240
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_FRENTE_00011
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 128
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_FRENTE_00012
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 16
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_FRENTE_00013
+      rect:
+        serializedVersion: 2
+        x: 3539
+        y: 464
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_FRENTE_00014
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 464
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_LADO_00001
+      rect:
+        serializedVersion: 2
+        x: 3801
+        y: 464
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_LADO_00002
+      rect:
+        serializedVersion: 2
+        x: 3932
+        y: 464
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_LADO_00003
+      rect:
+        serializedVersion: 2
+        x: 3539
+        y: 352
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_LADO_00004
+      rect:
+        serializedVersion: 2
+        x: 3539
+        y: 240
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_LADO_00005
+      rect:
+        serializedVersion: 2
+        x: 3539
+        y: 128
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_LADO_00006
+      rect:
+        serializedVersion: 2
+        x: 3539
+        y: 16
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_LADO_00007
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 352
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_LADO_00008
+      rect:
+        serializedVersion: 2
+        x: 3801
+        y: 352
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_LADO_00009
+      rect:
+        serializedVersion: 2
+        x: 3932
+        y: 352
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_LADO_00010
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 240
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_LADO_00011
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 128
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_LADO_00012
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 16
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_LADO_00013
+      rect:
+        serializedVersion: 2
+        x: 3801
+        y: 240
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_LADO_00014
+      rect:
+        serializedVersion: 2
+        x: 3932
+        y: 240
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_STILL1
+      rect:
+        serializedVersion: 2
+        x: 3801
+        y: 128
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO3_STILL2
+      rect:
+        serializedVersion: 2
+        x: 3801
+        y: 128
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_ATACK_00001
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 911
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_ATACK_00002
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 798
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_ATACK_00003
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 685
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_ATACK_00004
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 572
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_ATACK_00005
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 459
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_ATACK_00006
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 346
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_ATACK_00007
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 233
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_ATACK_00008
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 120
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_ATACK_00009
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_ATACK_00010
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 911
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_ATACK_00011
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 798
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_COSTAS_00001
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 685
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_COSTAS_00002
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 572
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_COSTAS_00003
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 459
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_COSTAS_00004
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 346
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_COSTAS_00005
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 233
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_COSTAS_00006
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 120
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_COSTAS_00007
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 7
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_COSTAS_00008
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 911
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_COSTAS_00009
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 798
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_COSTAS_00010
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 685
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_COSTAS_00011
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 572
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_COSTAS_00012
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 459
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_COSTAS_00013
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 346
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_COSTAS_00014
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 233
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_DIE_00001
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 120
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_DIE_00002
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 7
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_DIE_00003
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 911
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_DIE_00004
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 798
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_DIE_00005
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 685
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_DIE_00006
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 572
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_DIE_00007
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 459
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_DIE_00008
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 346
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_DIE_00009
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 233
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_DIE_00010
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 120
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_DIE_00011
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 7
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_DIE_00012
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 911
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_DIE_00013
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 798
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_DIE_00014
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 685
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_DIE_00015
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 572
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_FRENTE_00001
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 459
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_FRENTE_00002
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 346
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_FRENTE_00003
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 233
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_FRENTE_00004
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 120
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_FRENTE_00005
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 7
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_FRENTE_00006
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 911
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_FRENTE_00007
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 798
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_FRENTE_00008
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 685
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_FRENTE_00009
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 572
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_FRENTE_00010
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 459
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_FRENTE_00011
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 346
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_FRENTE_00012
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 233
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_FRENTE_00013
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 120
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_FRENTE_00014
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 7
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_LADO_00001
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 911
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_LADO_00002
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 798
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_LADO_00003
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 685
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_LADO_00004
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 572
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_LADO_00005
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 459
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_LADO_00006
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 346
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_LADO_00007
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 233
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_LADO_00008
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 120
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_LADO_00009
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 7
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_LADO_00010
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 911
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_LADO_00011
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 798
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_LADO_00012
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 685
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_LADO_00013
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 572
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_LADO_00014
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 459
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_STILL1
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 346
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAVALEIRO4_STILL2
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 346
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HEROI_CAVALEIRO_NVL3_00131
+      rect:
+        serializedVersion: 2
+        x: 3801
+        y: 16
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

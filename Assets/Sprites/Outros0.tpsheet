@@ -1,0 +1,35 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: Outros0.png (512 x 512)
+# $TexturePacker:SmartUpdate:f4d794b08821c5833bdd18f9551fe5a8:bd74a89cfead1076b9228509b8c504a8:774832abac7a7d218a89fcc964d29ce7$
+#
+
+Cruz_Dying_Heroi;2;56;76;86;0.5;0.5
+Fumaca2_Dying_Heroi_01;2;420;95;90;0.5;0.5
+Fumaca2_Dying_Heroi_02;99;420;95;90;0.5;0.5
+Fumaca2_Dying_Heroi_03;196;420;95;90;0.5;0.5
+Fumaca2_Dying_Heroi_04;293;420;95;90;0.5;0.5
+Fumaca2_Dying_Heroi_05;390;420;95;90;0.5;0.5
+Fumaca2_Dying_Heroi_06;2;328;95;90;0.5;0.5
+Fumaca2_Dying_Heroi_07;2;236;95;90;0.5;0.5
+Fumaca2_Dying_Heroi_08;2;144;95;90;0.5;0.5
+Fumaca_Dying_Heroi_01;80;56;76;86;0.5;0.5
+Fumaca_Dying_Heroi_02;99;332;76;86;0.5;0.5
+Fumaca_Dying_Heroi_03;99;244;76;86;0.5;0.5
+Fumaca_Dying_Heroi_04;99;156;76;86;0.5;0.5
+Fumaca_Dying_Heroi_05;158;68;76;86;0.5;0.5
+Fumaca_Dying_Heroi_06;177;332;76;86;0.5;0.5
+Fumaca_Dying_Heroi_07;177;244;76;86;0.5;0.5
+smoke0001;177;176;90;66;0.5;0.5
+smoke0002;236;108;90;66;0.5;0.5
+smoke0003;236;40;90;66;0.5;0.5
+smoke0004;328;352;90;66;0.5;0.5
+smoke0005;420;352;90;66;0.5;0.5
+smoke0006;255;284;90;66;0.5;0.5
+smoke0007;269;216;90;66;0.5;0.5
+smoke0008;347;284;90;66;0.5;0.5
+smoke0009;361;216;90;66;0.5;0.5

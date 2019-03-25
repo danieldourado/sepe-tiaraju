@@ -1,0 +1,1082 @@
+fileFormatVersion: 2
+guid: 2034bfa46f84818478ccb5fc0fef4192
+timeCreated: 1460147101
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CAVALARIA_INIMIGO_01_00000
+    21300002: CAVALARIA_INIMIGO_01_00001
+    21300004: CAVALARIA_INIMIGO_01_00002
+    21300006: CAVALARIA_INIMIGO_01_00003
+    21300008: CAVALARIA_INIMIGO_01_00004
+    21300010: CAVALARIA_INIMIGO_01_00005
+    21300012: CAVALARIA_INIMIGO_01_00006
+    21300014: CAVALARIA_INIMIGO_01_00007
+    21300016: CAVALARIA_INIMIGO_01_00008
+    21300018: CAVALARIA_INIMIGO_01_00009
+    21300020: CAVALARIA_INIMIGO_01_00010
+    21300022: CAVALARIA_INIMIGO_01_00011
+    21300024: CAVALARIA_INIMIGO_01_00012
+    21300026: CAVALARIA_INIMIGO_01_00013
+    21300028: CAVALARIA_INIMIGO_01_00014
+    21300030: CAVALARIA_INIMIGO_01_00015
+    21300032: CAVALARIA_INIMIGO_01_00016
+    21300034: CAVALARIA_INIMIGO_01_00017
+    21300036: CAVALARIA_INIMIGO_01_00018
+    21300038: CAVALARIA_INIMIGO_01_00019
+    21300040: CAVALARIA_INIMIGO_01_00020
+    21300042: CAVALARIA_INIMIGO_01_00021
+    21300044: CAVALARIA_INIMIGO_01_00022
+    21300046: CAVALARIA_INIMIGO_01_00023
+    21300048: CAVALARIA_INIMIGO_01_00024
+    21300050: CAVALARIA_INIMIGO_01_00025
+    21300052: CAVALARIA_INIMIGO_01_00026
+    21300054: CAVALARIA_INIMIGO_01_00027
+    21300056: CAVALARIA_INIMIGO_01_00028
+    21300058: CAVALARIA_INIMIGO_01_00029
+    21300060: CAVALARIA_INIMIGO_01_00030
+    21300062: CAVALARIA_INIMIGO_01_00031
+    21300064: CAVALARIA_INIMIGO_01_00032
+    21300066: CAVALARIA_INIMIGO_01_00033
+    21300068: CAVALARIA_INIMIGO_01_00034
+    21300070: CAVALARIA_INIMIGO_01_00035
+    21300072: CAVALARIA_INIMIGO_01_00036
+    21300074: CAVALARIA_INIMIGO_01_00037
+    21300076: CAVALARIA_INIMIGO_01_00038
+    21300078: CAVALARIA_INIMIGO_01_00039
+    21300080: CAVALARIA_INIMIGO_01_00040
+    21300082: CAVALARIA_INIMIGO_01_00041
+    21300084: CAVALARIA_INIMIGO_01_00042
+    21300086: CAVALARIA_INIMIGO_01_00043
+    21300088: CAVALARIA_INIMIGO_01_00044
+    21300090: CAVALARIA_INIMIGO_01_00045
+    21300092: CAVALARIA_INIMIGO_01_00046
+    21300094: CAVALARIA_INIMIGO_01_00047
+    21300096: CAVALARIA_INIMIGO_01_00048
+    21300098: CAVALARIA_INIMIGO_01_00049
+    21300100: CAVALARIA_INIMIGO_01_00050
+    21300102: CAVALARIA_INIMIGO_01_00051
+    21300104: CAVALARIA_INIMIGO_01_00052
+    21300106: CAVALARIA_INIMIGO_01_00053
+    21300108: CAVALARIA_INIMIGO_01_00054
+    21300110: CAVALARIA_INIMIGO_01_00055
+    21300112: CAVALARIA_INIMIGO_01_00056
+    21300114: CAVALARIA_INIMIGO_01_00057
+    21300116: CAVALARIA_INIMIGO_01_00058
+    21300118: CAVALARIA_INIMIGO_01_00059
+    21300120: CAVALARIA_INIMIGO_01_00060
+    21300122: CAVALARIA_INIMIGO_01_00061
+    21300124: CAVALARIA_INIMIGO_01_00062
+    21300126: CAVALARIA_INIMIGO_01_00063
+    21300128: CAVALARIA_INIMIGO_01_00064
+    21300130: CAVALARIA_INIMIGO_01_00065
+    21300132: CAVALARIA_INIMIGO_01_00066
+    21300134: CAVALARIA_INIMIGO_01_00067
+    21300136: CAVALARIA_INIMIGO_01_00068
+    21300138: CAVALARIA_INIMIGO_01_00069
+    21300140: CAVALARIA_INIMIGO_01_00070
+    21300142: CAVALARIA_INIMIGO_01_00071
+    21300144: CAVALARIA_INIMIGO_01_00072
+    21300146: CAVALARIA_INIMIGO_01_00073
+    21300148: CAVALARIA_INIMIGO_01_00074
+    21300150: CAVALARIA_INIMIGO_01_00075
+    21300152: CAVALARIA_INIMIGO_01_00076
+    21300154: CAVALARIA_INIMIGO_01_00077
+    21300156: CAVALARIA_INIMIGO_01_00078
+    21300158: CAVALARIA_INIMIGO_01_00079
+    21300160: CAVALARIA_INIMIGO_01_00080
+    21300162: CAVALARIA_INIMIGO_01_00081
+    21300164: CAVALARIA_INIMIGO_01_00082
+    21300166: CAVALARIA_INIMIGO_01_00083
+    21300168: CAVALARIA_INIMIGO_01_00084
+    21300170: CAVALARIA_INIMIGO_01_00085
+    21300172: CAVALARIA_INIMIGO_01_00086
+    21300174: CAVALARIA_INIMIGO_01_00087
+    21300176: CAVALARIA_INIMIGO_01_00088
+    21300178: CAVALARIA_INIMIGO_01_00089
+    21300180: CAVALARIA_INIMIGO_01_00090
+    21300182: CAVALARIA_INIMIGO_01_00091
+    21300184: CAVALARIA_INIMIGO_01_00092
+    21300186: CAVALARIA_INIMIGO_01_00093
+    21300188: CAVALARIA_INIMIGO_01_00094
+    21300190: CAVALARIA_INIMIGO_01_00095
+    21300192: CAVALARIA_INIMIGO_01_00096
+    21300194: CAVALARIA_INIMIGO_01_00097
+    21300196: CAVALARIA_INIMIGO_01_00098
+    21300198: CAVALARIA_INIMIGO_01_00099
+    21300200: CAVALARIA_INIMIGO_01_00100
+    21300202: CAVALARIA_INIMIGO_01_00101
+    21300204: CAVALARIA_INIMIGO_01_00102
+    21300206: CAVALARIA_INIMIGO_01_00103
+    21300208: CAVALARIA_INIMIGO_01_00104
+    21300210: CAVALARIA_INIMIGO_01_00105
+    21300212: CAVALARIA_INIMIGO_01_00106
+    21300214: CAVALARIA_INIMIGO_01_00107
+    21300216: CAVALARIA_INIMIGO_01_00108
+    21300218: CAVALARIA_INIMIGO_01_00109
+    21300220: CAVALARIA_INIMIGO_01_00110
+    21300222: CAVALARIA_INIMIGO_01_00111
+    21300224: CAVALARIA_INIMIGO_01_00112
+    21300226: CAVALARIA_INIMIGO_01_00113
+    21300228: CAVALARIA_INIMIGO_01_00114
+    21300230: CAVALARIA_INIMIGO_01_00115
+    21300232: CAVALARIA_INIMIGO_01_00116
+    21300234: CAVALARIA_INIMIGO_01_00117
+    21300236: CAVALARIA_INIMIGO_01_00118
+    21300238: CAVALARIA_INIMIGO_01_00119
+    21300240: CAVALARIA_INIMIGO_01_00120
+    21300242: CAVALARIA_INIMIGO_01_00121
+    21300244: CAVALARIA_INIMIGO_01_00122
+    21300246: CAVALARIA_INIMIGO_01_00123
+    21300248: CAVALARIA_INIMIGO_01_00124
+    21300250: CAVALARIA_INIMIGO_01_00125
+    21300252: CAVALARIA_INIMIGO_01_00126
+    21300254: CAVALARIA_INIMIGO_01_00127
+    21300256: CAVALARIA_INIMIGO_01_00128
+    21300258: CAVALARIA_INIMIGO_01_00129
+    21300260: CAVALARIA_INIMIGO_01_00130
+    21300262: CAVALARIA_INIMIGO_01_00131
+    21300264: CAVALARIA_INIMIGO_01_00132
+    21300266: CAVALARIA_INIMIGO_01_00133
+    21300268: CAVALARIA_INIMIGO_01_00134
+    21300270: CAVALARIA_INIMIGO_01_00135
+    21300272: CAVALARIA_INIMIGO_01_00136
+    21300274: CAVALARIA_INIMIGO_01_00137
+    21300276: CAVALARIA_INIMIGO_01_00138
+    21300278: CAVALARIA_INIMIGO_01_00139
+    21300280: CAVALARIA_INIMIGO_01_00140
+    21300282: CAVALARIA_INIMIGO_01_00141
+    21300284: CAVALARIA_INIMIGO_01_00142
+    21300286: CAVALARIA_INIMIGO_01_00143
+    21300288: CAVALARIA_INIMIGO_01_00144
+    21300290: CAVALARIA_INIMIGO_01_00145
+    21300292: CAVALARIA_INIMIGO_01_00146
+    21300294: CAVALARIA_INIMIGO_01_00147
+    21300296: CAVALARIA_INIMIGO_01_00148
+    21300298: CAVALARIA_INIMIGO_01_00149
+    21300300: CAVALARIA_INIMIGO_01_00150
+    21300302: CAVALARIA_INIMIGO_01_00151
+    21300304: CAVALARIA_INIMIGO_01_00152
+    21300306: CAVALARIA_INIMIGO_01_00153
+    21300308: CAVALARIA_INIMIGO_01_00154
+    21300310: CAVALARIA_INIMIGO_01_00155
+    21300312: CAVALARIA_INIMIGO_01_00156
+    21300314: CAVALARIA_INIMIGO_01_00157
+    21300316: CAVALARIA_INIMIGO_01_00158
+    21300318: CAVALARIA_INIMIGO_01_00159
+    21300320: CAVALARIA_INIMIGO_01_00160
+    21300322: CAVALARIA_INIMIGO_01_00161
+    21300324: CAVALARIA_INIMIGO_01_00162
+    21300326: CAVALARIA_INIMIGO_01_00163
+    21300328: CAVALARIA_INIMIGO_01_00164
+    21300330: CAVALARIA_INIMIGO_01_00165
+    21300332: CAVALARIA_INIMIGO_01_00166
+    21300334: CAVALARIA_INIMIGO_01_00167
+    21300336: CAVALARIA_INIMIGO_01_00168
+    21300338: CAVALARIA_INIMIGO_01_00169
+    21300340: CAVALARIA_INIMIGO_01_00170
+    21300342: CAVALARIA_INIMIGO_01_00171
+    21300344: CAVALARIA_INIMIGO_01_00172
+    21300346: CAVALARIA_INIMIGO_01_00173
+    21300348: CAVALARIA_INIMIGO_01_00174
+    21300350: CAVALARIA_INIMIGO_01_00175
+    21300352: CAVALARIA_INIMIGO_01_00176
+    21300354: CAVALARIA_INIMIGO_01_00177
+    21300356: CAVALARIA_INIMIGO_01_00178
+    21300358: CAVALARIA_INIMIGO_01_00179
+    21300360: CAVALARIA_INIMIGO_01_00180
+    21300362: CAVALARIA_INIMIGO_01_00181
+    21300364: CAVALARIA_INIMIGO_01_00182
+    21300366: CAVALARIA_INIMIGO_01_00183
+    21300368: CAVALARIA_INIMIGO_01_00184
+    21300370: CAVALARIA_INIMIGO_01_00185
+    21300372: CAVALARIA_INIMIGO_01_00186
+    21300374: CAVALARIA_INIMIGO_01_00187
+    21300376: CAVALARIA_INIMIGO_01_00188
+    21300378: CAVALARIA_INIMIGO_01_00189
+    21300380: CAVALARIA_INIMIGO_01_00190
+    21300382: CAVALARIA_INIMIGO_01_00191
+    21300384: CAVALARIA_INIMIGO_01_00192
+    21300386: CAVALARIA_INIMIGO_01_00193
+    21300388: CAVALARIA_INIMIGO_01_00194
+    21300390: CAVALARIA_INIMIGO_01_00195
+    21300392: CAVALARIA_INIMIGO_01_00196
+    21300394: CAVALARIA_INIMIGO_01_00197
+    21300396: CAVALARIA_INIMIGO_01_00198
+    21300398: CAVALARIA_INIMIGO_01_00199
+    21300400: CAVALARIA_INIMIGO_01_00200
+    21300402: CAVALARIA_INIMIGO_01_00201
+    21300404: CAVALARIA_INIMIGO_01_00202
+    21300406: CAVALARIA_INIMIGO_01_00203
+    21300408: CAVALARIA_INIMIGO_01_00204
+    21300410: CAVALARIA_INIMIGO_01_00205
+    21300412: COSTAS_CAVALARIA_INIMIGA1_00001
+    21300414: COSTAS_CAVALARIA_INIMIGA1_00002
+    21300416: COSTAS_CAVALARIA_INIMIGA1_00003
+    21300418: COSTAS_CAVALARIA_INIMIGA1_00004
+    21300420: COSTAS_CAVALARIA_INIMIGA1_00005
+    21300422: COSTAS_CAVALARIA_INIMIGA1_00006
+    21300424: COSTAS_CAVALARIA_INIMIGA1_00007
+    21300426: COSTAS_CAVALARIA_INIMIGA1_00008
+    21300428: COSTAS_CAVALARIA_INIMIGA1_00009
+    21300430: COSTAS_CAVALARIA_INIMIGA1_00010
+    21300432: COSTAS_CAVALARIA_INIMIGA1_00011
+    21300434: COSTAS_CAVALARIA_INIMIGA1_00012
+    21300436: COSTAS_CAVALARIA_INIMIGA1_00013
+    21300438: COSTAS_CAVALARIA_INIMIGA1_00014
+    21300440: FRENTE_CAVALARIA_INIMIGA1_00001
+    21300442: FRENTE_CAVALARIA_INIMIGA1_00002
+    21300444: FRENTE_CAVALARIA_INIMIGA1_00003
+    21300446: FRENTE_CAVALARIA_INIMIGA1_00004
+    21300448: FRENTE_CAVALARIA_INIMIGA1_00005
+    21300450: FRENTE_CAVALARIA_INIMIGA1_00006
+    21300452: FRENTE_CAVALARIA_INIMIGA1_00007
+    21300454: FRENTE_CAVALARIA_INIMIGA1_00008
+    21300456: FRENTE_CAVALARIA_INIMIGA1_00009
+    21300458: FRENTE_CAVALARIA_INIMIGA1_00010
+    21300460: FRENTE_CAVALARIA_INIMIGA1_00011
+    21300462: FRENTE_CAVALARIA_INIMIGA1_00012
+    21300464: FRENTE_CAVALARIA_INIMIGA1_00013
+    21300466: FRENTE_CAVALARIA_INIMIGA1_00014
+    21300468: LADO_CAVALARIA_INIMIGA1_00001
+    21300470: LADO_CAVALARIA_INIMIGA1_00002
+    21300472: LADO_CAVALARIA_INIMIGA1_00003
+    21300474: LADO_CAVALARIA_INIMIGA1_00004
+    21300476: LADO_CAVALARIA_INIMIGA1_00005
+    21300478: LADO_CAVALARIA_INIMIGA1_00006
+    21300480: LADO_CAVALARIA_INIMIGA1_00007
+    21300482: LADO_CAVALARIA_INIMIGA1_00008
+    21300484: LADO_CAVALARIA_INIMIGA1_00009
+    21300486: LADO_CAVALARIA_INIMIGA1_00010
+    21300488: LADO_CAVALARIA_INIMIGA1_00011
+    21300490: LADO_CAVALARIA_INIMIGA1_00012
+    21300492: LADO_CAVALARIA_INIMIGA1_00013
+    21300494: LADO_CAVALARIA_INIMIGA1_00014
+    21300496: M_STILL_CAVALARIA_INIMIGA1
+    21300498: N_ATTACK_CAVALARIA_INIMIGA1_00001
+    21300500: N_ATTACK_CAVALARIA_INIMIGA1_00002
+    21300502: N_ATTACK_CAVALARIA_INIMIGA1_00003
+    21300504: N_ATTACK_CAVALARIA_INIMIGA1_00004
+    21300506: N_ATTACK_CAVALARIA_INIMIGA1_00005
+    21300508: N_ATTACK_CAVALARIA_INIMIGA1_00006
+    21300510: N_ATTACK_CAVALARIA_INIMIGA1_00007
+    21300512: N_ATTACK_CAVALARIA_INIMIGA1_00008
+    21300514: N_ATTACK_CAVALARIA_INIMIGA1_00009
+    21300516: N_ATTACK_CAVALARIA_INIMIGA1_00010
+    21300518: N_ATTACK_CAVALARIA_INIMIGA1_00011
+    21300520: N_ATTACK_CAVALARIA_INIMIGA1_00012
+    21300522: N_ATTACK_CAVALARIA_INIMIGA1_00013
+    21300524: N_ATTACK_CAVALARIA_INIMIGA1_00014
+    21300526: N_ATTACK_CAVALARIA_INIMIGA1_00015
+    21300528: N_ATTACK_CAVALARIA_INIMIGA1_00016
+    21300530: N_ATTACK_CAVALARIA_INIMIGA1_00017
+    21300532: N_ATTACK_CAVALARIA_INIMIGA1_00018
+    21300534: O_DIE_CAVALARIA_INIMIGA1_00001
+    21300536: O_DIE_CAVALARIA_INIMIGA1_00002
+    21300538: O_DIE_CAVALARIA_INIMIGA1_00003
+    21300540: O_DIE_CAVALARIA_INIMIGA1_00004
+    21300542: O_DIE_CAVALARIA_INIMIGA1_00005
+    21300544: O_DIE_CAVALARIA_INIMIGA1_00006
+    21300546: O_DIE_CAVALARIA_INIMIGA1_00007
+    21300548: O_DIE_CAVALARIA_INIMIGA1_00008
+    21300550: O_DIE_CAVALARIA_INIMIGA1_00009
+    21300552: O_DIE_CAVALARIA_INIMIGA1_00010
+    21300554: O_DIE_CAVALARIA_INIMIGA1_00011
+    21300556: O_DIE_CAVALARIA_INIMIGA1_00012
+    21300558: O_DIE_CAVALARIA_INIMIGA1_00013
+    21300560: O_DIE_CAVALARIA_INIMIGA1_00014
+    21300562: O_DIE_CAVALARIA_INIMIGA1_00015
+    21300564: O_DIE_CAVALARIA_INIMIGA1_00016
+    21300566: O_DIE_CAVALARIA_INIMIGA1_00017
+    21300568: CAV1_ATACK_00001
+    21300570: CAV1_ATACK_00002
+    21300572: CAV1_ATACK_00003
+    21300574: CAV1_ATACK_00004
+    21300576: CAV1_ATACK_00005
+    21300578: CAV1_ATACK_00006
+    21300580: CAV1_ATACK_00007
+    21300582: CAV1_ATACK_00008
+    21300584: CAV1_ATACK_00009
+    21300586: CAV1_ATACK_00010
+    21300588: CAV1_ATACK_00011
+    21300590: CAV1_ATACK_00012
+    21300592: CAV1_ATACK_00013
+    21300594: CAV1_COSTAS_00001
+    21300596: CAV1_COSTAS_00002
+    21300598: CAV1_COSTAS_00003
+    21300600: CAV1_COSTAS_00004
+    21300602: CAV1_COSTAS_00005
+    21300604: CAV1_COSTAS_00006
+    21300606: CAV1_COSTAS_00007
+    21300608: CAV1_COSTAS_00008
+    21300610: CAV1_COSTAS_00009
+    21300612: CAV1_COSTAS_00010
+    21300614: CAV1_COSTAS_00011
+    21300616: CAV1_COSTAS_00012
+    21300618: CAV1_DIE_00001
+    21300620: CAV1_DIE_00002
+    21300622: CAV1_DIE_00003
+    21300624: CAV1_DIE_00004
+    21300626: CAV1_DIE_00005
+    21300628: CAV1_DIE_00006
+    21300630: CAV1_DIE_00007
+    21300632: CAV1_DIE_00008
+    21300634: CAV1_DIE_00009
+    21300636: CAV1_DIE_00010
+    21300638: CAV1_DIE_00011
+    21300640: CAV1_DIE_00012
+    21300642: CAV1_DIE_00013
+    21300644: CAV1_DIE_00014
+    21300646: CAV1_DIE_00015
+    21300648: CAV1_DIE_00016
+    21300650: CAV1_FRENTE_00001
+    21300652: CAV1_FRENTE_00002
+    21300654: CAV1_FRENTE_00003
+    21300656: CAV1_FRENTE_00004
+    21300658: CAV1_FRENTE_00005
+    21300660: CAV1_FRENTE_00006
+    21300662: CAV1_FRENTE_00007
+    21300664: CAV1_FRENTE_00008
+    21300666: CAV1_FRENTE_00009
+    21300668: CAV1_FRENTE_00010
+    21300670: CAV1_FRENTE_00011
+    21300672: CAV1_FRENTE_00012
+    21300674: CAV1_LADO_00001
+    21300676: CAV1_LADO_00002
+    21300678: CAV1_LADO_00003
+    21300680: CAV1_LADO_00004
+    21300682: CAV1_LADO_00005
+    21300684: CAV1_LADO_00006
+    21300686: CAV1_LADO_00007
+    21300688: CAV1_LADO_00008
+    21300690: CAV1_LADO_00009
+    21300692: CAV1_LADO_00010
+    21300694: CAV1_LADO_00011
+    21300696: CAV1_LADO_00012
+    21300698: CAV1_STILL1
+    21300700: CAV1_STILL2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: CAV1_ATACK_00001
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1915
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_ATACK_00002
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1915
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_ATACK_00003
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1915
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_ATACK_00004
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1915
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_ATACK_00005
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1915
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_ATACK_00006
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1915
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_ATACK_00007
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1915
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_ATACK_00008
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1782
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_ATACK_00009
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1782
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_ATACK_00010
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1782
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_ATACK_00011
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1782
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_ATACK_00012
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1782
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_ATACK_00013
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1782
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_COSTAS_00001
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1782
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_COSTAS_00002
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1649
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_COSTAS_00003
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1649
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_COSTAS_00004
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1649
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_COSTAS_00005
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1649
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_COSTAS_00006
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1649
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_COSTAS_00007
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1649
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_COSTAS_00008
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1649
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_COSTAS_00009
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1516
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_COSTAS_00010
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1516
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_COSTAS_00011
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1516
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_COSTAS_00012
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1516
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_DIE_00001
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1516
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_DIE_00002
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1516
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_DIE_00003
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1516
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_DIE_00004
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1383
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_DIE_00005
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1383
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_DIE_00006
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1383
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_DIE_00007
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1383
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_DIE_00008
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1383
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_DIE_00009
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1383
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_DIE_00010
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1383
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_DIE_00011
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1250
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_DIE_00012
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1250
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_DIE_00013
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1250
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_DIE_00014
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1250
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_DIE_00015
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1250
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_DIE_00016
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1250
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_FRENTE_00001
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1250
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_FRENTE_00002
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1117
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_FRENTE_00003
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1117
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_FRENTE_00004
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1117
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_FRENTE_00005
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1117
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_FRENTE_00006
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1117
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_FRENTE_00007
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1117
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_FRENTE_00008
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1117
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_FRENTE_00009
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 984
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_FRENTE_00010
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 984
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_FRENTE_00011
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 984
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_FRENTE_00012
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 984
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_LADO_00001
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 984
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_LADO_00002
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 984
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_LADO_00003
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 984
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_LADO_00004
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 851
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_LADO_00005
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 718
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_LADO_00006
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 585
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_LADO_00007
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 452
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_LADO_00008
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 319
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_LADO_00009
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 186
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_LADO_00010
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 53
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_LADO_00011
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 851
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_LADO_00012
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 851
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_STILL1
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 851
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CAV1_STILL2
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 851
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,404 @@
+fileFormatVersion: 2
+guid: 41d6f09893a29b84ebbee0ad9d78dcfb
+timeCreated: 1461692710
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CONQUISTAS
+    21300002: CONQUISTA_01 copia
+    21300004: CONQUISTA_01
+    21300006: CONQUISTA_02 copia
+    21300008: CONQUISTA_02
+    21300010: CONQUISTA_03 copia
+    21300012: CONQUISTA_03
+    21300014: CONQUISTA_04 copia
+    21300016: CONQUISTA_04
+    21300018: CONQUISTA_05 copia
+    21300020: CONQUISTA_05
+    21300022: CONQUISTA_06 copia
+    21300024: CONQUISTA_06
+    21300026: CONQUISTA_07 copia
+    21300028: CONQUISTA_07
+    21300030: CONQUISTA_08 copia
+    21300032: CONQUISTA_08
+    21300034: CONQUISTA_09 copia
+    21300036: CONQUISTA_09
+    21300038: CONQUISTA_10 copia
+    21300040: CONQUISTA_10
+    21300042: CONQUISTA_11 copia
+    21300044: CONQUISTA_11
+    21300046: CONQUISTA_12 copia
+    21300048: CONQUISTA_12
+    21300050: CONQUISTA_13 copia
+    21300052: CONQUISTA_13
+    21300054: CONQUISTA_14 copia
+    21300056: CONQUISTA_14
+    21300058: CONQUISTA_15 copia
+    21300060: CONQUISTA_15
+    21300062: CONQUISTA_MOCKUP
+    21300064: CONQ_FUNDO
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: CONQUISTAS
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1836
+        width: 778
+        height: 210
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CONQUISTA_01 copia
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1718
+        width: 509
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CONQUISTA_01
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1718
+        width: 509
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CONQUISTA_02 copia
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1600
+        width: 509
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CONQUISTA_02
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1600
+        width: 509
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CONQUISTA_03 copia
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1482
+        width: 509
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CONQUISTA_03
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1482
+        width: 509
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CONQUISTA_04 copia
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1364
+        width: 509
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CONQUISTA_04
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1364
+        width: 509
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CONQUISTA_05 copia
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1246
+        width: 509
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CONQUISTA_05
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1246
+        width: 509
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CONQUISTA_06 copia
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1128
+        width: 509
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CONQUISTA_06
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1128
+        width: 509
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CONQUISTA_07 copia
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1010
+        width: 509
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CONQUISTA_07
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1010
+        width: 509
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CONQUISTA_08 copia
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 892
+        width: 509
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CONQUISTA_08
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 892
+        width: 509
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CONQUISTA_09 copia
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 774
+        width: 509
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CONQUISTA_09
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 774
+        width: 509
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CONQUISTA_10 copia
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 656
+        width: 509
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CONQUISTA_10
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 656
+        width: 509
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CONQUISTA_11 copia
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 538
+        width: 509
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CONQUISTA_11
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 538
+        width: 509
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CONQUISTA_12 copia
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 420
+        width: 509
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CONQUISTA_12
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 420
+        width: 509
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CONQUISTA_13 copia
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 302
+        width: 509
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CONQUISTA_13
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 302
+        width: 509
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CONQUISTA_14 copia
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 184
+        width: 509
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CONQUISTA_14
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 184
+        width: 509
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CONQUISTA_15 copia
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 66
+        width: 509
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CONQUISTA_15
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 66
+        width: 509
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

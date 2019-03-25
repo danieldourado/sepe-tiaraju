@@ -1,0 +1,108 @@
+fileFormatVersion: 2
+guid: 72f8209ea6d790640a982188bc232fc3
+timeCreated: 1461348205
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "CR\uFFFDDITOS"
+    21300002: FUNDO
+    21300004: JOGAR
+    21300006: LOADING_BARRA
+    21300008: LOADING_BARRA_FRENTE
+    21300010: LOADING_BARRA_FUNDO
+    21300012: LOADING_NOME
+    21300014: LOGO
+    21300016: MOCKUP
+    21300018: MOCKUP_LOADING
+    21300020: PORTA_D
+    21300022: PORTA_E
+    21300024: SEPE_CAPA
+    21300026: "LOGO SEP\uFFFD"
+    21300028: SEPE
+    21300030: Apresentacao_MOCKUP
+    21300032: creditos
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Apresentacao_MOCKUP
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 11
+        width: 1728
+        height: 972
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MOCKUP_LOADING
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 985
+        width: 1800
+        height: 1061
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creditos
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 908
+        width: 276
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

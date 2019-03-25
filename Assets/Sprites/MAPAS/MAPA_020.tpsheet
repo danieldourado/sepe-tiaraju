@@ -1,0 +1,16 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: MAPA_020.png (2048 x 4096)
+# $TexturePacker:SmartUpdate:79802ee6ddfdf3158e83ab7d606d5ae0:c30c528d4e34b7ccfd62c59356a73140:315e64f8ed42705826532444435aaf80$
+#
+
+MAPA_02_BASE;2;2824;1920;1270;0.5;0.5
+MAPA_02_CANHAO_D1;1924;4014;47;45;0.5;0.5
+MAPA_02_CANHAO_D2;1924;4061;56;33;0.5;0.5
+MAPA_02_CANHAO_E1;1982;4019;48;42;0.5;0.5
+MAPA_02_CANHAO_E2;1982;4063;55;31;0.5;0.5
+MAPA_02_FRONT;2;1552;1920;1270;0.5;0.5

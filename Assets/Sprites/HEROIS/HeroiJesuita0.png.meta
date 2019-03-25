@@ -1,0 +1,3413 @@
+fileFormatVersion: 2
+guid: 5a9936b0e962efd4ebbac755bc3d3196
+timeCreated: 1475499743
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: COSTAS_JESUITA1_00001
+    21300002: COSTAS_JESUITA1_00002
+    21300004: COSTAS_JESUITA1_00003
+    21300006: COSTAS_JESUITA1_00004
+    21300008: COSTAS_JESUITA1_00005
+    21300010: COSTAS_JESUITA1_00006
+    21300012: COSTAS_JESUITA1_00007
+    21300014: COSTAS_JESUITA1_00008
+    21300016: COSTAS_JESUITA1_00009
+    21300018: COSTAS_JESUITA1_00010
+    21300020: COSTAS_JESUITA1_00011
+    21300022: COSTAS_JESUITA1_00012
+    21300024: COSTAS_JESUITA1_00013
+    21300026: COSTAS_JESUITA1_00014
+    21300028: COSTAS_JESUITA2_00001
+    21300030: COSTAS_JESUITA2_00002
+    21300032: COSTAS_JESUITA2_00003
+    21300034: COSTAS_JESUITA2_00004
+    21300036: COSTAS_JESUITA2_00005
+    21300038: COSTAS_JESUITA2_00006
+    21300040: COSTAS_JESUITA2_00007
+    21300042: COSTAS_JESUITA2_00008
+    21300044: COSTAS_JESUITA2_00009
+    21300046: COSTAS_JESUITA2_00010
+    21300048: COSTAS_JESUITA2_00011
+    21300050: COSTAS_JESUITA2_00012
+    21300052: COSTAS_JESUITA2_00013
+    21300054: COSTAS_JESUITA2_00014
+    21300056: COSTAS_JESUITA3_00001
+    21300058: COSTAS_JESUITA3_00002
+    21300060: COSTAS_JESUITA3_00003
+    21300062: COSTAS_JESUITA3_00004
+    21300064: COSTAS_JESUITA3_00005
+    21300066: COSTAS_JESUITA3_00006
+    21300068: COSTAS_JESUITA3_00007
+    21300070: COSTAS_JESUITA3_00008
+    21300072: COSTAS_JESUITA3_00009
+    21300074: COSTAS_JESUITA3_00010
+    21300076: COSTAS_JESUITA3_00011
+    21300078: COSTAS_JESUITA3_00012
+    21300080: COSTAS_JESUITA3_00013
+    21300082: COSTAS_JESUITA3_00014
+    21300084: COSTAS_JESUITA4_00001
+    21300086: COSTAS_JESUITA4_00002
+    21300088: COSTAS_JESUITA4_00003
+    21300090: COSTAS_JESUITA4_00004
+    21300092: COSTAS_JESUITA4_00005
+    21300094: COSTAS_JESUITA4_00006
+    21300096: COSTAS_JESUITA4_00007
+    21300098: COSTAS_JESUITA4_00008
+    21300100: COSTAS_JESUITA4_00009
+    21300102: COSTAS_JESUITA4_00010
+    21300104: COSTAS_JESUITA4_00011
+    21300106: COSTAS_JESUITA4_00012
+    21300108: COSTAS_JESUITA4_00013
+    21300110: COSTAS_JESUITA4_00014
+    21300112: FRENTE_JESUITA1_00001
+    21300114: FRENTE_JESUITA1_00002
+    21300116: FRENTE_JESUITA1_00003
+    21300118: FRENTE_JESUITA1_00004
+    21300120: FRENTE_JESUITA1_00005
+    21300122: FRENTE_JESUITA1_00006
+    21300124: FRENTE_JESUITA1_00007
+    21300126: FRENTE_JESUITA1_00008
+    21300128: FRENTE_JESUITA1_00009
+    21300130: FRENTE_JESUITA1_00010
+    21300132: FRENTE_JESUITA1_00011
+    21300134: FRENTE_JESUITA1_00012
+    21300136: FRENTE_JESUITA1_00013
+    21300138: FRENTE_JESUITA1_00014
+    21300140: FRENTE_JESUITA2_00001
+    21300142: FRENTE_JESUITA2_00002
+    21300144: FRENTE_JESUITA2_00003
+    21300146: FRENTE_JESUITA2_00004
+    21300148: FRENTE_JESUITA2_00005
+    21300150: FRENTE_JESUITA2_00006
+    21300152: FRENTE_JESUITA2_00007
+    21300154: FRENTE_JESUITA2_00008
+    21300156: FRENTE_JESUITA2_00009
+    21300158: FRENTE_JESUITA2_00010
+    21300160: FRENTE_JESUITA2_00011
+    21300162: FRENTE_JESUITA2_00012
+    21300164: FRENTE_JESUITA2_00013
+    21300166: FRENTE_JESUITA2_00014
+    21300168: FRENTE_JESUITA3_00001
+    21300170: FRENTE_JESUITA3_00002
+    21300172: FRENTE_JESUITA3_00003
+    21300174: FRENTE_JESUITA3_00004
+    21300176: FRENTE_JESUITA3_00005
+    21300178: FRENTE_JESUITA3_00006
+    21300180: FRENTE_JESUITA3_00007
+    21300182: FRENTE_JESUITA3_00008
+    21300184: FRENTE_JESUITA3_00009
+    21300186: FRENTE_JESUITA3_00010
+    21300188: FRENTE_JESUITA3_00011
+    21300190: FRENTE_JESUITA3_00012
+    21300192: FRENTE_JESUITA3_00013
+    21300194: FRENTE_JESUITA3_00014
+    21300196: FRENTE_JESUITA4_00001
+    21300198: FRENTE_JESUITA4_00002
+    21300200: FRENTE_JESUITA4_00003
+    21300202: FRENTE_JESUITA4_00004
+    21300204: FRENTE_JESUITA4_00005
+    21300206: FRENTE_JESUITA4_00006
+    21300208: FRENTE_JESUITA4_00007
+    21300210: FRENTE_JESUITA4_00008
+    21300212: FRENTE_JESUITA4_00009
+    21300214: FRENTE_JESUITA4_00010
+    21300216: FRENTE_JESUITA4_00011
+    21300218: FRENTE_JESUITA4_00012
+    21300220: FRENTE_JESUITA4_00013
+    21300222: FRENTE_JESUITA4_00014
+    21300224: LADO_JESUITA1_00001
+    21300226: LADO_JESUITA1_00002
+    21300228: LADO_JESUITA1_00003
+    21300230: LADO_JESUITA1_00004
+    21300232: LADO_JESUITA1_00005
+    21300234: LADO_JESUITA1_00006
+    21300236: LADO_JESUITA1_00007
+    21300238: LADO_JESUITA1_00008
+    21300240: LADO_JESUITA1_00009
+    21300242: LADO_JESUITA1_00010
+    21300244: LADO_JESUITA1_00011
+    21300246: LADO_JESUITA1_00012
+    21300248: LADO_JESUITA1_00013
+    21300250: LADO_JESUITA1_00014
+    21300252: LADO_JESUITA2_00001
+    21300254: LADO_JESUITA2_00002
+    21300256: LADO_JESUITA2_00003
+    21300258: LADO_JESUITA2_00004
+    21300260: LADO_JESUITA2_00005
+    21300262: LADO_JESUITA2_00006
+    21300264: LADO_JESUITA2_00007
+    21300266: LADO_JESUITA2_00008
+    21300268: LADO_JESUITA2_00009
+    21300270: LADO_JESUITA2_00010
+    21300272: LADO_JESUITA2_00011
+    21300274: LADO_JESUITA2_00012
+    21300276: LADO_JESUITA2_00013
+    21300278: LADO_JESUITA2_00014
+    21300280: LADO_JESUITA3_00001
+    21300282: LADO_JESUITA3_00002
+    21300284: LADO_JESUITA3_00003
+    21300286: LADO_JESUITA3_00004
+    21300288: LADO_JESUITA3_00005
+    21300290: LADO_JESUITA3_00006
+    21300292: LADO_JESUITA3_00007
+    21300294: LADO_JESUITA3_00008
+    21300296: LADO_JESUITA3_00009
+    21300298: LADO_JESUITA3_00010
+    21300300: LADO_JESUITA3_00011
+    21300302: LADO_JESUITA3_00012
+    21300304: LADO_JESUITA3_00013
+    21300306: LADO_JESUITA3_00014
+    21300308: LADO_JESUITA4_00001
+    21300310: LADO_JESUITA4_00002
+    21300312: LADO_JESUITA4_00003
+    21300314: LADO_JESUITA4_00004
+    21300316: LADO_JESUITA4_00005
+    21300318: LADO_JESUITA4_00006
+    21300320: LADO_JESUITA4_00007
+    21300322: LADO_JESUITA4_00008
+    21300324: LADO_JESUITA4_00009
+    21300326: LADO_JESUITA4_00010
+    21300328: LADO_JESUITA4_00011
+    21300330: LADO_JESUITA4_00012
+    21300332: LADO_JESUITA4_00013
+    21300334: LADO_JESUITA4_00014
+    21300336: M_STILL_JESUITA1_
+    21300338: M_STILL_JESUITA2_
+    21300340: M_STILL_JESUITA3_
+    21300342: M_STILL_JESUITA4_
+    21300344: N_ATTACK_JESUITA1_00001
+    21300346: N_ATTACK_JESUITA1_00002
+    21300348: N_ATTACK_JESUITA1_00003
+    21300350: N_ATTACK_JESUITA1_00004
+    21300352: N_ATTACK_JESUITA1_00005
+    21300354: N_ATTACK_JESUITA1_00006
+    21300356: N_ATTACK_JESUITA1_00007
+    21300358: N_ATTACK_JESUITA1_00008
+    21300360: N_ATTACK_JESUITA1_00009
+    21300362: N_ATTACK_JESUITA1_00010
+    21300364: N_ATTACK_JESUITA1_00011
+    21300366: N_ATTACK_JESUITA1_00012
+    21300368: N_ATTACK_JESUITA1_00013
+    21300370: N_ATTACK_JESUITA2_00001
+    21300372: N_ATTACK_JESUITA2_00002
+    21300374: N_ATTACK_JESUITA2_00003
+    21300376: N_ATTACK_JESUITA2_00004
+    21300378: N_ATTACK_JESUITA2_00005
+    21300380: N_ATTACK_JESUITA2_00006
+    21300382: N_ATTACK_JESUITA2_00007
+    21300384: N_ATTACK_JESUITA2_00008
+    21300386: N_ATTACK_JESUITA2_00009
+    21300388: N_ATTACK_JESUITA2_00010
+    21300390: N_ATTACK_JESUITA2_00011
+    21300392: N_ATTACK_JESUITA2_00012
+    21300394: N_ATTACK_JESUITA2_00013
+    21300396: N_ATTACK_JESUITA3_00001
+    21300398: N_ATTACK_JESUITA3_00002
+    21300400: N_ATTACK_JESUITA3_00003
+    21300402: N_ATTACK_JESUITA3_00004
+    21300404: N_ATTACK_JESUITA3_00005
+    21300406: N_ATTACK_JESUITA3_00006
+    21300408: N_ATTACK_JESUITA3_00007
+    21300410: N_ATTACK_JESUITA3_00008
+    21300412: N_ATTACK_JESUITA3_00009
+    21300414: N_ATTACK_JESUITA3_00010
+    21300416: N_ATTACK_JESUITA3_00011
+    21300418: N_ATTACK_JESUITA3_00012
+    21300420: N_ATTACK_JESUITA3_00013
+    21300422: N_ATTACK_JESUITA4_00001
+    21300424: N_ATTACK_JESUITA4_00002
+    21300426: N_ATTACK_JESUITA4_00003
+    21300428: N_ATTACK_JESUITA4_00004
+    21300430: N_ATTACK_JESUITA4_00005
+    21300432: N_ATTACK_JESUITA4_00006
+    21300434: N_ATTACK_JESUITA4_00007
+    21300436: N_ATTACK_JESUITA4_00008
+    21300438: N_ATTACK_JESUITA4_00009
+    21300440: N_ATTACK_JESUITA4_00010
+    21300442: N_ATTACK_JESUITA4_00011
+    21300444: N_ATTACK_JESUITA4_00012
+    21300446: N_ATTACK_JESUITA4_00013
+    21300448: O_DIE_JESUITA1_00001
+    21300450: O_DIE_JESUITA1_00002
+    21300452: O_DIE_JESUITA1_00003
+    21300454: O_DIE_JESUITA1_00004
+    21300456: O_DIE_JESUITA1_00005
+    21300458: O_DIE_JESUITA1_00006
+    21300460: O_DIE_JESUITA1_00007
+    21300462: O_DIE_JESUITA1_00008
+    21300464: O_DIE_JESUITA1_00009
+    21300466: O_DIE_JESUITA1_00010
+    21300468: O_DIE_JESUITA1_00011
+    21300470: O_DIE_JESUITA1_00012
+    21300472: O_DIE_JESUITA1_00013
+    21300474: O_DIE_JESUITA1_00014
+    21300476: O_DIE_JESUITA1_00015
+    21300478: O_DIE_JESUITA1_00016
+    21300480: O_DIE_JESUITA2_00001
+    21300482: O_DIE_JESUITA2_00002
+    21300484: O_DIE_JESUITA2_00003
+    21300486: O_DIE_JESUITA2_00004
+    21300488: O_DIE_JESUITA2_00005
+    21300490: O_DIE_JESUITA2_00006
+    21300492: O_DIE_JESUITA2_00007
+    21300494: O_DIE_JESUITA2_00008
+    21300496: O_DIE_JESUITA2_00009
+    21300498: O_DIE_JESUITA2_00010
+    21300500: O_DIE_JESUITA2_00011
+    21300502: O_DIE_JESUITA2_00012
+    21300504: O_DIE_JESUITA2_00013
+    21300506: O_DIE_JESUITA2_00014
+    21300508: O_DIE_JESUITA2_00015
+    21300510: O_DIE_JESUITA2_00016
+    21300512: O_DIE_JESUITA3_00001
+    21300514: O_DIE_JESUITA3_00002
+    21300516: O_DIE_JESUITA3_00003
+    21300518: O_DIE_JESUITA3_00004
+    21300520: O_DIE_JESUITA3_00005
+    21300522: O_DIE_JESUITA3_00006
+    21300524: O_DIE_JESUITA3_00007
+    21300526: O_DIE_JESUITA3_00008
+    21300528: O_DIE_JESUITA3_00009
+    21300530: O_DIE_JESUITA3_00010
+    21300532: O_DIE_JESUITA3_00011
+    21300534: O_DIE_JESUITA3_00012
+    21300536: O_DIE_JESUITA3_00013
+    21300538: O_DIE_JESUITA3_00014
+    21300540: O_DIE_JESUITA3_00015
+    21300542: O_DIE_JESUITA3_00016
+    21300544: O_DIE_JESUITA4_00001
+    21300546: O_DIE_JESUITA4_00002
+    21300548: O_DIE_JESUITA4_00003
+    21300550: O_DIE_JESUITA4_00004
+    21300552: O_DIE_JESUITA4_00005
+    21300554: O_DIE_JESUITA4_00006
+    21300556: O_DIE_JESUITA4_00007
+    21300558: O_DIE_JESUITA4_00008
+    21300560: O_DIE_JESUITA4_00009
+    21300562: O_DIE_JESUITA4_00010
+    21300564: O_DIE_JESUITA4_00011
+    21300566: O_DIE_JESUITA4_00012
+    21300568: O_DIE_JESUITA4_00013
+    21300570: O_DIE_JESUITA4_00014
+    21300572: O_DIE_JESUITA4_00015
+    21300574: O_DIE_JESUITA4_00016
+    21300576: JASUITA2_STILL1
+    21300578: JASUITA2_STILL2
+    21300580: JASUITA3_STILL1
+    21300582: JASUITA3_STILL2
+    21300584: JASUITA4_STILL1
+    21300586: JASUITA4_STILL2
+    21300588: JESUITA1_ATACK_00001
+    21300590: JESUITA1_ATACK_00002
+    21300592: JESUITA1_ATACK_00003
+    21300594: JESUITA1_ATACK_00004
+    21300596: JESUITA1_ATACK_00005
+    21300598: JESUITA1_ATACK_00006
+    21300600: JESUITA1_ATACK_00007
+    21300602: JESUITA1_ATACK_00008
+    21300604: JESUITA1_ATACK_00009
+    21300606: JESUITA1_ATACK_00010
+    21300608: JESUITA1_ATACK_00011
+    21300610: JESUITA1_COSTA_00001
+    21300612: JESUITA1_COSTA_00002
+    21300614: JESUITA1_COSTA_00003
+    21300616: JESUITA1_COSTA_00004
+    21300618: JESUITA1_COSTA_00005
+    21300620: JESUITA1_COSTA_00006
+    21300622: JESUITA1_COSTA_00007
+    21300624: JESUITA1_COSTA_00008
+    21300626: JESUITA1_COSTA_00009
+    21300628: JESUITA1_COSTA_00010
+    21300630: JESUITA1_COSTA_00011
+    21300632: JESUITA1_COSTA_00012
+    21300634: JESUITA1_COSTA_00013
+    21300636: JESUITA1_COSTA_00014
+    21300638: JESUITA1_DIE_00001
+    21300640: JESUITA1_DIE_00002
+    21300642: JESUITA1_DIE_00003
+    21300644: JESUITA1_DIE_00004
+    21300646: JESUITA1_DIE_00005
+    21300648: JESUITA1_DIE_00006
+    21300650: JESUITA1_DIE_00007
+    21300652: JESUITA1_DIE_00008
+    21300654: JESUITA1_DIE_00009
+    21300656: JESUITA1_DIE_00010
+    21300658: JESUITA1_DIE_00011
+    21300660: JESUITA1_DIE_00012
+    21300662: JESUITA1_DIE_00013
+    21300664: JESUITA1_DIE_00014
+    21300666: JESUITA1_DIE_00015
+    21300668: JESUITA1_FENTE_00001
+    21300670: JESUITA1_FENTE_00002
+    21300672: JESUITA1_FENTE_00003
+    21300674: JESUITA1_FENTE_00004
+    21300676: JESUITA1_FENTE_00005
+    21300678: JESUITA1_FENTE_00006
+    21300680: JESUITA1_FENTE_00007
+    21300682: JESUITA1_FENTE_00008
+    21300684: JESUITA1_FENTE_00009
+    21300686: JESUITA1_FENTE_00010
+    21300688: JESUITA1_FENTE_00011
+    21300690: JESUITA1_FENTE_00012
+    21300692: JESUITA1_FENTE_00013
+    21300694: JESUITA1_FENTE_00014
+    21300696: JESUITA1_LADO_00001
+    21300698: JESUITA1_LADO_00002
+    21300700: JESUITA1_LADO_00003
+    21300702: JESUITA1_LADO_00004
+    21300704: JESUITA1_LADO_00005
+    21300706: JESUITA1_LADO_00006
+    21300708: JESUITA1_LADO_00007
+    21300710: JESUITA1_LADO_00008
+    21300712: JESUITA1_LADO_00009
+    21300714: JESUITA1_LADO_00010
+    21300716: JESUITA1_LADO_00011
+    21300718: JESUITA1_LADO_00012
+    21300720: JESUITA1_LADO_00013
+    21300722: JESUITA1_LADO_00014
+    21300724: JESUITA1_STILL1
+    21300726: JESUITA1_STILL2
+    21300728: JESUITA2_ATACK_00001
+    21300730: JESUITA2_ATACK_00002
+    21300732: JESUITA2_ATACK_00003
+    21300734: JESUITA2_ATACK_00004
+    21300736: JESUITA2_ATACK_00005
+    21300738: JESUITA2_ATACK_00006
+    21300740: JESUITA2_ATACK_00007
+    21300742: JESUITA2_ATACK_00008
+    21300744: JESUITA2_ATACK_00009
+    21300746: JESUITA2_ATACK_00010
+    21300748: JESUITA2_ATACK_00011
+    21300750: JESUITA2_COSTAS_00001
+    21300752: JESUITA2_COSTAS_00002
+    21300754: JESUITA2_COSTAS_00003
+    21300756: JESUITA2_COSTAS_00004
+    21300758: JESUITA2_COSTAS_00005
+    21300760: JESUITA2_COSTAS_00006
+    21300762: JESUITA2_COSTAS_00007
+    21300764: JESUITA2_COSTAS_00008
+    21300766: JESUITA2_COSTAS_00009
+    21300768: JESUITA2_COSTAS_00010
+    21300770: JESUITA2_COSTAS_00011
+    21300772: JESUITA2_COSTAS_00012
+    21300774: JESUITA2_COSTAS_00013
+    21300776: JESUITA2_COSTAS_00014
+    21300778: JESUITA2_DIE_00001
+    21300780: JESUITA2_DIE_00002
+    21300782: JESUITA2_DIE_00003
+    21300784: JESUITA2_DIE_00004
+    21300786: JESUITA2_DIE_00005
+    21300788: JESUITA2_DIE_00006
+    21300790: JESUITA2_DIE_00007
+    21300792: JESUITA2_DIE_00008
+    21300794: JESUITA2_DIE_00009
+    21300796: JESUITA2_DIE_00010
+    21300798: JESUITA2_DIE_00011
+    21300800: JESUITA2_DIE_00012
+    21300802: JESUITA2_DIE_00013
+    21300804: JESUITA2_DIE_00014
+    21300806: JESUITA2_DIE_00015
+    21300808: JESUITA2_FRENTE_00001
+    21300810: JESUITA2_FRENTE_00002
+    21300812: JESUITA2_FRENTE_00003
+    21300814: JESUITA2_FRENTE_00004
+    21300816: JESUITA2_FRENTE_00005
+    21300818: JESUITA2_FRENTE_00006
+    21300820: JESUITA2_FRENTE_00007
+    21300822: JESUITA2_FRENTE_00008
+    21300824: JESUITA2_FRENTE_00009
+    21300826: JESUITA2_FRENTE_00010
+    21300828: JESUITA2_FRENTE_00011
+    21300830: JESUITA2_FRENTE_00012
+    21300832: JESUITA2_FRENTE_00013
+    21300834: JESUITA2_FRENTE_00014
+    21300836: JESUITA2_LADO_00001
+    21300838: JESUITA2_LADO_00002
+    21300840: JESUITA2_LADO_00003
+    21300842: JESUITA2_LADO_00004
+    21300844: JESUITA2_LADO_00005
+    21300846: JESUITA2_LADO_00006
+    21300848: JESUITA2_LADO_00007
+    21300850: JESUITA2_LADO_00008
+    21300852: JESUITA2_LADO_00009
+    21300854: JESUITA2_LADO_00010
+    21300856: JESUITA2_LADO_00011
+    21300858: JESUITA2_LADO_00012
+    21300860: JESUITA2_LADO_00013
+    21300862: JESUITA2_LADO_00014
+    21300864: JESUITA3_ATACK_00001
+    21300866: JESUITA3_ATACK_00002
+    21300868: JESUITA3_ATACK_00003
+    21300870: JESUITA3_ATACK_00004
+    21300872: JESUITA3_ATACK_00005
+    21300874: JESUITA3_ATACK_00006
+    21300876: JESUITA3_ATACK_00007
+    21300878: JESUITA3_ATACK_00008
+    21300880: JESUITA3_ATACK_00009
+    21300882: JESUITA3_ATACK_00010
+    21300884: JESUITA3_ATACK_00011
+    21300886: JESUITA3_COSTAS_00001
+    21300888: JESUITA3_COSTAS_00002
+    21300890: JESUITA3_COSTAS_00003
+    21300892: JESUITA3_COSTAS_00004
+    21300894: JESUITA3_COSTAS_00005
+    21300896: JESUITA3_COSTAS_00006
+    21300898: JESUITA3_COSTAS_00007
+    21300900: JESUITA3_COSTAS_00008
+    21300902: JESUITA3_COSTAS_00009
+    21300904: JESUITA3_COSTAS_00010
+    21300906: JESUITA3_COSTAS_00011
+    21300908: JESUITA3_COSTAS_00012
+    21300910: JESUITA3_COSTAS_00013
+    21300912: JESUITA3_COSTAS_00014
+    21300914: JESUITA3_DIE_00001
+    21300916: JESUITA3_DIE_00002
+    21300918: JESUITA3_DIE_00003
+    21300920: JESUITA3_DIE_00004
+    21300922: JESUITA3_DIE_00005
+    21300924: JESUITA3_DIE_00006
+    21300926: JESUITA3_DIE_00007
+    21300928: JESUITA3_DIE_00008
+    21300930: JESUITA3_DIE_00009
+    21300932: JESUITA3_DIE_00010
+    21300934: JESUITA3_DIE_00011
+    21300936: JESUITA3_DIE_00012
+    21300938: JESUITA3_DIE_00013
+    21300940: JESUITA3_DIE_00014
+    21300942: JESUITA3_DIE_00015
+    21300944: JESUITA3_FRENTE_00001
+    21300946: JESUITA3_FRENTE_00002
+    21300948: JESUITA3_FRENTE_00003
+    21300950: JESUITA3_FRENTE_00004
+    21300952: JESUITA3_FRENTE_00005
+    21300954: JESUITA3_FRENTE_00006
+    21300956: JESUITA3_FRENTE_00007
+    21300958: JESUITA3_FRENTE_00008
+    21300960: JESUITA3_FRENTE_00009
+    21300962: JESUITA3_FRENTE_00010
+    21300964: JESUITA3_FRENTE_00011
+    21300966: JESUITA3_FRENTE_00012
+    21300968: JESUITA3_FRENTE_00013
+    21300970: JESUITA3_FRENTE_00014
+    21300972: JESUITA3_LADO_00001
+    21300974: JESUITA3_LADO_00002
+    21300976: JESUITA3_LADO_00003
+    21300978: JESUITA3_LADO_00004
+    21300980: JESUITA3_LADO_00005
+    21300982: JESUITA3_LADO_00006
+    21300984: JESUITA3_LADO_00007
+    21300986: JESUITA3_LADO_00008
+    21300988: JESUITA3_LADO_00009
+    21300990: JESUITA3_LADO_00010
+    21300992: JESUITA3_LADO_00011
+    21300994: JESUITA3_LADO_00012
+    21300996: JESUITA3_LADO_00013
+    21300998: JESUITA3_LADO_00014
+    21301000: JESUITA4_ATACK_00001
+    21301002: JESUITA4_ATACK_00002
+    21301004: JESUITA4_ATACK_00003
+    21301006: JESUITA4_ATACK_00004
+    21301008: JESUITA4_ATACK_00005
+    21301010: JESUITA4_ATACK_00006
+    21301012: JESUITA4_ATACK_00007
+    21301014: JESUITA4_ATACK_00008
+    21301016: JESUITA4_ATACK_00009
+    21301018: JESUITA4_ATACK_00010
+    21301020: JESUITA4_COSTAS_00001
+    21301022: JESUITA4_COSTAS_00002
+    21301024: JESUITA4_COSTAS_00003
+    21301026: JESUITA4_COSTAS_00004
+    21301028: JESUITA4_COSTAS_00005
+    21301030: JESUITA4_COSTAS_00006
+    21301032: JESUITA4_COSTAS_00007
+    21301034: JESUITA4_COSTAS_00008
+    21301036: JESUITA4_COSTAS_00009
+    21301038: JESUITA4_COSTAS_00010
+    21301040: JESUITA4_COSTAS_00011
+    21301042: JESUITA4_COSTAS_00012
+    21301044: JESUITA4_COSTAS_00013
+    21301046: JESUITA4_COSTAS_00014
+    21301048: JESUITA4_DIE_00001
+    21301050: JESUITA4_DIE_00002
+    21301052: JESUITA4_DIE_00003
+    21301054: JESUITA4_DIE_00004
+    21301056: JESUITA4_DIE_00005
+    21301058: JESUITA4_DIE_00006
+    21301060: JESUITA4_DIE_00007
+    21301062: JESUITA4_DIE_00008
+    21301064: JESUITA4_DIE_00009
+    21301066: JESUITA4_DIE_00010
+    21301068: JESUITA4_DIE_00011
+    21301070: JESUITA4_DIE_00012
+    21301072: JESUITA4_DIE_00013
+    21301074: JESUITA4_DIE_00014
+    21301076: JESUITA4_DIE_00015
+    21301078: JESUITA4_FRENTE_00001
+    21301080: JESUITA4_FRENTE_00002
+    21301082: JESUITA4_FRENTE_00003
+    21301084: JESUITA4_FRENTE_00004
+    21301086: JESUITA4_FRENTE_00005
+    21301088: JESUITA4_FRENTE_00006
+    21301090: JESUITA4_FRENTE_00007
+    21301092: JESUITA4_FRENTE_00008
+    21301094: JESUITA4_FRENTE_00009
+    21301096: JESUITA4_FRENTE_00010
+    21301098: JESUITA4_FRENTE_00011
+    21301100: JESUITA4_FRENTE_00012
+    21301102: JESUITA4_FRENTE_00013
+    21301104: JESUITA4_FRENTE_00014
+    21301106: JESUITA4_LADO_00001
+    21301108: JESUITA4_LADO_00002
+    21301110: JESUITA4_LADO_00003
+    21301112: JESUITA4_LADO_00004
+    21301114: JESUITA4_LADO_00005
+    21301116: JESUITA4_LADO_00006
+    21301118: JESUITA4_LADO_00007
+    21301120: JESUITA4_LADO_00008
+    21301122: JESUITA4_LADO_00009
+    21301124: JESUITA4_LADO_00010
+    21301126: JESUITA4_LADO_00011
+    21301128: JESUITA4_LADO_00012
+    21301130: JESUITA4_LADO_00013
+    21301132: JESUITA4_LADO_00014
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: JASUITA2_STILL1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1947
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JASUITA2_STILL2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1947
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JASUITA3_STILL1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1947
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JASUITA3_STILL2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1947
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JASUITA4_STILL1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1947
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JASUITA4_STILL2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1947
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_ATACK_00001
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1947
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_ATACK_00002
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1947
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_ATACK_00003
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1947
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_ATACK_00004
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1947
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_ATACK_00005
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1947
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_ATACK_00006
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1947
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_ATACK_00007
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1947
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_ATACK_00008
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1947
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_ATACK_00009
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1947
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_ATACK_00010
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1947
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_ATACK_00011
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1947
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_COSTA_00001
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1947
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_COSTA_00002
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 1947
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_COSTA_00003
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 1947
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_COSTA_00004
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1846
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_COSTA_00005
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1745
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_COSTA_00006
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1644
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_COSTA_00007
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1543
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_COSTA_00008
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1442
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_COSTA_00009
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1341
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_COSTA_00010
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1240
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_COSTA_00011
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1139
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_COSTA_00012
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1038
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_COSTA_00013
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 937
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_COSTA_00014
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 836
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_DIE_00001
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 735
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_DIE_00002
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 634
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_DIE_00003
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 533
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_DIE_00004
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 432
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_DIE_00005
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 331
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_DIE_00006
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 230
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_DIE_00007
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 129
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_DIE_00008
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 28
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_DIE_00009
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1846
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_DIE_00010
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1846
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_DIE_00011
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1846
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_DIE_00012
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1846
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_DIE_00013
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1846
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_DIE_00014
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1846
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_DIE_00015
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1846
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_FENTE_00001
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1846
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_FENTE_00002
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1846
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_FENTE_00003
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1846
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_FENTE_00004
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1846
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_FENTE_00005
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1846
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_FENTE_00006
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1846
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_FENTE_00007
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1846
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_FENTE_00008
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 1846
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_FENTE_00009
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 1846
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_FENTE_00010
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1745
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_FENTE_00011
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1644
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_FENTE_00012
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1543
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_FENTE_00013
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1442
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_FENTE_00014
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1341
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_LADO_00001
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1240
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_LADO_00002
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1139
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_LADO_00003
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1038
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_LADO_00004
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 937
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_LADO_00005
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 836
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_LADO_00006
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 735
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_LADO_00007
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 634
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_LADO_00008
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 533
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_LADO_00009
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 432
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_LADO_00010
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 331
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_LADO_00011
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 230
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_LADO_00012
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 129
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_LADO_00013
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 28
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_LADO_00014
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1745
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_STILL1
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1745
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA1_STILL2
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1745
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_ATACK_00001
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1745
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_ATACK_00002
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1745
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_ATACK_00003
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1745
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_ATACK_00004
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1745
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_ATACK_00005
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1745
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_ATACK_00006
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1745
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_ATACK_00007
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1745
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_ATACK_00008
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1745
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_ATACK_00009
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1745
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_ATACK_00010
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1745
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_ATACK_00011
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1745
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_COSTAS_00001
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 1745
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_COSTAS_00002
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 1745
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_COSTAS_00003
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1644
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_COSTAS_00004
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1543
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_COSTAS_00005
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1442
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_COSTAS_00006
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1341
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_COSTAS_00007
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1240
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_COSTAS_00008
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1139
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_COSTAS_00009
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1038
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_COSTAS_00010
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 937
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_COSTAS_00011
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 836
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_COSTAS_00012
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 735
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_COSTAS_00013
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 634
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_COSTAS_00014
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 533
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_DIE_00001
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_DIE_00002
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 331
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_DIE_00003
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 230
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_DIE_00004
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 129
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_DIE_00005
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 28
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_DIE_00006
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1644
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_DIE_00007
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1644
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_DIE_00008
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1644
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_DIE_00009
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1644
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_DIE_00010
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1644
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_DIE_00011
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1644
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_DIE_00012
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1644
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_DIE_00013
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1644
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_DIE_00014
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1644
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_DIE_00015
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1644
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_FRENTE_00001
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1644
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_FRENTE_00002
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1644
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_FRENTE_00003
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 1644
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_FRENTE_00004
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 1644
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_FRENTE_00005
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1543
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_FRENTE_00006
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1442
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_FRENTE_00007
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1341
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_FRENTE_00008
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1240
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_FRENTE_00009
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1139
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_FRENTE_00010
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1038
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_FRENTE_00011
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 937
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_FRENTE_00012
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 836
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_FRENTE_00013
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 735
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_FRENTE_00014
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 634
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_LADO_00001
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 533
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_LADO_00002
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 432
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_LADO_00003
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 331
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_LADO_00004
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 230
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_LADO_00005
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 129
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_LADO_00006
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 28
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_LADO_00007
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1543
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_LADO_00008
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1543
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_LADO_00009
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1543
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_LADO_00010
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1543
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_LADO_00011
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1543
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_LADO_00012
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1543
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_LADO_00013
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1543
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA2_LADO_00014
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1543
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_ATACK_00001
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1543
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_ATACK_00002
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1543
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_ATACK_00003
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1543
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_ATACK_00004
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 1543
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_ATACK_00005
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 1543
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_ATACK_00006
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1442
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_ATACK_00007
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1442
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_ATACK_00008
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1442
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_ATACK_00009
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1442
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_ATACK_00010
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1442
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_ATACK_00011
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1442
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_COSTAS_00001
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1442
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_COSTAS_00002
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1442
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_COSTAS_00003
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1442
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_COSTAS_00004
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1442
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_COSTAS_00005
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1442
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_COSTAS_00006
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 1442
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_COSTAS_00007
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 1442
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_COSTAS_00008
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1341
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_COSTAS_00009
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1240
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_COSTAS_00010
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1139
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_COSTAS_00011
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1038
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_COSTAS_00012
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 937
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_COSTAS_00013
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 836
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_COSTAS_00014
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 735
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_DIE_00001
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 634
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_DIE_00002
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 533
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_DIE_00003
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 432
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_DIE_00004
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 331
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_DIE_00005
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 230
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_DIE_00006
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 129
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_DIE_00007
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 28
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_DIE_00008
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1341
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_DIE_00009
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1341
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_DIE_00010
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1341
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_DIE_00011
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1341
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_DIE_00012
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1341
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_DIE_00013
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1341
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_DIE_00014
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1341
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_DIE_00015
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1341
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_FRENTE_00001
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1341
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_FRENTE_00002
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1341
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_FRENTE_00003
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 1341
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_FRENTE_00004
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 1341
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_FRENTE_00005
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1240
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_FRENTE_00006
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1139
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_FRENTE_00007
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1038
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_FRENTE_00008
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 937
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_FRENTE_00009
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 836
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_FRENTE_00010
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 735
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_FRENTE_00011
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 634
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_FRENTE_00012
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 533
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_FRENTE_00013
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 432
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_FRENTE_00014
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 331
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_LADO_00001
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 230
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_LADO_00002
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 129
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_LADO_00003
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 28
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_LADO_00004
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1240
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_LADO_00005
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1240
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_LADO_00006
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1240
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_LADO_00007
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1240
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_LADO_00008
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1240
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_LADO_00009
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1240
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_LADO_00010
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1240
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_LADO_00011
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1240
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_LADO_00012
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1240
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_LADO_00013
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 1240
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA3_LADO_00014
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 1240
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_ATACK_00001
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1139
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_ATACK_00002
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1038
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_ATACK_00003
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 937
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_ATACK_00004
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 836
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_ATACK_00005
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 735
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_ATACK_00006
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 634
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_ATACK_00007
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 533
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_ATACK_00008
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 432
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_ATACK_00009
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 331
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_ATACK_00010
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 230
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_COSTAS_00001
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 129
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_COSTAS_00002
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 28
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_COSTAS_00003
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1139
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_COSTAS_00004
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1139
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_COSTAS_00005
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1139
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_COSTAS_00006
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1139
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_COSTAS_00007
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1139
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_COSTAS_00008
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1139
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_COSTAS_00009
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1139
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_COSTAS_00010
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1139
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_COSTAS_00011
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 1139
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_COSTAS_00012
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 1139
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_COSTAS_00013
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1038
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_COSTAS_00014
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 937
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_DIE_00001
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 836
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_DIE_00002
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 735
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_DIE_00003
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 634
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_DIE_00004
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 533
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_DIE_00005
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 432
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_DIE_00006
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 331
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_DIE_00007
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 230
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_DIE_00008
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 129
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_DIE_00009
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 28
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_DIE_00010
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1038
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_DIE_00011
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1038
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_DIE_00012
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1038
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_DIE_00013
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1038
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_DIE_00014
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1038
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_DIE_00015
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1038
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_FRENTE_00001
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1038
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_FRENTE_00002
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 1038
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_FRENTE_00003
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 1038
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_FRENTE_00004
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 937
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_FRENTE_00005
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 836
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_FRENTE_00006
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 735
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_FRENTE_00007
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 634
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_FRENTE_00008
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 533
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_FRENTE_00009
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 432
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_FRENTE_00010
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 331
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_FRENTE_00011
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 230
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_FRENTE_00012
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 129
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_FRENTE_00013
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 28
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_FRENTE_00014
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 937
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_LADO_00001
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 937
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_LADO_00002
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 937
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_LADO_00003
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 937
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_LADO_00004
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 937
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_LADO_00005
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 937
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_LADO_00006
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 937
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_LADO_00007
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 937
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_LADO_00008
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 836
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_LADO_00009
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 735
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_LADO_00010
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 634
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_LADO_00011
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 533
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_LADO_00012
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 432
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_LADO_00013
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 331
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA4_LADO_00014
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 230
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

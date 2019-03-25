@@ -1,0 +1,3425 @@
+fileFormatVersion: 2
+guid: 15b224bb06c43214d85d2f9f022eb715
+timeCreated: 1475499734
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CASTAS_XAMA2_00001
+    21300002: CASTAS_XAMA2_00002
+    21300004: CASTAS_XAMA2_00003
+    21300006: CASTAS_XAMA2_00004
+    21300008: CASTAS_XAMA2_00005
+    21300010: CASTAS_XAMA2_00006
+    21300012: CASTAS_XAMA2_00007
+    21300014: CASTAS_XAMA2_00008
+    21300016: CASTAS_XAMA2_00009
+    21300018: CASTAS_XAMA2_00010
+    21300020: CASTAS_XAMA2_00011
+    21300022: CASTAS_XAMA2_00012
+    21300024: CASTAS_XAMA2_00013
+    21300026: CASTAS_XAMA2_00014
+    21300028: COSTAS_XAMA1_00001
+    21300030: COSTAS_XAMA1_00002
+    21300032: COSTAS_XAMA1_00003
+    21300034: COSTAS_XAMA1_00004
+    21300036: COSTAS_XAMA1_00005
+    21300038: COSTAS_XAMA1_00006
+    21300040: COSTAS_XAMA1_00007
+    21300042: COSTAS_XAMA1_00008
+    21300044: COSTAS_XAMA1_00009
+    21300046: COSTAS_XAMA1_00010
+    21300048: COSTAS_XAMA1_00011
+    21300050: COSTAS_XAMA1_00012
+    21300052: COSTAS_XAMA1_00013
+    21300054: COSTAS_XAMA1_00014
+    21300056: COSTAS_XAMA3_00001
+    21300058: COSTAS_XAMA3_00002
+    21300060: COSTAS_XAMA3_00003
+    21300062: COSTAS_XAMA3_00004
+    21300064: COSTAS_XAMA3_00005
+    21300066: COSTAS_XAMA3_00006
+    21300068: COSTAS_XAMA3_00007
+    21300070: COSTAS_XAMA3_00008
+    21300072: COSTAS_XAMA3_00009
+    21300074: COSTAS_XAMA3_00010
+    21300076: COSTAS_XAMA3_00011
+    21300078: COSTAS_XAMA3_00012
+    21300080: COSTAS_XAMA3_00013
+    21300082: COSTAS_XAMA3_00014
+    21300084: COSTAS_XAMA4_00001
+    21300086: COSTAS_XAMA4_00002
+    21300088: COSTAS_XAMA4_00003
+    21300090: COSTAS_XAMA4_00004
+    21300092: COSTAS_XAMA4_00005
+    21300094: COSTAS_XAMA4_00006
+    21300096: COSTAS_XAMA4_00007
+    21300098: COSTAS_XAMA4_00008
+    21300100: COSTAS_XAMA4_00009
+    21300102: COSTAS_XAMA4_00010
+    21300104: COSTAS_XAMA4_00011
+    21300106: COSTAS_XAMA4_00012
+    21300108: COSTAS_XAMA4_00013
+    21300110: COSTAS_XAMA4_00014
+    21300112: FRENTE_XAMA1_00001
+    21300114: FRENTE_XAMA1_00002
+    21300116: FRENTE_XAMA1_00003
+    21300118: FRENTE_XAMA1_00004
+    21300120: FRENTE_XAMA1_00005
+    21300122: FRENTE_XAMA1_00006
+    21300124: FRENTE_XAMA1_00007
+    21300126: FRENTE_XAMA1_00008
+    21300128: FRENTE_XAMA1_00009
+    21300130: FRENTE_XAMA1_00010
+    21300132: FRENTE_XAMA1_00011
+    21300134: FRENTE_XAMA1_00012
+    21300136: FRENTE_XAMA1_00013
+    21300138: FRENTE_XAMA1_00014
+    21300140: FRENTE_XAMA2_00001
+    21300142: FRENTE_XAMA2_00002
+    21300144: FRENTE_XAMA2_00003
+    21300146: FRENTE_XAMA2_00004
+    21300148: FRENTE_XAMA2_00005
+    21300150: FRENTE_XAMA2_00006
+    21300152: FRENTE_XAMA2_00007
+    21300154: FRENTE_XAMA2_00008
+    21300156: FRENTE_XAMA2_00009
+    21300158: FRENTE_XAMA2_00010
+    21300160: FRENTE_XAMA2_00011
+    21300162: FRENTE_XAMA2_00012
+    21300164: FRENTE_XAMA2_00013
+    21300166: FRENTE_XAMA2_00014
+    21300168: FRENTE_XAMA3_00001
+    21300170: FRENTE_XAMA3_00002
+    21300172: FRENTE_XAMA3_00003
+    21300174: FRENTE_XAMA3_00004
+    21300176: FRENTE_XAMA3_00005
+    21300178: FRENTE_XAMA3_00006
+    21300180: FRENTE_XAMA3_00007
+    21300182: FRENTE_XAMA3_00008
+    21300184: FRENTE_XAMA3_00009
+    21300186: FRENTE_XAMA3_00010
+    21300188: FRENTE_XAMA3_00011
+    21300190: FRENTE_XAMA3_00012
+    21300192: FRENTE_XAMA3_00013
+    21300194: FRENTE_XAMA3_00014
+    21300196: FRENTE_XAMA4_00001
+    21300198: FRENTE_XAMA4_00002
+    21300200: FRENTE_XAMA4_00003
+    21300202: FRENTE_XAMA4_00004
+    21300204: FRENTE_XAMA4_00005
+    21300206: FRENTE_XAMA4_00006
+    21300208: FRENTE_XAMA4_00007
+    21300210: FRENTE_XAMA4_00008
+    21300212: FRENTE_XAMA4_00009
+    21300214: FRENTE_XAMA4_00010
+    21300216: FRENTE_XAMA4_00011
+    21300218: FRENTE_XAMA4_00012
+    21300220: FRENTE_XAMA4_00013
+    21300222: FRENTE_XAMA4_00014
+    21300224: LADO_XAMA1_00001
+    21300226: LADO_XAMA1_00002
+    21300228: LADO_XAMA1_00003
+    21300230: LADO_XAMA1_00004
+    21300232: LADO_XAMA1_00005
+    21300234: LADO_XAMA1_00006
+    21300236: LADO_XAMA1_00007
+    21300238: LADO_XAMA1_00008
+    21300240: LADO_XAMA1_00009
+    21300242: LADO_XAMA1_00010
+    21300244: LADO_XAMA1_00011
+    21300246: LADO_XAMA1_00012
+    21300248: LADO_XAMA1_00013
+    21300250: LADO_XAMA1_00014
+    21300252: LADO_XAMA2_00001
+    21300254: LADO_XAMA2_00002
+    21300256: LADO_XAMA2_00003
+    21300258: LADO_XAMA2_00004
+    21300260: LADO_XAMA2_00005
+    21300262: LADO_XAMA2_00006
+    21300264: LADO_XAMA2_00007
+    21300266: LADO_XAMA2_00008
+    21300268: LADO_XAMA2_00009
+    21300270: LADO_XAMA2_00010
+    21300272: LADO_XAMA2_00011
+    21300274: LADO_XAMA2_00012
+    21300276: LADO_XAMA2_00013
+    21300278: LADO_XAMA2_00014
+    21300280: LADO_XAMA3_00001
+    21300282: LADO_XAMA3_00002
+    21300284: LADO_XAMA3_00003
+    21300286: LADO_XAMA3_00004
+    21300288: LADO_XAMA3_00005
+    21300290: LADO_XAMA3_00006
+    21300292: LADO_XAMA3_00007
+    21300294: LADO_XAMA3_00008
+    21300296: LADO_XAMA3_00009
+    21300298: LADO_XAMA3_00010
+    21300300: LADO_XAMA3_00011
+    21300302: LADO_XAMA3_00012
+    21300304: LADO_XAMA3_00013
+    21300306: LADO_XAMA3_00014
+    21300308: LADO_XAMA4_00001
+    21300310: LADO_XAMA4_00002
+    21300312: LADO_XAMA4_00003
+    21300314: LADO_XAMA4_00004
+    21300316: LADO_XAMA4_00005
+    21300318: LADO_XAMA4_00006
+    21300320: LADO_XAMA4_00007
+    21300322: LADO_XAMA4_00008
+    21300324: LADO_XAMA4_00009
+    21300326: LADO_XAMA4_00010
+    21300328: LADO_XAMA4_00011
+    21300330: LADO_XAMA4_00012
+    21300332: LADO_XAMA4_00013
+    21300334: LADO_XAMA4_00014
+    21300336: M_STILL_XAMA1_
+    21300338: M_STILL_XAMA2_
+    21300340: M_STILL_XAMA3
+    21300342: M_STILL_XAMA4_
+    21300344: N_ATTACK_XAMA1_00001
+    21300346: N_ATTACK_XAMA1_00002
+    21300348: N_ATTACK_XAMA1_00003
+    21300350: N_ATTACK_XAMA1_00004
+    21300352: N_ATTACK_XAMA1_00005
+    21300354: N_ATTACK_XAMA1_00006
+    21300356: N_ATTACK_XAMA1_00007
+    21300358: N_ATTACK_XAMA1_00008
+    21300360: N_ATTACK_XAMA1_00009
+    21300362: N_ATTACK_XAMA1_00010
+    21300364: N_ATTACK_XAMA1_00011
+    21300366: N_ATTACK_XAMA1_00012
+    21300368: N_ATTACK_XAMA1_00013
+    21300370: N_ATTACK_XAMA2_00001
+    21300372: N_ATTACK_XAMA2_00002
+    21300374: N_ATTACK_XAMA2_00003
+    21300376: N_ATTACK_XAMA2_00004
+    21300378: N_ATTACK_XAMA2_00005
+    21300380: N_ATTACK_XAMA2_00006
+    21300382: N_ATTACK_XAMA2_00007
+    21300384: N_ATTACK_XAMA2_00008
+    21300386: N_ATTACK_XAMA2_00009
+    21300388: N_ATTACK_XAMA2_00010
+    21300390: N_ATTACK_XAMA2_00011
+    21300392: N_ATTACK_XAMA2_00012
+    21300394: N_ATTACK_XAMA2_00013
+    21300396: N_ATTACK_XAMA2_00014
+    21300398: N_ATTACK_XAMA3_00001
+    21300400: N_ATTACK_XAMA3_00002
+    21300402: N_ATTACK_XAMA3_00003
+    21300404: N_ATTACK_XAMA3_00004
+    21300406: N_ATTACK_XAMA3_00005
+    21300408: N_ATTACK_XAMA3_00006
+    21300410: N_ATTACK_XAMA3_00007
+    21300412: N_ATTACK_XAMA3_00008
+    21300414: N_ATTACK_XAMA3_00009
+    21300416: N_ATTACK_XAMA3_00010
+    21300418: N_ATTACK_XAMA3_00011
+    21300420: N_ATTACK_XAMA3_00012
+    21300422: N_ATTACK_XAMA3_00013
+    21300424: N_ATTACK_XAMA4_00001
+    21300426: N_ATTACK_XAMA4_00002
+    21300428: N_ATTACK_XAMA4_00003
+    21300430: N_ATTACK_XAMA4_00004
+    21300432: N_ATTACK_XAMA4_00005
+    21300434: N_ATTACK_XAMA4_00006
+    21300436: N_ATTACK_XAMA4_00007
+    21300438: N_ATTACK_XAMA4_00008
+    21300440: N_ATTACK_XAMA4_00009
+    21300442: N_ATTACK_XAMA4_00010
+    21300444: N_ATTACK_XAMA4_00011
+    21300446: N_ATTACK_XAMA4_00012
+    21300448: N_ATTACK_XAMA4_00013
+    21300450: O_DIE_XAMA1_00001
+    21300452: O_DIE_XAMA1_00002
+    21300454: O_DIE_XAMA1_00003
+    21300456: O_DIE_XAMA1_00004
+    21300458: O_DIE_XAMA1_00005
+    21300460: O_DIE_XAMA1_00006
+    21300462: O_DIE_XAMA1_00007
+    21300464: O_DIE_XAMA1_00008
+    21300466: O_DIE_XAMA1_00009
+    21300468: O_DIE_XAMA1_00010
+    21300470: O_DIE_XAMA1_00011
+    21300472: O_DIE_XAMA1_00012
+    21300474: O_DIE_XAMA1_00013
+    21300476: O_DIE_XAMA1_00014
+    21300478: O_DIE_XAMA1_00015
+    21300480: O_DIE_XAMA1_00016
+    21300482: O_DIE_XAMA2_00001
+    21300484: O_DIE_XAMA2_00002
+    21300486: O_DIE_XAMA2_00003
+    21300488: O_DIE_XAMA2_00004
+    21300490: O_DIE_XAMA2_00005
+    21300492: O_DIE_XAMA2_00006
+    21300494: O_DIE_XAMA2_00007
+    21300496: O_DIE_XAMA2_00008
+    21300498: O_DIE_XAMA2_00009
+    21300500: O_DIE_XAMA2_00010
+    21300502: O_DIE_XAMA2_00011
+    21300504: O_DIE_XAMA2_00012
+    21300506: O_DIE_XAMA2_00013
+    21300508: O_DIE_XAMA2_00014
+    21300510: O_DIE_XAMA2_00015
+    21300512: O_DIE_XAMA2_00016
+    21300514: O_DIE_XAMA3_00001
+    21300516: O_DIE_XAMA3_00002
+    21300518: O_DIE_XAMA3_00003
+    21300520: O_DIE_XAMA3_00004
+    21300522: O_DIE_XAMA3_00005
+    21300524: O_DIE_XAMA3_00006
+    21300526: O_DIE_XAMA3_00007
+    21300528: O_DIE_XAMA3_00008
+    21300530: O_DIE_XAMA3_00009
+    21300532: O_DIE_XAMA3_00010
+    21300534: O_DIE_XAMA3_00011
+    21300536: O_DIE_XAMA3_00012
+    21300538: O_DIE_XAMA3_00013
+    21300540: O_DIE_XAMA3_00014
+    21300542: O_DIE_XAMA3_00015
+    21300544: O_DIE_XAMA3_00016
+    21300546: O_DIE_XAMA4_00001
+    21300548: O_DIE_XAMA4_00002
+    21300550: O_DIE_XAMA4_00003
+    21300552: O_DIE_XAMA4_00004
+    21300554: O_DIE_XAMA4_00005
+    21300556: O_DIE_XAMA4_00006
+    21300558: O_DIE_XAMA4_00007
+    21300560: O_DIE_XAMA4_00008
+    21300562: O_DIE_XAMA4_00009
+    21300564: O_DIE_XAMA4_00010
+    21300566: O_DIE_XAMA4_00011
+    21300568: O_DIE_XAMA4_00012
+    21300570: O_DIE_XAMA4_00013
+    21300572: O_DIE_XAMA4_00014
+    21300574: O_DIE_XAMA4_00015
+    21300576: O_DIE_XAMA4_00016
+    21300578: XAMA1_ATACK_00001
+    21300580: XAMA1_ATACK_00002
+    21300582: XAMA1_ATACK_00003
+    21300584: XAMA1_ATACK_00004
+    21300586: XAMA1_ATACK_00005
+    21300588: XAMA1_ATACK_00006
+    21300590: XAMA1_ATACK_00007
+    21300592: XAMA1_ATACK_00008
+    21300594: XAMA1_ATACK_00009
+    21300596: XAMA1_ATACK_00010
+    21300598: XAMA1_ATACK_00011
+    21300600: XAMA1_COSTAS_00001
+    21300602: XAMA1_COSTAS_00002
+    21300604: XAMA1_COSTAS_00003
+    21300606: XAMA1_COSTAS_00004
+    21300608: XAMA1_COSTAS_00005
+    21300610: XAMA1_COSTAS_00006
+    21300612: XAMA1_COSTAS_00007
+    21300614: XAMA1_COSTAS_00008
+    21300616: XAMA1_COSTAS_00009
+    21300618: XAMA1_COSTAS_00010
+    21300620: XAMA1_COSTAS_00011
+    21300622: XAMA1_COSTAS_00012
+    21300624: XAMA1_COSTAS_00013
+    21300626: XAMA1_COSTAS_00014
+    21300628: XAMA1_DIE_00001
+    21300630: XAMA1_DIE_00002
+    21300632: XAMA1_DIE_00003
+    21300634: XAMA1_DIE_00004
+    21300636: XAMA1_DIE_00005
+    21300638: XAMA1_DIE_00006
+    21300640: XAMA1_DIE_00007
+    21300642: XAMA1_DIE_00008
+    21300644: XAMA1_DIE_00009
+    21300646: XAMA1_DIE_00010
+    21300648: XAMA1_DIE_00011
+    21300650: XAMA1_DIE_00012
+    21300652: XAMA1_DIE_00013
+    21300654: XAMA1_DIE_00014
+    21300656: XAMA1_DIE_00015
+    21300658: XAMA1_FRENTE_00001
+    21300660: XAMA1_FRENTE_00002
+    21300662: XAMA1_FRENTE_00003
+    21300664: XAMA1_FRENTE_00004
+    21300666: XAMA1_FRENTE_00005
+    21300668: XAMA1_FRENTE_00006
+    21300670: XAMA1_FRENTE_00007
+    21300672: XAMA1_FRENTE_00008
+    21300674: XAMA1_FRENTE_00009
+    21300676: XAMA1_FRENTE_00010
+    21300678: XAMA1_FRENTE_00011
+    21300680: XAMA1_FRENTE_00012
+    21300682: XAMA1_FRENTE_00013
+    21300684: XAMA1_FRENTE_00014
+    21300686: XAMA1_LADO_00001
+    21300688: XAMA1_LADO_00002
+    21300690: XAMA1_LADO_00003
+    21300692: XAMA1_LADO_00004
+    21300694: XAMA1_LADO_00005
+    21300696: XAMA1_LADO_00006
+    21300698: XAMA1_LADO_00007
+    21300700: XAMA1_LADO_00008
+    21300702: XAMA1_LADO_00009
+    21300704: XAMA1_LADO_00010
+    21300706: XAMA1_LADO_00011
+    21300708: XAMA1_LADO_00012
+    21300710: XAMA1_LADO_00013
+    21300712: XAMA1_LADO_00014
+    21300714: XAMA1_STILL1
+    21300716: XAMA1_STILL2
+    21300718: XAMA2_ATACK_00001
+    21300720: XAMA2_ATACK_00002
+    21300722: XAMA2_ATACK_00003
+    21300724: XAMA2_ATACK_00004
+    21300726: XAMA2_ATACK_00005
+    21300728: XAMA2_ATACK_00006
+    21300730: XAMA2_ATACK_00007
+    21300732: XAMA2_ATACK_00008
+    21300734: XAMA2_ATACK_00009
+    21300736: XAMA2_ATACK_00010
+    21300738: XAMA2_ATACK_00011
+    21300740: XAMA2_COSTAS_00001
+    21300742: XAMA2_COSTAS_00002
+    21300744: XAMA2_COSTAS_00003
+    21300746: XAMA2_COSTAS_00004
+    21300748: XAMA2_COSTAS_00005
+    21300750: XAMA2_COSTAS_00006
+    21300752: XAMA2_COSTAS_00007
+    21300754: XAMA2_COSTAS_00008
+    21300756: XAMA2_COSTAS_00009
+    21300758: XAMA2_COSTAS_00010
+    21300760: XAMA2_COSTAS_00011
+    21300762: XAMA2_COSTAS_00012
+    21300764: XAMA2_COSTAS_00013
+    21300766: XAMA2_COSTAS_00014
+    21300768: XAMA2_DIE_00001
+    21300770: XAMA2_DIE_00002
+    21300772: XAMA2_DIE_00003
+    21300774: XAMA2_DIE_00004
+    21300776: XAMA2_DIE_00005
+    21300778: XAMA2_DIE_00006
+    21300780: XAMA2_DIE_00007
+    21300782: XAMA2_DIE_00008
+    21300784: XAMA2_DIE_00009
+    21300786: XAMA2_DIE_00010
+    21300788: XAMA2_DIE_00011
+    21300790: XAMA2_DIE_00012
+    21300792: XAMA2_DIE_00013
+    21300794: XAMA2_DIE_00014
+    21300796: XAMA2_DIE_00015
+    21300798: XAMA2_FRENTE_00001
+    21300800: XAMA2_FRENTE_00002
+    21300802: XAMA2_FRENTE_00003
+    21300804: XAMA2_FRENTE_00004
+    21300806: XAMA2_FRENTE_00005
+    21300808: XAMA2_FRENTE_00006
+    21300810: XAMA2_FRENTE_00007
+    21300812: XAMA2_FRENTE_00008
+    21300814: XAMA2_FRENTE_00009
+    21300816: XAMA2_FRENTE_00010
+    21300818: XAMA2_FRENTE_00011
+    21300820: XAMA2_FRENTE_00012
+    21300822: XAMA2_FRENTE_00013
+    21300824: XAMA2_FRENTE_00014
+    21300826: XAMA2_LADO_00001
+    21300828: XAMA2_LADO_00002
+    21300830: XAMA2_LADO_00003
+    21300832: XAMA2_LADO_00004
+    21300834: XAMA2_LADO_00005
+    21300836: XAMA2_LADO_00006
+    21300838: XAMA2_LADO_00007
+    21300840: XAMA2_LADO_00008
+    21300842: XAMA2_LADO_00009
+    21300844: XAMA2_LADO_00010
+    21300846: XAMA2_LADO_00011
+    21300848: XAMA2_LADO_00012
+    21300850: XAMA2_LADO_00013
+    21300852: XAMA2_LADO_00014
+    21300854: XAMA2_STILL1
+    21300856: XAMA2_STILL2
+    21300858: XAMA3_ATACK_00001
+    21300860: XAMA3_ATACK_00002
+    21300862: XAMA3_ATACK_00003
+    21300864: XAMA3_ATACK_00004
+    21300866: XAMA3_ATACK_00005
+    21300868: XAMA3_ATACK_00006
+    21300870: XAMA3_ATACK_00007
+    21300872: XAMA3_ATACK_00008
+    21300874: XAMA3_ATACK_00009
+    21300876: XAMA3_ATACK_00010
+    21300878: XAMA3_ATACK_00011
+    21300880: XAMA3_COSTAS_00001
+    21300882: XAMA3_COSTAS_00002
+    21300884: XAMA3_COSTAS_00003
+    21300886: XAMA3_COSTAS_00004
+    21300888: XAMA3_COSTAS_00005
+    21300890: XAMA3_COSTAS_00006
+    21300892: XAMA3_COSTAS_00007
+    21300894: XAMA3_COSTAS_00008
+    21300896: XAMA3_COSTAS_00009
+    21300898: XAMA3_COSTAS_00010
+    21300900: XAMA3_COSTAS_00011
+    21300902: XAMA3_COSTAS_00012
+    21300904: XAMA3_COSTAS_00013
+    21300906: XAMA3_COSTAS_00014
+    21300908: XAMA3_DIE_00001
+    21300910: XAMA3_DIE_00002
+    21300912: XAMA3_DIE_00003
+    21300914: XAMA3_DIE_00004
+    21300916: XAMA3_DIE_00005
+    21300918: XAMA3_DIE_00006
+    21300920: XAMA3_DIE_00007
+    21300922: XAMA3_DIE_00008
+    21300924: XAMA3_DIE_00009
+    21300926: XAMA3_DIE_00010
+    21300928: XAMA3_DIE_00011
+    21300930: XAMA3_DIE_00012
+    21300932: XAMA3_DIE_00013
+    21300934: XAMA3_DIE_00014
+    21300936: XAMA3_DIE_00015
+    21300938: XAMA3_FRENTE_00001
+    21300940: XAMA3_FRENTE_00002
+    21300942: XAMA3_FRENTE_00003
+    21300944: XAMA3_FRENTE_00004
+    21300946: XAMA3_FRENTE_00005
+    21300948: XAMA3_FRENTE_00006
+    21300950: XAMA3_FRENTE_00007
+    21300952: XAMA3_FRENTE_00008
+    21300954: XAMA3_FRENTE_00009
+    21300956: XAMA3_FRENTE_00010
+    21300958: XAMA3_FRENTE_00011
+    21300960: XAMA3_FRENTE_00012
+    21300962: XAMA3_FRENTE_00013
+    21300964: XAMA3_FRENTE_00014
+    21300966: XAMA3_LADO_00001
+    21300968: XAMA3_LADO_00002
+    21300970: XAMA3_LADO_00003
+    21300972: XAMA3_LADO_00004
+    21300974: XAMA3_LADO_00005
+    21300976: XAMA3_LADO_00006
+    21300978: XAMA3_LADO_00007
+    21300980: XAMA3_LADO_00008
+    21300982: XAMA3_LADO_00009
+    21300984: XAMA3_LADO_00010
+    21300986: XAMA3_LADO_00011
+    21300988: XAMA3_LADO_00012
+    21300990: XAMA3_LADO_00013
+    21300992: XAMA3_LADO_00014
+    21300994: XAMA3_STILL1
+    21300996: XAMA3_STILL2
+    21300998: XAMA4_ATACK_00001
+    21301000: XAMA4_ATACK_00002
+    21301002: XAMA4_ATACK_00003
+    21301004: XAMA4_ATACK_00004
+    21301006: XAMA4_ATACK_00005
+    21301008: XAMA4_ATACK_00006
+    21301010: XAMA4_ATACK_00007
+    21301012: XAMA4_ATACK_00008
+    21301014: XAMA4_ATACK_00009
+    21301016: XAMA4_ATACK_00010
+    21301018: XAMA4_ATACK_00011
+    21301020: XAMA4_COSTAS_00001
+    21301022: XAMA4_COSTAS_00002
+    21301024: XAMA4_COSTAS_00003
+    21301026: XAMA4_COSTAS_00004
+    21301028: XAMA4_COSTAS_00005
+    21301030: XAMA4_COSTAS_00006
+    21301032: XAMA4_COSTAS_00007
+    21301034: XAMA4_COSTAS_00008
+    21301036: XAMA4_COSTAS_00009
+    21301038: XAMA4_COSTAS_00010
+    21301040: XAMA4_COSTAS_00011
+    21301042: XAMA4_COSTAS_00012
+    21301044: XAMA4_COSTAS_00013
+    21301046: XAMA4_COSTAS_00014
+    21301048: XAMA4_DIE_00001
+    21301050: XAMA4_DIE_00002
+    21301052: XAMA4_DIE_00003
+    21301054: XAMA4_DIE_00004
+    21301056: XAMA4_DIE_00005
+    21301058: XAMA4_DIE_00006
+    21301060: XAMA4_DIE_00007
+    21301062: XAMA4_DIE_00008
+    21301064: XAMA4_DIE_00009
+    21301066: XAMA4_DIE_00010
+    21301068: XAMA4_DIE_00011
+    21301070: XAMA4_DIE_00012
+    21301072: XAMA4_DIE_00013
+    21301074: XAMA4_DIE_00014
+    21301076: XAMA4_DIE_00015
+    21301078: XAMA4_FRENTE_00001
+    21301080: XAMA4_FRENTE_00002
+    21301082: XAMA4_FRENTE_00003
+    21301084: XAMA4_FRENTE_00004
+    21301086: XAMA4_FRENTE_00005
+    21301088: XAMA4_FRENTE_00006
+    21301090: XAMA4_FRENTE_00007
+    21301092: XAMA4_FRENTE_00008
+    21301094: XAMA4_FRENTE_00009
+    21301096: XAMA4_FRENTE_00010
+    21301098: XAMA4_FRENTE_00011
+    21301100: XAMA4_FRENTE_00012
+    21301102: XAMA4_FRENTE_00013
+    21301104: XAMA4_FRENTE_00014
+    21301106: XAMA4_LADO_00001
+    21301108: XAMA4_LADO_00002
+    21301110: XAMA4_LADO_00003
+    21301112: XAMA4_LADO_00004
+    21301114: XAMA4_LADO_00005
+    21301116: XAMA4_LADO_00006
+    21301118: XAMA4_LADO_00007
+    21301120: XAMA4_LADO_00008
+    21301122: XAMA4_LADO_00009
+    21301124: XAMA4_LADO_00010
+    21301126: XAMA4_LADO_00011
+    21301128: XAMA4_LADO_00012
+    21301130: XAMA4_LADO_00013
+    21301132: XAMA4_LADO_00014
+    21301134: XAMA4_STILL1 copy
+    21301136: XAMA4_STILL1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: XAMA1_ATACK_00001
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1943
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_ATACK_00002
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1943
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_ATACK_00003
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1943
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_ATACK_00004
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1943
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_ATACK_00005
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1943
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_ATACK_00006
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1943
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_ATACK_00007
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1943
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_ATACK_00008
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1943
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_ATACK_00009
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1943
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_ATACK_00010
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1943
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_ATACK_00011
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1943
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_COSTAS_00001
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 1943
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_COSTAS_00002
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1943
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_COSTAS_00003
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1943
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_COSTAS_00004
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1943
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_COSTAS_00005
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1943
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_COSTAS_00006
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1838
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_COSTAS_00007
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1733
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_COSTAS_00008
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1628
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_COSTAS_00009
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1523
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_COSTAS_00010
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1418
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_COSTAS_00011
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1313
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_COSTAS_00012
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1208
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_COSTAS_00013
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1103
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_COSTAS_00014
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 998
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_DIE_00001
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 893
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_DIE_00002
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 788
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_DIE_00003
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 683
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_DIE_00004
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 578
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_DIE_00005
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 473
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_DIE_00006
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 368
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_DIE_00007
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 263
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_DIE_00008
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 158
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_DIE_00009
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 53
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_DIE_00010
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1838
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_DIE_00011
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1838
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_DIE_00012
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1838
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_DIE_00013
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1838
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_DIE_00014
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1838
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_DIE_00015
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1838
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_FRENTE_00001
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1838
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_FRENTE_00002
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1838
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_FRENTE_00003
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1838
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_FRENTE_00004
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1838
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_FRENTE_00005
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 1838
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_FRENTE_00006
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1838
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_FRENTE_00007
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1838
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_FRENTE_00008
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1838
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_FRENTE_00009
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1838
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_FRENTE_00010
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1733
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_FRENTE_00011
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1628
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_FRENTE_00012
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1523
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_FRENTE_00013
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1418
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_FRENTE_00014
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1313
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_LADO_00001
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1208
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_LADO_00002
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1103
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_LADO_00003
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 998
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_LADO_00004
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 893
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_LADO_00005
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 788
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_LADO_00006
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 683
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_LADO_00007
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 578
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_LADO_00008
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 473
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_LADO_00009
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 368
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_LADO_00010
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 263
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_LADO_00011
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 158
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_LADO_00012
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 53
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_LADO_00013
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1733
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_LADO_00014
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1733
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_STILL1
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1733
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA1_STILL2
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1733
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_ATACK_00001
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1733
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_ATACK_00002
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1733
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_ATACK_00003
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1733
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_ATACK_00004
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1733
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_ATACK_00005
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1733
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_ATACK_00006
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1733
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_ATACK_00007
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 1733
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_ATACK_00008
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1733
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_ATACK_00009
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1733
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_ATACK_00010
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1733
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_ATACK_00011
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1733
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_COSTAS_00001
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1628
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_COSTAS_00002
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1523
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_COSTAS_00003
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1418
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_COSTAS_00004
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1313
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_COSTAS_00005
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1208
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_COSTAS_00006
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1103
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_COSTAS_00007
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 998
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_COSTAS_00008
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 893
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_COSTAS_00009
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 788
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_COSTAS_00010
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 683
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_COSTAS_00011
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 578
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_COSTAS_00012
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 473
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_COSTAS_00013
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 368
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_COSTAS_00014
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 263
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_DIE_00001
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 158
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_DIE_00002
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 53
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_DIE_00003
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1628
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_DIE_00004
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1628
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_DIE_00005
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1628
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_DIE_00006
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1628
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_DIE_00007
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1628
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_DIE_00008
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1628
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_DIE_00009
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1628
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_DIE_00010
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1628
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_DIE_00011
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 1628
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_DIE_00012
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1628
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_DIE_00013
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1628
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_DIE_00014
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1628
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_DIE_00015
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1628
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_FRENTE_00001
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1523
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_FRENTE_00002
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1418
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_FRENTE_00003
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1313
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_FRENTE_00004
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1208
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_FRENTE_00005
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1103
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_FRENTE_00006
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 998
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_FRENTE_00007
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 893
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_FRENTE_00008
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 788
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_FRENTE_00009
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 683
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_FRENTE_00010
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 578
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_FRENTE_00011
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 473
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_FRENTE_00012
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 368
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_FRENTE_00013
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 263
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_FRENTE_00014
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 158
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_LADO_00001
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 53
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_LADO_00002
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1523
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_LADO_00003
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1523
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_LADO_00004
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1523
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_LADO_00005
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1523
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_LADO_00006
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1523
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_LADO_00007
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1523
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_LADO_00008
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1523
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_LADO_00009
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 1523
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_LADO_00010
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1523
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_LADO_00011
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1523
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_LADO_00012
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1523
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_LADO_00013
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1523
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_LADO_00014
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1418
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_STILL1
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1418
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA2_STILL2
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1418
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_ATACK_00001
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1418
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_ATACK_00002
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1418
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_ATACK_00003
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1418
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_ATACK_00004
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1418
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_ATACK_00005
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1418
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_ATACK_00006
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 1418
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_ATACK_00007
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1418
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_ATACK_00008
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1418
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_ATACK_00009
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1418
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_ATACK_00010
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1418
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_ATACK_00011
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1313
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_COSTAS_00001
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1208
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_COSTAS_00002
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1103
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_COSTAS_00003
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 998
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_COSTAS_00004
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 893
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_COSTAS_00005
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 788
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_COSTAS_00006
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 683
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_COSTAS_00007
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 578
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_COSTAS_00008
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 473
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_COSTAS_00009
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 368
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_COSTAS_00010
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 263
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_COSTAS_00011
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 158
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_COSTAS_00012
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 53
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_COSTAS_00013
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1313
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_COSTAS_00014
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1313
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_DIE_00001
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1313
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_DIE_00002
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1313
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_DIE_00003
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1313
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_DIE_00004
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1313
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_DIE_00005
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 1313
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_DIE_00006
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1313
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_DIE_00007
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1313
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_DIE_00008
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1313
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_DIE_00009
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1313
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_DIE_00010
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1208
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_DIE_00011
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1103
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_DIE_00012
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 998
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_DIE_00013
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 893
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_DIE_00014
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 788
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_DIE_00015
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 683
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_FRENTE_00001
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 578
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_FRENTE_00002
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 473
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_FRENTE_00003
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 368
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_FRENTE_00004
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 263
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_FRENTE_00005
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 158
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_FRENTE_00006
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 53
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_FRENTE_00007
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1208
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_FRENTE_00008
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1208
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_FRENTE_00009
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1208
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_FRENTE_00010
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1208
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_FRENTE_00011
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1208
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_FRENTE_00012
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 1208
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_FRENTE_00013
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1208
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_FRENTE_00014
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1208
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_LADO_00001
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1208
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_LADO_00002
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1208
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_LADO_00003
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1103
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_LADO_00004
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 998
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_LADO_00005
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 893
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_LADO_00006
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 788
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_LADO_00007
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 683
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_LADO_00008
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 578
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_LADO_00009
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 473
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_LADO_00010
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 368
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_LADO_00011
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 263
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_LADO_00012
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 158
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_LADO_00013
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 53
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_LADO_00014
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1103
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_STILL1
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1103
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA3_STILL2
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1103
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_ATACK_00001
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1103
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_ATACK_00002
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1103
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_ATACK_00003
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 1103
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_ATACK_00004
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1103
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_ATACK_00005
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1103
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_ATACK_00006
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1103
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_ATACK_00007
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1103
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_ATACK_00008
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 998
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_ATACK_00009
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 893
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_ATACK_00010
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 788
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_ATACK_00011
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 683
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_COSTAS_00001
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 578
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_COSTAS_00002
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 473
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_COSTAS_00003
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 368
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_COSTAS_00004
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 263
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_COSTAS_00005
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 158
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_COSTAS_00006
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 53
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_COSTAS_00007
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 998
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_COSTAS_00008
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 998
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_COSTAS_00009
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 998
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_COSTAS_00010
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 998
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_COSTAS_00011
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 998
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_COSTAS_00012
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 998
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_COSTAS_00013
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 998
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_COSTAS_00014
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 998
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_DIE_00001
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 893
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_DIE_00002
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 788
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_DIE_00003
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 683
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_DIE_00004
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 578
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_DIE_00005
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 473
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_DIE_00006
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 368
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_DIE_00007
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 263
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_DIE_00008
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 158
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_DIE_00009
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 53
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_DIE_00010
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 893
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_DIE_00011
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 893
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_DIE_00012
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 893
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_DIE_00013
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 893
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_DIE_00014
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 893
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_DIE_00015
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 893
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_FRENTE_00001
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 893
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_FRENTE_00002
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 788
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_FRENTE_00003
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 683
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_FRENTE_00004
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 578
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_FRENTE_00005
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 473
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_FRENTE_00006
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 368
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_FRENTE_00007
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 263
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_FRENTE_00008
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 158
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_FRENTE_00009
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 53
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_FRENTE_00010
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 788
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_FRENTE_00011
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 788
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_FRENTE_00012
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 788
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_FRENTE_00013
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 788
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_FRENTE_00014
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 788
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_LADO_00001
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 788
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_LADO_00002
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 683
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_LADO_00003
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 683
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_LADO_00004
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 683
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_LADO_00005
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 683
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_LADO_00006
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 683
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_LADO_00007
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 683
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_LADO_00008
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 578
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_LADO_00009
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 473
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_LADO_00010
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 368
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_LADO_00011
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 263
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_LADO_00012
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 158
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_LADO_00013
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 53
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_LADO_00014
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 578
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_STILL1 copy
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 578
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA4_STILL1
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 578
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

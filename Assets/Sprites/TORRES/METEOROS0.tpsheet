@@ -1,0 +1,52 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: METEOROS0.png (512 x 512)
+# $TexturePacker:SmartUpdate:4f176047cf4b07bd3cb2375ba1c45553:e67cf81488ea5ba96e3031716d1d9742:dd92d1ab25f393f9482842da2801ffe0$
+#
+
+Explosao_meteoro_01;341;422;27;19;0.5;0
+Explosao_meteoro_02;84;5;63;46;0.5;0
+Explosao_meteoro_03;2;115;88;65;0.5;0
+Explosao_meteoro_04;210;185;95;65;0.5;0
+Explosao_meteoro_05;355;218;95;72;0.5;0
+Explosao_meteoro_06;253;252;100;76;0.5;0
+Explosao_meteoro_07;264;330;103;75;0.5;0
+Explosao_meteoro_08;2;256;106;77;0.5;0
+Explosao_meteoro_09;2;182;96;72;0.5;0
+Explosao_meteoro_10;100;149;88;68;0.5;0
+Explosao_meteoro_11;2;48;75;65;0.5;0
+Meteoro_01;175;407;164;34;0.5;0
+Meteoro_02;2;407;171;34;0.5;0
+Meteoro_03;2;443;174;32;0.5;0
+Meteoro_04;188;478;180;32;0.5;0
+Meteoro_05;188;443;179;33;0.5;0
+Meteoro_06;2;477;184;33;0.5;0
+Meteoro_Chao_01;370;440;131;70;0.5;0
+Meteoro_Chao_02;370;368;131;70;0.5;0
+Meteoro_Chao_03;2;335;131;70;0.5;0
+Meteoro_Chao_04;370;368;131;70;0.5;0
+Meteoro_Chao_05;370;440;131;70;0.5;0
+Meteoro_Chao_06;370;368;131;70;0.5;0
+Meteoro_Chao_07;2;335;131;70;0.5;0
+Meteoro_Chao_08;370;368;131;70;0.5;0
+Meteoro_Chao_09;370;440;131;70;0.5;0
+Meteoro_Chao_10;370;368;131;70;0.5;0
+Meteoro_Chao_11;2;335;131;70;0.5;0
+Meteoro_Chao_12;135;337;127;68;0.5;0
+Meteoro_Chao_13;135;273;116;62;0.5;0
+Meteoro_Chao_14;110;219;98;52;0.5;0
+Meteoro_Chao_15;2;3;80;43;0.5;0
+Meteoro_Fumaça_01;452;203;54;35;0.5;0
+Meteoro_Fumaça_02;383;176;63;40;0.5;0
+Meteoro_Fumaça_03;315;173;66;43;0.5;0
+Meteoro_Fumaça_04;149;6;70;45;0.5;0
+Meteoro_Fumaça_05;162;88;74;59;0.5;0
+Meteoro_Fumaça_06;238;125;75;58;0.5;0
+Meteoro_Fumaça_07;221;28;78;58;0.5;0
+Meteoro_Fumaça_08;79;53;81;60;0.5;0
+Meteoro_Fumaça_09;452;240;55;50;0.5;0
+Meteoros_Marcacao;369;292;105;74;0.5;0

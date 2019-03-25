@@ -1,0 +1,393 @@
+fileFormatVersion: 2
+guid: 4cae786d41de7ff4fb01d7295c05d052
+timeCreated: 1461692715
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ATRIBUTOS_JESUITA
+    21300002: ATRIBUTOS_JUREMA
+    21300004: ATRIBUTOS_NEENGUIRU
+    21300006: ATRIBUTOS_SEPE
+    21300008: ATRIBUTOS_XAMA
+    21300010: Agrupar 2 copy
+    21300012: BOX_TEXTO
+    21300014: CONFIRMAR
+    21300016: "HALL DO HER\uFFFDI"
+    21300018: "HALL DO HER\uFFFDI_MOCKUP"
+    21300020: JESUITA
+    21300022: JUREMA
+    21300024: MINI_CADEADO
+    21300026: MINI_JESUITA_SELECT
+    21300028: MINI_JESUITA_UNSELECT
+    21300030: MINI_JU_SELECT
+    21300032: MINI_JU_UNSELECT
+    21300034: MINI_NEENGUIRU_SELECT
+    21300036: MINI_NEENGUIRU_UNSELECT
+    21300038: MINI_SEPE_SELECT
+    21300040: MINI_SEPE_UNSELECT
+    21300042: "MINI_XAM\uFFFD_SELECT"
+    21300044: "MINI_XAM\uFFFD_UNSELECT"
+    21300046: NEENGUIRU
+    21300048: SEPE
+    21300050: TEXTO_JESUITA
+    21300052: TEXTO_JUREMA
+    21300054: TEXTO_NEENGUIRU
+    21300056: TEXTO_SEPE
+    21300058: TEXTO_XAMA
+    21300060: X copy
+    21300062: XAMA
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: ATRIBUTOS_JESUITA
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 281
+        width: 433
+        height: 141
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ATRIBUTOS_JUREMA
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 138
+        width: 433
+        height: 141
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ATRIBUTOS_NEENGUIRU
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 1185
+        width: 433
+        height: 141
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ATRIBUTOS_SEPE
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 1042
+        width: 433
+        height: 141
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ATRIBUTOS_XAMA
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 899
+        width: 433
+        height: 141
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BOX_TEXTO
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 436
+        width: 507
+        height: 687
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CONFIRMAR
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 89
+        width: 301
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "HALL DO HER\uFFFDI"
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1125
+        width: 814
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JESUITA
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1347
+        width: 523
+        height: 699
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JUREMA
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1347
+        width: 540
+        height: 699
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MINI_CADEADO
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1151
+        width: 167
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MINI_JESUITA_SELECT
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 703
+        width: 167
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MINI_JESUITA_UNSELECT
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 507
+        width: 167
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MINI_JU_SELECT
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 703
+        width: 167
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MINI_JU_UNSELECT
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 507
+        width: 167
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MINI_NEENGUIRU_SELECT
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 703
+        width: 167
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MINI_NEENGUIRU_UNSELECT
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 507
+        width: 167
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MINI_SEPE_SELECT
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 311
+        width: 167
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MINI_SEPE_UNSELECT
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 311
+        width: 167
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "MINI_XAM\uFFFD_SELECT"
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 115
+        width: 167
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "MINI_XAM\uFFFD_UNSELECT"
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 115
+        width: 167
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NEENGUIRU
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 592
+        width: 504
+        height: 699
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SEPE
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1293
+        width: 509
+        height: 753
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TEXTO_JESUITA
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1664
+        width: 463
+        height: 382
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TEXTO_JUREMA
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 123
+        width: 393
+        height: 299
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TEXTO_NEENGUIRU
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 185
+        width: 405
+        height: 405
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TEXTO_SEPE
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1328
+        width: 442
+        height: 334
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TEXTO_XAMA
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 142
+        width: 439
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: X copy
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 4
+        width: 135
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XAMA
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 424
+        width: 504
+        height: 699
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
